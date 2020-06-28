@@ -1,0 +1,793 @@
+" 
+ FANG v THE MINISTRY OF BUSINESS, INNOVATION AND EMPLOYMENT [2017] NZCA 190  
+[19 May 2017]       
+ 
+IN THE COURT OF APPEAL OF NEW ZEALAND 
+ 
+CA369/2016 
+[2017] NZCA 190 
+ 
+ 
+BETWEEN 
+ 
+MINGBO FANG 
+Appellant 
+ 
+AND 
+ 
+THE MINISTRY OF BUSINESS, 
+INNOVATION AND EMPLOYMENT 
+Respondent 
+ 
+CA370/2016 
+ 
+ 
+BETWEEN 
+ 
+THE CHIEF EXECUTIVE OF THE 
+MINISTRY OF BUSINESS, 
+INNOVATION AND EMPLOYMENT 
+Appellant 
+ 
+AND 
+ 
+DEFANG DONG 
+Respondent 
+ 
+CA423/2016 
+ 
+ 
+BETWEEN 
+ 
+MINISTRY OF BUSINESS, 
+INNOVATION AND EMPLOYMENT 
+Appellant 
+ 
+AND 
+ 
+ZHIWEI LI 
+Respondent 
+ 
+ 
+Hearing: 
+ 
+28 February 2017 
+ 
+Court: 
+ 
+Kós P, Winkelmann and Brown JJ 
+ 
+Counsel: 
+ 
+I C Carter and N Fong for the Ministry of Business, Innovation 
+and Employment and its Chief Executive 
+D Zhang for Mr Fang and Mr Dong 
+S M Kilian for Mr Li 
+ 
+Judgment: 
+ 
+19 May 2017 at 12.30 pm  
+ 
+   JUDGMENT OF THE COURT 
+ 
+A The  appeal  in  CA369/2016  is  allowed.  The decision  is  to  be  remitted 
+back to the Ministry of Business, Innovation and Employment to enable 
+the  immigration  officer  who  had  the  conduct  of  the  deportation  process 
+to comply with the obligation under s 177(5) as set out in this judgment.  B  The appeal in CA370/2016 is allowed in part.  The interim order staying 
+Mr Dong's  deportation  pending   the   remission   back   to   the   relevant 
+immigration officer is set aside. 
+C The appeal in CA423/2016 is dismissed.   D The  Ministry of Business,  Innovation  and Employment must  pay  Mr  Li 
+costs  for  a  standard  appeal  on  a  band A  basis and usual  disbursements.  
+The   Ministry of   Business,   Innovation   and   Employment   must   pay 
+Messrs Fang and Dong together one set of costs for a standard appeal on 
+a band A basis and usual disbursements. 
+____________________________________________________________________ 
+ 
+Table of Contents 
+Para No 
+Introduction [1] The Record of Personal Circumstances form [5] Factual background [9] Mr Dong's interview [9] Mr Li's interview [13] Mr Fang's interview [16] The competing contentions [20] The Ministry's case [24] 
+The arguments for Messrs Fang, Dong and Li              [28] 
+Was the issue determined by this Court in Singh? [31] Interpretation of s 177(5)(b) [37] Text [39] 
+Purpose — the cross-check [53] Conclusion [62] Substantive relief [66] Section 177(5)(a) [73] Interim relief [78] Result [83] 
+    
+REASONS OF THE COURT 
+ 
+(Given by Brown J) 
+Introduction 
+[1] Although  the  discretion  of  an  immigration  officer  under  s  177(1)  of  the 
+Immigration  Act  2009  (the  2009  Act)  to  cancel  a  deportation  order  is  stated  to  be 
+absolute,1 the officer is nevertheless obliged to consider cancellation if the deportee 
+provides information concerning his or her personal circumstances which is relevant 
+to  New Zealand's international obligations.2  While  not  obliged  to  give  reasons  for 
+the decision to cancel or not cancel a deportation order,3 when an officer does have 
+regard to international obligations the officer is required by s 177(5) of the 2009 Act 
+to record both a "description of the international obligations" and "the facts about the 
+person's personal circumstances". 
+[2] At present, Immigration New Zealand's policy to comply with s 177(5) is to 
+have immigration officers conduct an interview with potential deportees and fill out 
+a Record of Personal Circumstances (RPC) form.4  This form is aimed at eliciting a 
+wide  range  of  personal  information  about  the  person.    These  three  appeals  concern 
+the  question  whether  the  obligation  in  s 177(5)(b) to record "the facts about the 
+person's personal circumstances" is satisfied by the completion of that RPC form or 
+whether it  is  necessary  for  a  discrete  record  to  be  made  of  those  aspects  of  the 
+person's  personal  circumstances  which  are  specific  to  the  relevant  international 
+obligations. 
+[3] In Dong  v  The  Chief  Executive  of  the  Ministry  of  Business,  Innovation  and 
+Employment 5 and Li v Ministry of Business, Innovation and Employment6 it was held 
+by Davidson and Davison JJ respectively that  a specific record must be made.  The 
+Ministry  of  Business,  Innovation  and  Employment  and  its  Chief  Executive  (the 
+                                                 1  Absolute discretion is defined in s 11 of the Immigration Act 2009. 2  Immigration Act 2009, s 177(2). 3  Section 177(4)(a). 4  Discussed further at [5]–[8] below. 5  Dong  v  The  Chief  Executive  of  the  Ministry  of  Business,  Innovation  and  Employment [2016] 
+NZHC 1468, [2016] 3 NZLR 357. 6  Li v Ministry of Business, Innovation and Employment [2016] NZHC 1788.   Ministry)  appeal  those  decisions.    In Fang  v  The  Ministry  of  Business,  Innovation 
+and  Employment7 Duffy  J  was  similarly  of  the  opinion  that  a  specific  record  was 
+required  but,  because  she  considered  that  she  was  bound  by  the  decision  of  this 
+Court   in Singh   v   Chief   Executive,   Ministry of   Business,   Innovation   and 
+Employment,8 she ruled to the contrary and held that the completion of the RPC form 
+was sufficient.  Mr Fang appeals that decision. 
+[4] Hence the primary issues on appeal are whether Singh is determinative of the 
+question  and,  if  not,  the  correct  interpretation  of  s  177(5).   Irrespective of  the 
+outcome  of  the  appeals,  the  Ministry  also  seeks  to  have  set  aside  a  stay  of 
+deportation granted by Davidson J in Dong.9 
+The Record of Personal Circumstances form 
+[5] As noted above at [2], when a person is liable for deportation it is the policy 
+of Immigration New Zealand to conduct an interview with that person and complete 
+an RPC form.  It is not a prescribed form but, as the submissions of Mr Carter for the 
+Ministry explained,  was  designed  by  officials  with  the  aim  of  eliciting  all  relevant 
+information from a potential deportee. 
+[6] The RPC form spans 28 pages and comprises 13 sections:   
+ 
+A Record details 
+B Person's details 
+C Legal representation  
+D Caution 
+E  Custodial/Non-custodial departure 
+F Personal circumstances 
+G Personal background 
+H Details about the person's immigration status in New Zealand 
+I Person's family circumstances 
+J Children 
+                                                 7  Fang v The Ministry of Business, Innovation and Employment [2016] NZHC 1630. 8  Singh  (Kulbir)  v  Chief  Executive,  Ministry  of  Business,  Innovation  and  Employment [2015] 
+NZCA 592, [2016] NZAR 93. 9  Dong, above n 5, at [93].   K Employment history and financial factors 
+L Health and special needs 
+M Character 
+The  form  makes  provision  for  detailed  responses  and  specifies  that  documents  may 
+be attached. 
+[7] In section B, where the form requires an indication whether or not the person 
+liable for deportation is in custody, the person conducting the interview is directed to 
+inform  the  proposed  deportee  that  he  or  she  has  the  opportunity  to  provide  the 
+interviewer with information about his or her personal circumstances and that, if that 
+information is relevant to New Zealand's international obligations, the interviewer 
+must consider cancelling the deportation order.  
+[8] The final  page  of  the  RPC  form  headed  "Decision"  appears  designed  to 
+address the immigration officer's obligations under s 177(5).  This provides a tick-
+box to confirm that the person's personal circumstances  have  been  recorded  in  the 
+RPC  form.    It  then  requires  the  immigration  officer  to  indicate  whether  or  not  the 
+person's circumstances engage New Zealand's international obligations identified as 
+being  relevant  to  the  deportation  decision.    If  the  answer to  that  is  affirmative,  the 
+officer must list the obligations the officer has considered in making the decision.  In 
+all of the cases which have addressed s 177(5), immigration officers have utilised an 
+RPC form. 
+Factual background 
+Mr Dong's interview  
+[9] In December   2011   Mr   Dong   entered   New   Zealand   from   China   on   a 
+five-month temporary (student) visa which expired in April 2012.  He was arrested at 
+a  random  police  check-point  and  served  with  a  deportation  order  in  March  2016.  
+Mr Dong  was  interviewed  by  two  compliance  officers  via  an  interpreter  at  the 
+Christchurch Central police station on 18 March  2016, at which time the RPC form 
+was  completed.    Mr  Dong's  case  was  then  reallocated  to  a  second  immigration   officer for consideration who, on 20 April 2016, completed the "Decision" page and 
+determined not to cancel the deportation order. 
+[10] The  decision  commenced  with  the  pre-printed  statement,  answered  in  the 
+affirmative, that "the facts about the person's personal circumstances are recorded in 
+this  template".    The question  whether  Mr  Dong's  circumstances  engaged  New 
+Zealand's international obligations identified as being relevant to the deportation 
+decision was also answered in the affirmative.   
+[11] There  followed  a  handwritten  list  of  various  articles  of  the  International 
+Convention  on  Civil  and  Political  Rights  (ICCPR)10 and  the  International  Covenant 
+on  Economic,  Social  and  Cultural  Rights  (ICESCR).11  There  was  no  separate 
+statement   of   the   facts   which   were   considered   relevant   to   those   international 
+obligations. 
+[12] The decision concluded with the pre-printed statements: I  have  carefully  considered  the  person's  personal  circumstances  and  any 
+applicable international obligations.  
+I   am   not   obliged   to   provide   reasons   for   my   decision   by   virtue   of 
+section 177(4)(a) of the Immigration Act 2009. Mr Li's interview  
+[13] Mr Li arrived in New Zealand in November 2002 on a student visa.  After his 
+last  visa  expired  on  9  May  2010  he  remained  unlawfully  in  New  Zealand.    On 
+15 October 2012 Mr Li was charged with one count of obtaining an NZQA diploma 
+by  deception  and  on  the  same  day  was  served  with  a  deportation  order.    However, 
+two days later it was agreed that the enforcement of the deportation order would be 
+deferred  pending  determination  of  the  criminal  proceedings.    On  29 April 2015 
+Mr Li was found guilty on the charge.   
+[14] In  order  to  proceed  with  his  deportation  in  September  2015  Mr  Li  was 
+interviewed and an RPC form was completed.  Although the "Decision" page of the 
+                                                 10  Namely arts 17 and 23. 11  Articles 6, 7, 10, 11 and 13.   RPC  form  was  left  blank,  a  separate  five-page  document  was  prepared  which 
+followed the format of the standard Decision page.   
+[15] The decision commenced in the same manner as Mr Dong's.12  It then listed 
+60  items  of  information  said  to  be  attached  to  the  decision.    It  identified  as  the 
+international obligations to which regard had been had as being:   
+(a) three articles of the ICCPR;13 
+(b) seven articles of the ICESCR;14 
+(c) ten  articles  of  the  United  Nations  Convention  on  the  Rights  of  the 
+Child (UNCROC);15 
+It concluded with the same two pre-printed statements as in Mr Dong's case.16 
+Mr Fang's interview  
+[16] Mr  Fang  has  been  unlawfully  in  New  Zealand  since  his  visa  expired  in 
+May 2012.    In  August  2015  he  was  apprehended  for  a  traffic  offence,  taken  into 
+custody  and  served  with  a  deportation  order.    He  was  interviewed  at  the  Rotorua 
+police station on 17 August 2015 at which time an RPC form was completed.  
+[17] A  separate  two-page  decision  document  was  completed  by  an  immigration 
+officer  and  sent  to  Mr  Fang  via  his  counsel  on  24  August  2015.    The  letter 
+accompanying that decision stated that, in reaching the determination, the officer had 
+considered  the  information  provided  in  his  interview,  an  interview  with  Mr Fang's 
+partner, his counsel's oral submissions of 18 August 2015 and two sets of written 
+submissions dated 20 August 2015. 
+[18] The decision itself commenced with the following statement: 
+                                                 12  At [10] above.  13  Articles 17, 23 and 24.1. 14  Articles 6, 7, 9, 10, 10.3, 11 and 12. 15  Articles 3, 5, 7.1, 8, 12, 16, 18.1, 27.1, 27.2 and 28. 16  At [12] above.   The facts about Mingbo FANG's personal circumstances are recorded in the 
+Record of Personal Circumstances, the Interview with [Mr Fang's partner] 
+including  counsels  Oral  Submissions,  the  two  sets  of  submissions  dated 
+20 August  2015  which  included  [Mr  Fang's  partner's]  Certificate  of 
+Citizenship,  Country  Research  Branch  Information  received  in  Response to 
+my  request  of  18 August  2015  and  the  further  information  requested  on 
+20 August  2015  including  the  information  contained on  the  electronic  links 
+and the information contained on immigration file ... . Further information was said to be attached to the decision. 
+[19] The  question  concerning  New  Zealand's  international  obligations  was 
+answered in the affirmative.  Reference was then made to: 
+(a) two articles of the ICCPR;17 
+(b) seven articles of the ICESCR;18 
+(c) a provision from the Universal Declaration of Human Rights;19 
+(d) the Principles for the Protection of Persons with Mental Illness and for 
+the Improvement of Mental Health. 
+Mr Fang's decision concluded  with  the  same  two  paragraphs  as  in  the  decisions 
+involving Messrs Dong and Li.20 
+The competing contentions 
+[20] Section  177  has  spawned  a  considerable  volume  of  case  law  which  was 
+thoroughly canvassed in the written submissions on these appeals.  It will suffice to 
+refer  to  two  decisions  of  this  Court  which  recognise  the  constraints  on  judicial 
+review in the context of what has been described as the "last ditch" opportunity to 
+have a deportation order cancelled.21 
+  
+                                                 17  Namely arts 17 and 23. 18  Articles 6, 7, 9, 10, 11, 12 and 13. 19  Related to the rights of persons with mental illness. 20  At [12] above. 21  Chief  Executive  of  the  Ministry  of  Business,  Innovation  and  Employment  v  Nair [2010]  NZCA 
+248, [2016] NZAR 836 at [30].   [21] First,  with  reference  to  an  immigration officer's  obligation  to  consider 
+relevant  obligations  it  was  said  in Chief  Executive  of  the  Ministry  of  Business, 
+Innovation and Employment v Liu that:22 Where any [international obligations] are relevant, the officer must record a 
+description    of    them    and the  facts  about  the  deportee's  personal 
+circumstances.    Manifestly,  s  177  offers  an  inauspicious  setting  for  judicial 
+review  but,  as  Whata  J  recognised,  the  courts  may  at  least  review  an 
+immigration officer's decision for compliance with these requirements. [22] Second, Singh  v  Chief  Executive,  Ministry  of  Business,  Innovation  and 
+Employment reiterated  that  s  177  had  severely  circumscribed  the  scope  for  judicial 
+review,  effectively  limiting  it  to  a Wednesbury unreasonableness  inquiry.23  The 
+Court  confirmed  that, although  obliged  to  have  regard  to  any  relevant  international 
+obligations, an immigration officer was not obliged to give effect to those obligations 
+in some particular way or at all. 
+[23] However the Court's summary of the features of s 177 concluded: [24] Seventh, to the  extent the [immigration officer] does have  regard to 
+international  obligations,  the  [immigration  officer]  is  obliged  to  record  a 
+description of them and of the (related) facts about the deportee's personal 
+circumstances:  s 177(5). Referencing Liu,   the   Court   observed   that   a   reviewing   Court   can   check   the 
+immigration officer's compliance with s 177, particularly s 177(5).24 
+The Ministry's case 
+[24] It was the Ministry's contention that the numerous judgments in the High 
+Court and this Court concerning cases where the RPC form had been utilised meant 
+that it had been consistently accepted that the s 177(5)(b) obligation was discharged 
+by the completion of that form.  In particular, reference was made to the decision of 
+Lang  J  in Babulal v  Chief  Executive,  Department  of  Labour,  which  specifically 
+considered the question of whether the RPC form was sufficient to comply with the 
+                                                 22  Chief Executive of the Ministry of Business, Innovation and Employment v Liu [2014] NZCA 37, 
+[2014] 2 NZLR 662 at [8] (footnotes omitted). 23  Singh, above n 8, at [46]. 24  At [50].   recording obligation in s 177(5)(b).25  The Judge concluded that it was, determining 
+that: [75]  The  section  contemplates  the  immigration  officer  recording  the 
+material  facts  upon  which  his  or  her  decision  is  based.    That  can  be  done 
+either by recording the facts in narrative form or by listing and/or describing 
+the  documents  in  which  the  facts  are  to  be  found.    In  the  present  case  [the 
+immigration officer] adopted the later technique. [25] Lang J's approach was followed by Brewer J in Leung v The Chief Executive 
+of  the  Ministry  of  Business,  Innovation  and  Employment26 and  Woodhouse  J  in 
+Zheng   v   The   Chief   Executive   of   the   Ministry   of   Business,   Innovation   and 
+Employment.27  
+[26] The Ministry submitted that Dong and Li, together with Duffy J's supportive 
+comments  in Fang,  which  instead  followed  the  decision  of  Fogarty  J  in Ewebiyi  v 
+Parr,28 were  "outliers".    It supported  the  conclusion  in Fang that the Babulal 
+approach had been confirmed, albeit implicitly, in this Court's judgment in Singh.29  
+It contended that: 
+(a) the effect of Dong and Li and the argument advanced in Fang was that 
+an  immigration  officer  would  be  required  to  identify   and  select 
+specific facts  out  of  all  the  information  provided  by  the  potential 
+deportee   and   then   relate   those   facts   to   a   specific   international 
+obligation; 
+(b) it was unlikely that, simply by the use of the words "related" and 
+"relevant", this Court in Singh had  intended  to  depart  from,  let  alone 
+overrule,  Brewer  J's  views  on  the  scope  of  s  177(5).    The  better 
+inference  was  said  to  be  that  this  Court  did  not  consider  the Babulal 
+                                                 25  Babulal  v  Chief  Executive,  Department  of  Labour HC  Auckland  CIV-2011-404-1773,  29 
+September 2011. 26  Leung  v  The  Chief  Executive  of  the  Ministry  of  Business,  Innovation  and  Employment [2013] 
+NZHC 1158 at [15]. 27  Zheng  v  The  Chief  Executive  of  the  Ministry  of  Business,  Innovation  and  Employment [2013] 
+NZHC 1257 at [10]. 28  Ewebiyi v Parr HC Christchurch CIV-2011-409-2010, 7 December 2011. 29  Singh (CA), above n 7.   approach  was  inconsistent  with  the  obligation  to  record  relevant  or 
+related facts. 
+(c) the  correlation  of  potentially  different  facts  to  individual  international 
+obligations would reveal an immigration officer's thought processes 
+and  would  be  tantamount  to  imposing  an  obligation  to  give  reasons; 
+and 
+(d) section 177 reflected Parliament's recognition of the impracticality  of 
+requiring  immigration  officers  to  do  so,  in  particular  by  the  exclusion 
+of an obligation to give reasons in s 177(4)(a). 
+[27] The implications of a rejection of the Ministry's contention were dramatically 
+depicted: There  are  considerable  downstream  ramifications  for  proper  administration 
+of the deportation provisions of the immigration legislation.  If [immigration 
+officers] at the "last-ditch stage" of the immigration process are required to 
+produce  a  formal  statement  isolating  and  summarising  relevant  facts  and 
+identifying  the  particular  obligations  that  are  engaged  by  those  facts,  the 
+process  will  be  slowed  to  the  point  of  institutional  paralysis.    [Immigration 
+officers] (who are not required to have legal or other tertiary qualifications) 
+would  require  legal  advice  before  finalising  any  deportation  decision,  there 
+would be considerably greater scope for legal challenges, a higher volume of 
+immigration  cases  would  go  through  the  courts,  consequential  litigation 
+delays and the inevitable passage of time in individual cases will favour the 
+unlawfully present. The arguments for Messrs Fang, Dong and Li 
+[28] The  common  theme  in  the  submissions  for  Messrs  Fang,  Dong  and  Li  was 
+that, while immigration officers were not required to compile a statement of facts in 
+the  manner  of  a  court  or  tribunal  giving  a  reasoned  decision,  s 177(5)(b)  clearly 
+imposes an obligation to prepare a statement of relevant facts separate from the RPC 
+form.  Further, it was submitted for all parties that this Court's decision in Singh was 
+not  binding,  nor  did  it  specifically  determine  the  issue  under  appeal  here.    The 
+sequence  of  High  Court  decisions,  including Babulal,30 Leung31 and Zheng,32 all  of 
+                                                 30  Babulal, above n 25. 31  Leung, above n 26. 32  Zheng, above n 27.   which preceded the judgments under appeal, were explained as having been not fully 
+argued and decided prior to this Court's decision in Singh.  
+[29] On  the  issue  of  the  mode  of  compliance  with  s  177(5)(b)  there  was  some 
+divergence  between  the  parties.    For  Mr  Li,  Mr  Kilian  accepted  that  the  example 
+provided  by  Davidson  J  in Dong,33 and  echoed  by  Davison  J in Li,34 was  sufficient 
+compliance.    Mr Zhang,  however,  for  Messrs Fang  and  Dong  contended  that  the 
+stated  facts  should  be  separately  listed  in  respect  of  each  international  obligation 
+described. 
+[30] Furthermore,  despite  the  absence  of  any  cross-appeal,  Mr  Zhang's  oral 
+submissions explored the requirement for a description of international obligations in 
+s 177(5)(a).  He contended that it was not sufficient simply to list the article number 
+of a particular convention or treaty but that the word "description" necessitated  a 
+brief summary of the content of the particular obligation. 
+Was the issue determined by this Court in Singh? 
+[31] Although  Duffy  J  preferred  the  approach  in Ewebiyi,  she  considered  herself 
+bound by Singh, explaining:35 [26] The  expressed  reasoning  of the  Court  of Appeal  in Singh approved 
+Lang J's general approach in Babulal.   The  Court  of Appeal  also  expressly 
+found  that  there  was  no  error  in  Brewer  J's  approach;  this  was  in 
+circumstances  where  the  s  177  decision  took  the  same  form  as  the  s  177 
+decision in Babulal, and the approach adopted by Brewer J was the same as 
+that  taken  by  Lang  J  in Babulal.   This  causes  me  to  conclude  that  I  should 
+find that a s 177 decision which follows the form of the decision in Babulal 
+will comply  with  the  requirements  of s  177,  and  in  particular  s  177(5).   As 
+the  decision  under  review  does  this,  I  find  that  it  was  not  made  in  error  of 
+law.  [32] However this Court's consideration in Singh was  confined  to  the  issues  live 
+on    that    appeal,    namely    whether    Brewer    J    erred    in    declining    to    allow 
+cross-examination of the immigration officer and whether the Judge's approach to 
+review of the s 177 decision was erroneous.36  In finding no error in the first instance 
+                                                 33  Dong, above n 5, at [49]. 34  Li, above n 6, at [57]. 35  Fang, above n 7. 36  Singh, above n 8, at [3].   decision the Court expressed agreement with the Judge's reasoning only in relation 
+to the immigration officer's consideration of the child's situation and the Judge's 
+decision declining to allow cross-examination.  The Court's endorsement of Babulal 
+was directed to the extremely limited scope for judicial review under s 177.37   
+[33] As Professor A L Goodhart explained in his description of ratio decidendi, the 
+principle of a case is found by taking account of (a) the facts treated by the Judge as 
+material and (b) the Judge's decision as based on them.38  While  in Singh an  RPC 
+form  was  completed  and  there  was  no  separate  record  of  facts  relevant  to  the 
+international  obligations  identified,  this  Court  did  not  express  a  conclusion  on  the 
+meaning of s 177(5)(b) or make any decision as to its application to the facts because 
+that was not a live issue on appeal. 
+[34] In our view the judgment of Davison J in Li provides the correct analysis  of 
+the scope of this Court's finding in Singh:39 [60] I respectfully disagree with Duffy J's view that Lang J's view on the 
+[immigration  officer's]  recording  obligation   in Babulal was   explicitly 
+approved  by  the  Court  of Appeal  in Singh and  that  therefore  this  Court  is 
+bound by it.  Although the Court of Appeal did approve Lang J's comments 
+about the "extremely limited" scope of judicial review under s 177 generally, 
+nothing was said about his Honour's interpretation of what is required of an 
+[immigration officer] by s 177(5).  Indeed, the issue in Singh did not require 
+the  Court  to  consider  the  scope  of  an  [immigration  officer's]  recording 
+obligation under s 177(5), and consequently, in my view the Court of Appeal 
+cannot  be  said  to  have  spoken  about  and  provided  direct  authority  on  the 
+issue. [35] The only observations in Singh touching on s 177(5) were obiter dicta.  Those 
+observations  emphasised  the  need  for  a  relationship  between  the  recorded  facts  and 
+the  international  obligations  described.40  Hence,  we  do  not  consider  that Singh is 
+binding authority on the issue of the construction of s 177(5)(b), and, in any case, in 
+fact it points in the direction taken in both Dong and Li. 
+[36] Accordingly, we turn to interpret the meaning of s 177(5)(b) afresh. 
+                                                 37  At [44]–[46]. 38  A  L  Goodhart Essays  in  Jurisprudence  and  the  Common  Law (Cambridge  University  Press, 
+London, 1931) at 25.  39  Li, above n 6. 40  Singh, above n 8, at [24] and [64].   Interpretation of s 177(5)(b) 
+[37] It is necessary to view the subsection in the context of the section as a whole, 
+in particular the "trigger" to consideration of cancellation of a deportation  order  in 
+subs (2),41 and  the  extent  of  the  consequential  obligation  to  consider  relevant 
+international obligations in subs (3).  For that reason we set s 177 out in full: 177  Deportation order may be cancelled 
+(1)  An immigration officer may, in his or her absolute discretion, cancel 
+a deportation order served on a person to whom section 154 applies. 
+(2)  Nothing  in  subsection  (1)  gives  a  person  a  right  to  apply  for  the 
+cancellation of a deportation order. However, an immigration officer 
+must consider cancelling the deportation order of a person who is in 
+New  Zealand  if  the  person  provides  information  to  the  officer 
+concerning his or her personal circumstances, and the information is 
+relevant to New Zealand's international obligations. 
+(3)  If  an  immigration  officer  does  consider  cancelling  a  deportation 
+order,  whether  by  way  of a  purported  application  or his  or  her  own 
+motion,  the  officer  must  have  regard  to  any  relevant  international 
+obligations, but otherwise— 
+(a) may make a decision as he or she thinks fit; and 
+(b)  in   doing   so,   is   not   under   any   obligation,   whether   by 
+implication or otherwise,— 
+(i)  to  apply  any  test  or  any  particular  test  and,  in 
+particular, the officer is not obliged to apply the test 
+set out in section 207; or 
+(ii)  to inquire into the  circumstances of, or to make  any 
+further   inquiry    in   respect   of    the   information 
+provided  by  or  in  respect  of,  the  person  who  is  the 
+subject of the deportation order or any other person. 
+(4)  Whether   or   not   an   immigration   officer   considers   cancelling   a 
+deportation order,— 
+(a)  he  or  she  is  not  obliged  to  give  reasons  for  any  decision, 
+other than the reason that this subsection applies; and 
+(ab)  privacy  principle  6  (which  relates  to  access  to  personal 
+information  and  is  set  out  in section  6 of  the  Privacy  Act 
+1993) does not apply to any reasons for any decision relating 
+to the purported application; and                                                  41  Singh, above n 8, at [16].   (b)  section  23 of  the  Official  Information  Act  1982  does  not 
+apply in respect of the decision. 
+(5)  However, to the extent that an immigration officer does have regard 
+to any international obligations, the officer is obliged to record— 
+(a)  a description of the international obligations; and 
+(b)  the facts about the person's personal circumstances. [38] The meaning of s 177(5) is to be ascertained from its text and in the light of 
+its purpose.42  As the Supreme Court observed in Commerce Commission v Fonterra 
+Co-operative  Group  Ltd,  in  determining  purpose  the  Court  must  obviously  have 
+regard  to  both  the  immediate  and  the  general  legislative  context.43  The  social, 
+commercial or other objective of the enactment may also be relevant. 
+Text 
+[39] The  obligation  in  s  177(5)  is  a  recording  function.    It  was  common  ground 
+that the verb "record" was used in the ordinary sense that has gained prominence in 
+modern  usage,  namely  to  set  down  in  writing  in  some  permanent  form.    An 
+immigration  officer  is  required  by  s  177(5)  to  make  such  a  notation  of  the  two 
+specified  matters  only  when,  and  to  the  extent  that,  the  officer  has  had  regard  to 
+New Zealand's international obligations in  the  course  of  the  s  177  process.    It  is 
+instructive  to  consider  the  section  both  in  its  entirety  and  in  the  context  of  the 
+2009 Act.   
+[40] So  far  as  the  latter  is  concerned,  it  will  suffice  to  refer  to  the  three  points 
+which  this  Court  in Singh identified  as emerging  from  the  framework  of  the  2009 
+Act:44   
+(a) The  2009  Act  aims  to  balance  New  Zealand's  interest  (in  not 
+permitting people to be in New Zealand unlawfully) with the right of 
+individuals. 
+                                                 42  Interpretation Act 1999, s 5(1). 43  Commerce  Commission  v  Fonterra  Co-operative  Group  Ltd [2007]  NZSC  36,  [2007]  3  NZLR 
+767 at [22]. 44  Singh, above n 8, at [12]–[14].   (b) Part  6  of  the  2009 Act,  dealing  with  deportation,  has  the  purpose of 
+supporting the integrity of New Zealand's immigration system. 
+(c) Section  177,  which  is  positioned  toward  the  end  of  pt  6  after  ss  175 
+and 175A but before s 178 (which is headed "executing deportation 
+order"),  provides  a  last-ditch   opportunity   to   have   cancelled   a 
+deportation   order   made   as   a   result   of   the   detailed   and   careful 
+deportation process set out in pt 6. 
+[41] Turning  to  the  structure  of  s  177,  subs  (1)  and  the  first  sentence  of  subs  (2) 
+maintain respectively both the officer's entitlement to cancel a deportation order and 
+the absence of any entitlement for the deportee to apply for same.  That reflects the 
+position  as  originally  introduced  by  s  52A  of  the  Immigration Act  1987  (the  1987 
+Act).45   
+[42] The  officer's  absolute  discretion  is  then  qualified  in  the  event  that  the 
+deportee  provides  information  concerning  the  deportee's  personal  circumstances 
+which information is relevant to New Zealand's international obligations.  In that 
+event  the  immigration  officer  is  obliged  to  consider  cancellation  of  the  deportation 
+order.46 
+[43] On  such  consideration  the  immigration  officer  must  have  regard  to  any 
+relevant  international  obligations  but  otherwise  may  make  such  decision  as  the 
+officer   thinks   fit.47  Subsection   (4)   preserves   the   exemption   as   provided   in 
+s 52A(3)(b)(i)  of  the  1987 Act  from  an  obligation  to  give  reasons  for  any  decision 
+reached by the officer on consideration of cancellation.   
+[44] Subsection  (5)  then  introduces  the  second  qualification  by  imposing  an 
+obligation to make a record of specified matters when, in discharging the obligation 
+in subs (3), the officer has had regard to any relevant international obligations.   
+[45] From that structure we distil the following points in relation of s 177: 
+                                                 45  As introduced by s 23 of the Immigration Amendment Act 1991. 46  Immigration Act, s 177(2). 47  Section 177(3).   (a) The  trigger  to  an  immigration  officer's  obligation  to  consider 
+cancellation is the provision by a deportee of information concerning 
+the  deportee's  personal  circumstances  which  is  relevant  to  one  or 
+more of New Zealand's international obligations. 
+(b) It is those obligations to which the immigration officer "must then 
+have regard" under  subs  (3),  a  phrase  which,  as  noted  in Singh,48 it 
+can confidently be said Parliament selected deliberately. 
+(c) The description of the international obligations which an immigration 
+officer is obliged to record under subs (5)(a) are only such obligations 
+as are rendered relevant by the deportee's provision of information in 
+subs (2).   
+(d) The  facts  which  an  immigration  officer  is  obliged  to  record  under 
+subs  (5)(b)  are  only  those  pertaining  to  the  deportee's  personal 
+circumstances which triggered the obligation to consider international 
+obligations.   This  Court  in Singh described them as "related" facts.49  
+We agree with Davison J in Li that the use of the phrase "facts about" 
+the deportee's personal circumstances was a considered choice which 
+serves to emphasise the focussed task in subs 5(b).50   
+(e) The  sequence  in  the  required  recording  of  the  description  of  the 
+international  obligations  followed  by  the  related  facts  is  in  itself 
+significant.  As Fogarty J observed in Ewebiyi:51 Relevance  is  a  qualifier  applied  to  facts  which  are  made 
+relevant    by    considering    them    against    the    relevant 
+international  obligations.    That  is  why  subs  (5)  naturally 
+orders: (a) international obligations, before (b) facts.   (f) There  is  a  relationship  between  the  two  matters  which  the  officer  is 
+obliged  to  record.   We  consider  the  legislature  intended  that  the  task 
+                                                 48  Singh, above n 8, at [17]. 49  At [24]. 50  Li, above n 6, at [74]–[75]. 51  Ewebiyi, above n 28, at [57].   of  recording  those  matters  would  be  undertaken  once  the  officer  had 
+concluded his consideration of cancellation. 
+[46] A consideration of the text of s 177 leads us to conclude that, notwithstanding 
+that  an  immigration  officer  is  not  required  to  give  reasons  for  a  decision  on 
+considering  cancellation  of  a  deportation  order,  the  officer  is  directed  to  make  a 
+specific notation which both describes any New Zealand international obligations to 
+which  the  officer  has  had  regard  pursuant  to  s  177(3)  and  then  states  the  facts 
+concerning  the  deportee's  personal  circumstances  which  prompted  the  officer's 
+reference to those international obligations. 
+[47] In the normal course we would expect that the record of such facts would be 
+a small subset of the information which a deportee is likely to provide in response to 
+the range of questions in the RPC form.  We do not consider that compiling a record 
+of those pertinent facts should be an onerous task.  On that issue we  agree with the 
+observations of Davidson J in Dong:52 [49] A decision about the facts is  expressly not required,  but a record of 
+"the facts", if there are any, is expressly required.  This might be a brief 
+statement along the lines: 
+Information about the applicant's personal relationships included: 
+ his partnership and marriage to Ms Liu 
+ the future of that relationship should he be deported to China ... 
+(etc). [48] Hence we do not accept the proposition advanced in the Ministry's notices of 
+appeal  in Dong and Li that  the  judgments  under  appeal  required  the  officer  to 
+separately  summarise  and  record  facts  stated  to  be  relevant  to  specific  international 
+obligations "in the manner of a court or tribunal making formal findings of fact".  
+While framed as a qualification, s 177(5) does not impose on an officer an obligation 
+to  give  reasons  for  his  or  her  decision  on  the  issue  of  cancellation  of  a  deportation 
+order. 
+                                                 52  Dong, above n 5.   [49] Nor  do  we  endorse  the  suggestion  that  the  record  of  pertinent  facts  must 
+involve  a  distinct  list  of  facts specific  to  each  international  obligation  identified  as 
+stated as the first issue in the agreed list of issues on appeal: Is   the   obligation   on   an   immigration   officer   under   s   177(5)   of   the 
+Immigration Act 2009 to record facts about a potential deportee's personal 
+circumstances satisfied by completing the Record of Personal Circumstances 
+form during and after interview of the potential deportee, including by list or 
+description  of  documents  in  which  the  facts  may  be  found OR is  the 
+immigration  officer  required  to  select  and  record  particular  facts  which  the 
+immigration  officer  considers  to  be  relevant  to  each  specific  international 
+obligation. [50] Accordingly,  we  reject  what  was  ultimately  the  Ministry's  primary 
+submission that, because the pertinent facts are a subset of the information compiled 
+in  the  RPC  form,  it  must  follow  that  the  recording  of  the  information  in  that  form 
+necessarily also involves the recording of the requisite facts.   
+[51] Our  view  is  that  the  recorded  facts  contemplated  by  subs  (5)(b)  are  those 
+which bear on the international obligations the subject of the description required by 
+subs  (5)(a).    We  do  not  consider  that  the  direction  to  compile  a  record  of  those 
+specific  facts  is  achieved  by  the  compilation  of  a  much  more  extensive  document 
+(namely the RPC form, together with any annexures), which may comprise a variety 
+of  statements,  observations  and  even  expressions  of  opinion,  which  are  not  facts  as 
+envisaged  by  subs (5)(b)  or  even  facts  at  all.    The  well-known  haystack  metaphor 
+springs to mind. 
+[52] Similarly,  we  do  not  accept  that  purporting  to  provide  a  record  of  the 
+pertinent  facts  by  the  adoption  of  the  technique  of  a  reference  back  to  the  entire 
+contents of the RPC form, which Davidson J described as "record of the record",53 is 
+an adequate discharge of the obligation imposed on the officer by subs (5)(b). 
+Purpose — the cross-check 
+[53] The introduction of the obligation to record the s 177(5) matters needs to be 
+viewed in the context of Parliament's negation of the Supreme Court's holding in Ye 
+                                                 53  At [38].   v Minister of Immigration.54  The 1987 Act had made provision for the cancellation 
+of  removal  orders  by  immigration  officers  since  1991.   A  deportee  had  no  right  to 
+apply for cancellation and the immigration officer had no obligation to give reasons 
+for the decision.  In Ye v Minister of Immigration the Supreme Court held that it was 
+necessary  to  apply  the  s 47(3)  test55 at  the  last  stage  of  the  removal  or  deportation 
+process.  However as this Court observed in Parmanadan v Minister of Immigration, 
+the  subsequent  amendment  to  s  58  (and  the  introduction  of  s 177  of  the  2009 Act) 
+represented a sharp legislative rejection of the Supreme Court's ruling in Ye.56  
+[54] The  circumstances  are  conveniently  recorded  in Chief  Executive  of  the 
+Ministry of Business, Innovation and Employment v Nair:57 [34] ... s 177 was inserted (as cl 165A) by a supplementary order paper 
+following the select committee recommendation that the Bill should include 
+a provision for cancellation of a deportation order.  The supplementary order 
+paper explains  the  wording  of  s  177  was  a  response to  the  judgment  of  the 
+Supreme  Court  in Ye  v  Minister  of  Immigration,  which  was  delivered  after 
+the   select   committee   stage   and   second   reading   of   the   Bill.      The 
+supplementary order paper in Committee included two clauses responding to 
+that decision.  One was cl 165A, which became s 177; the other was cl 432, 
+which amended s 58 of the 1987 Act. 
+[35] The explanatory note to the paper discusses these changes: 
+... new  clauses  165A and 432 are  inserted,  to  ensure  that  certain 
+decisions  (for  example,  decisions  about  whether  or  not  a  person 
+liable  for  deportation  (or  removal  under  the  Immigration Act  1987) 
+from  New  Zealand  should  be  deported  (or  removed))  are  decisions 
+made  by  immigration  officers  implementing  the  practical  elements 
+of the final stage of removal of the person and do not require any test 
+or  any  particular  test.    In  particular,  immigration  officers  are  not 
+required to apply the test set out in section 47(3) of the Immigration 
+Act  1987  or  in clause  186 of  the  Bill,  as  the  case  may  be,  when 
+considering  cancellation  of  a  removal  order  or  a  deportation  order.  
+At  this  stage,  the  essential  legal  issue  is  whether  the  person  is  in 
+New  Zealand  unlawfully.    These  amendments  overturn  the  future 
+effect  of  most  of  the  key  findings  (including  the  findings  that 
+required  immigration  officers  to  apply  the  humanitarian  appeal  test 
+and imposed duties of inquiry on them) in the recent Supreme Court 
+decisions Ye   v   Minister   of   Immigration;   Qiu   v   Minister   of 
+Immigration  ...,  and Huang  v  Minister of  Immigration ...,  all                                                  54  Ye v Minister of Immigration [2009] NZSC 76, [2010] 1 NZLR 104. 55  Requiring  a  consideration  of  whether  there  are  exceptional  circumstances  of  a  humanitarian 
+nature   that   would   make  it  unjust  or  unduly   harsh   for  the  person  to  be  removed  from 
+New Zealand. 56  Parmanadan v Minister of Immigration [2010] NZCA 136, [2010] NZAR 424 at [7]. 57  Nair, above n 21 (footnotes and citations omitted).   judgments  being  delivered  on  20  July  2009.    The  amendments, 
+however, do not affect the position of the litigants in those decisions. [55] In  addition to curbing the impact of the Supreme Court decisions, the new s 
+177  imposed  an  obligation  on  immigration  officers  to  have  regard  to  such  of 
+New Zealand's international obligations as were identified as relevant to the personal 
+circumstances of a proposed deportee and to make a record of the facts about those 
+circumstances and the relevant international obligations.   
+[56] In explaining the government's concern the speech on behalf of the Minister 
+of Immigration during the Third Reading of the Immigration Bill 2007 (132-3) drew 
+specific  attention  to  the  legislative  requirement  for  immigration  officers  to  take 
+account  of  New  Zealand's  international  obligations  when  executing  deportation 
+orders:58 The Government was concerned about the practical implications of a recent 
+Supreme  Court  decision  that  required  a  complex  humanitarian  test  to  be 
+applied by immigration officers at the final point of removing an overstayer.  
+That  is  why  the  Government's  Supplementary  Order  Paper  32  included 
+amendments to the Immigration Act 1987 in relation to the cancellation of a 
+removal order, and to the provisions in the bill relating to the cancellation of 
+a  deportation order.  There is  a formal process that allows  most overstayers 
+to  lodge  a  humanitarian  appeal  within  42  days  of  becoming  overstayers  if 
+there  is  good  reason  they  should  not  leave  New  Zealand.    The  time  for 
+overstayers  to raise  concerns  is  not  at the  last  minute  before they  board  the 
+plane.  Expecting an immigration officer to apply a complex legal case at the 
+time  is  just  not  practical.    However,  immigration  officers  will  still  take 
+account  of  New  Zealand's  recent  relevant  international  obligations  when 
+executing  removal  or  deportation  orders,  if  an  overstayer  gives  information 
+relevant to those obligations to the officers.  The amendments to the bill have 
+made this clear. [57] The penultimate sentence referred to the obligation in s 177(3) to have regard 
+to  any  relevant  international  obligations.    The  sentences  which  precede  it  note  the 
+context  in  which  decisions  on  cancellation  of  removal  orders  are  considered  and 
+serve to explain why immigration officers are not obliged to make such decisions in 
+accordance  with  international  obligations  and  are  not  required  to  give  reasons  for 
+their decisions. 
+                                                 58  (29 October 2009) 658 NZPD 7638.   [58] Although the recording  obligation in s 177(5) is  framed  as a qualification to 
+the  preceding  subsection,  we  do  not  consider that  it  was  intended  to  impose  an 
+obligation on immigration officers to give reasons.  Rather we infer that the purpose 
+of the subsection is to cause a record to be made that New Zealand's international 
+obligations  have  in  fact  been  considered  by  an  immigration  officer  when  the 
+circumstances render them relevant to a cancellation decision. 
+[59] As  noted  by  this  Court  in Liu59 and Singh,60 the  consequence  of  a  record 
+being made of the international obligations considered by an immigration officer and 
+the  related  facts  would  enable  the  Court  on  review  to  at  least  be  satisfied  that  the 
+obligation  imposed  by  s 177(3)  had  been  addressed,  albeit  not  discharged  in  some 
+particular manner. 
+[60] We agree therefore with the Ministry's submissions that the purpose of the 
+subsection is not to send a message about the manner of New Zealand's compliance 
+with its international obligations but to ensure that the performance of the obligation 
+is discharged and to provide the Court with a real, but limited, degree of scrutiny of 
+such performance. 
+[61] Consequently the identified purpose of subs (5) aligns with our interpretation 
+of the subsection by reference to the text of s 177. 
+Conclusion 
+[62] In  circumstances  where  an  immigration  officer  is  required  to  have  regard  to 
+New Zealand's international obligations in the course of considering the cancellation 
+of  a  deportation  order,  the  officer  is  required  to  make  a  specific  record  of  the  facts 
+which prompted reference to those obligations. 
+[63] The  record  of  facts  may  be  succinct  in  the  manner  discussed  at [47] above.  
+The facts need not be marshalled by reference to individual international obligations.  
+However it must be a record dedicated to the function of stating the facts relevant to 
+the  international  obligations  to  which  the  immigration  officer  has  had  regard.    A 
+                                                 59  Liu, above n 22, at [8]. 60  Singh, above n 8, at [50].    completed RPC form will not suffice as the record required by s 177(5)(b), nor will a 
+mere cross-reference to a RPC form or other listed documents.  To permit otherwise 
+would  defeat  the  purpose  of  the  provision  which  is  to  ensure  that  the  fact  of 
+consideration  of  New  Zealand  international  obligations  is  both  transparent  and 
+amenable to judicial review.   
+[64] We  do  not  consider  that  the  Ministry's  apprehensions  concerning  the 
+ramifications of our interpretation of the provision are justified.61  In introducing this 
+procedure the Minister of Immigration recognised that it is not practical to expect an 
+immigration officer to apply a complex legal case at the point of deportation.62  That 
+reality  is  reflected  in  the  power  to  make  such  decision  on  cancellation  as  the 
+immigration  officer  thinks  fit  together  with  the  absence  of  any  obligation  to  give 
+reasons for the decision. 
+[65] However, specific provision was made to impose on immigration officers the 
+obligation to take account of New Zealand's international obligations when relevant 
+information is provided by deportees.  While noting the Ministry's submission that 
+immigration officers are not required to have legal or other tertiary qualifications, we 
+do not consider that our interpretation of that obligation as imposed by s 177(5)(b) is 
+unduly  onerous.    In  order  for  an  immigration  officer  to  conclude  that  he  or  she  is 
+required to have regard to some international obligation, it will be necessary for the 
+officer  to  have  identified  facts  which  caused  that  international  obligation  to  be 
+relevant to the particular case.  All that s 177(5)(b) requires is that those facts which 
+triggered  consideration  of  the  international  obligation  should  be  recited.    No 
+additional analysis is required. 
+Substantive relief 
+[66] In Dong and Li, upon the successful judicial review challenge, Davidson and 
+Davison  JJ  respectively  remitted  the  matters  back  to  the  Ministry  to  enable  the 
+immigration officer who had the conduct of the  deportation process to comply with 
+the  obligation  under  s  177(5).63  The  third  of  the  agreed  issues  on  appeal  was 
+                                                 61  Set out at [27] above. 62  At [56] above. 63  Dong, above n 5, at [92]; and Li, above n 6, at [118]–[119].   whether  that  substantive  relief  should  have  been  withheld  in  the  exercise  of 
+discretion.  
+[67] By analogy with the considerations relevant to interim relief discussed below, 
+the Ministry submitted that, in the event the appeals in Dong and Li were dismissed 
+and  the Fang appeal  allowed,  relief  should  be  withheld.    The  Ministry  recognised 
+that, even though public law remedies are discretionary, some circumstances require 
+extremely  strong reasons  to  decline  relief  where  a  public  decision  maker  has  been 
+shown to have erred in the exercise of the decision making power.64   
+[68] In  these  appeals  the  extremely  strong  reasons  were  said  to  be  the  same 
+features  of  the  statutory  scheme  that  make  it  difficult  to  obtain  interim  relief  to 
+prevent  deportation,  namely  that  it  would  be  unlikely  for  any  visa  to  be  granted  in 
+any case, unless each of Messrs Fang, Dong and Li were to depart New Zealand and 
+re-apply from offshore. 
+[69] An alternative argument was advanced that, even if we ultimately found some 
+procedural error in the immigration officers' application of s 177, no relief should be 
+given on the basis that it is highly unlikely that any of the three deportees would be 
+granted a visa so long as they remained in New Zealand.  
+[70] We consider that the Ministry's submission erroneously seeks to merge the 
+issue  of  relief  on  the  substantive  question  with  the  issue  of  interim  relief  discussed 
+below.    We  do  not  accept  that  because  interim  relief  may  be  declined  the  Court 
+should  refuse  to  entertain  the  grant  of  meaningful  relief  with  reference  to  the 
+observance of the statutory process.   
+[71] In  the  absence  of  a  suitably  qualifying  record  of  the  trigger  facts  and  the 
+relevant international obligations, it is not possible for the Court to assess the merits 
+or  otherwise  of  the  challenges  to  the  decisions.    The  enforcement  of  the  proper 
+discharge  of  that  obligation  should  not  be  dependent  on  the  happenstance  of  the 
+residence of the applicants for the time being. 
+                                                 64  Air  Nelson  Limited  v  Minister  of  Transport [2008]  NZCA  26,  [2008]  NZAR  139  at  [59]–[61]; 
+and Survey Nelson Ltd v Maritime New Zealand [2010] NZCA 629 at [52].   [72] For  the  reasons  given  by  Davidson  J65 and  Davison  J66 we  consider  that  the 
+record required by s 177(5)(b) should be compiled.  The same applies to Mr Fang's 
+case.   In all three decisions under appeal the matter is to be remitted back to enable 
+the immigration officer who had conduct of the process to comply with the recording 
+obligation as set out in this judgment. 
+Section 177(5)(a) 
+[73] Although   not   foreshadowed   in   his   written   submissions,   Mr   Zhang   for 
+Messrs Fang  and  Dong  invited  the  Court  to  also  consider  the  interpretation  of 
+s 177(5)(a).  He contended that it was not a sufficient description of the international 
+obligation merely to refer to an article in a convention or treaty. 
+[74] We  agree  that  simply  to  provide  a  list  of  article  or  paragraph  numbers  of  an 
+international instrument would not be sufficient compliance with the requirement to 
+provide a "description" of the international obligations.  In our view, the employment 
+of  that  word  indicates  that  some  indication  of  the  substance  of  the  particular 
+obligation is required rather than merely identifying the applicable provision number.  
+However, it will not be necessary to set out the full text of the particular obligation; a 
+paraphrase  of  the  primary  content  of  the  obligation  will  generally  be  a  sufficient 
+description for the purposes of the subsection. 
+[75] In  our  view  the  obligation  was  properly  discharged  in  the  forms  of  decision 
+involving  both  Messrs  Dong  and  Li.    For  example,  the  international  obligations 
+referred to in Mr Dong's case were: International Convention on Civil and Political Rights ("ICCPR") 
+- not  to  be  subjected  to  arbitrary  or  unlawful  interference  with  family:  
+art 17  
+- family,   natural   and   fundamental   group   unit   of   society,   entitled   to 
+protection by society and state:  art 23 
+International   Covenant   on   Economic,   Social,   and   Cultural   [R]ights 
+("ICESCR") 
+- the right to work:  art 6                                                  65  Dong, above n 5, at [51] and [92]. 66  Li, above n 6, at [118]–[119].   - the right to work in just and favourable conditions:  art 7 
+- widest  possible  protection  and  assistance  should  be  given  to  family 
+which is natural and fundamental group unit of society:  art 10 
+- an adequate standard of living, adequate food, clothing and housing: art 
+11 
+- the right to education:  art 13 The  same  level  of  description  was  provided  in  respect  of  Mr  Li,  the  only  material 
+difference being the article number preceded the summary of the relevant provision. 
+[76] The  decision  in  respect  of  Mr  Fang  adopted  the  same  format  as  that  in 
+Mr Li's  case.    While  the  descriptions  of  the  obligations  in  the  ICCPR  and  the 
+ICESCR  were  slightly  more  abbreviated,  they  were  still  sufficient  descriptions  for 
+the  purposes  of  the  provision.    The  decision  also  referred  to  two  international 
+instruments which had been noted in communications from Mr Fang's legal adviser, 
+namely: Universal Declaration of Human Rights:  every person with a mental illness 
+shall  have  the  right  to  exercise  all  civil,  political,  social  and  cultural  rights 
+recognised 
+Principles  for  the  Protection  of  Persons  with  Mental  [I]llness  and  for  the 
+Improvement of Mental Health [77] In  the  case  of  the  former  it  would  have  been  desirable  but  not  mandatory  to 
+identify  the  particular  provision  by  number.    We  consider  that  the  latter  was 
+unhelpfully vague and that reference should have been made to a specific obligation 
+or obligations.  However, given the way in which this issue has arisen, we make no 
+directions concerning compliance with s 177(5)(a). 
+Interim relief 
+[78] The  second  agreed  issue  on  appeal  was  whether  interim  orders  preventing 
+deportation were correctly granted and continued in Dong.  Given our conclusion on 
+the  primary  issue,  the  question  becomes  whether  interim  relief  should  be  granted 
+pending the completion of the record on the remission back to the decision-maker.   [79] Invoking  the  principles  explained  in Parmanadan,67 the  Ministry  submitted 
+that  having  regard  to  the  statutory  scheme  including  its  emphasis  on  personal 
+responsibility,  the  usual  statutory   effects  of  deportation  will  not  generally  be 
+sufficiently adverse to meet the threshold for interim relief because it does not follow 
+that  a  visa  of  one  kind  or  another  would  ultimately  be  granted  consequent  on  the 
+completion of the record required by s 177(5). 
+[80] Mr  Zhang  countered  that  the  time  has  come  to  overrule Parmanadan.    He 
+submitted   that   the   Court   should   reinstate   the   earlier   approach   in Esekielu   v 
+Attorney-General,68 which applied the classic interim relief principles from Carlton 
+&  United  Breweries  Ltd  v  Minister  of  Customs69 and American  Cyanamid  Co  v 
+Ethicon Limited.70 
+[81] However, the approach in Parmanadan has since been followed by this Court 
+in Nair71 and  recently  reiterated  in Minhas  v  An  Immigration  Officer.72  We  do  not 
+accept that there is any justification for revisiting the now well-established approach.  
+The removal of Messrs  Fang,  Dong and  Li from New  Zealand can have  no bearing 
+on the way in which the respective immigration officers complete their task under s 
+177(5)(b).  Nor will the fact that Messrs Fang, Dong and Li are out of New Zealand 
+affect  any  entitlement  to  seek  review  of  the  actions  of  the  officers  pursuant  to  the 
+orders for remission. 
+[82] Accordingly, the interim order staying Mr Dong's deportation  pending  the 
+remission back to the relevant immigration officer is set aside. 
+Result 
+[83] The appeal in CA369/2016 is allowed.  The decision is to be remitted back to 
+the  Ministry  of  Business,  Innovation  and  Employment  to  enable  the  immigration 
+officer who had the conduct of the deportation process to comply with the obligation 
+under s 177(5) as set out in this judgment. 
+                                                 67  Parmanadan, above n 56, at [8]–[11]. 68  Esekielu v Attorney-General (1993) 6 PRNZ 309 (HC). 69  Carlton & United Breweries Ltd v Minister of Customs [1986] 1 NZLR 423 (CA). 70  American Cyanamid Co v Ethicon Limited [1975] AC 396 (HL). 71  Nair, above n 21, at [19]. 72  Minhas v An Immigration Officer [2016] NZCA 435, [2016] NZAR 1419 at [35]–[36].   [84] The  appeal  in  CA370/2016  is  allowed  in  part.    The  interim  order staying 
+Mr Dong's  deportation  pending  the  remission  back  to  the  relevant  immigration 
+officer is set aside. 
+[85] The appeal in CA423/2016 is dismissed.  
+[86] The Ministry of Business, Innovation and Employment must pay Mr Li costs 
+for  a  standard  appeal  on  a  band A  basis  and  usual  disbursements.    The  Ministry  of 
+Business, Innovation and Employment must pay Messrs Fang and Dong together one 
+set of costs for a standard appeal on a band A basis and usual disbursements. 
+ 
+ 
+ Solicitors:  
+Crown Law Office, Wellington for the Ministry of Business, Innovation and Employment and its 
+Chief Executive 
+Amicus Law, Auckland for Mr Fang and Mr Dong 
+Kilian & Associates Limited, Albany for Mr Li  "

@@ -1,0 +1,117 @@
+" ARTHUR SYLVAN MORGENSTERN v STEPHANIE BETH JEFFREYS AND TIMOTHY WILSON 
+DOWNES [2014] NZSC 176 [2 December 2014]       
+IN THE SUPREME COURT OF NEW ZEALAND 
+SC 109/2014  
+[2014] NZSC 176 
+ 
+BETWEEN 
+ 
+ARTHUR SYLVAN MORGENSTERN 
+First Applicant 
+ 
+TANYA MAY LAVAS 
+Second Applicant 
+ 
+AND 
+ 
+STEPHANIE BETH JEFFREYS AND 
+TIMOTHY WILSON DOWNES 
+Respondents 
+ 
+Court: 
+ 
+William Young, Glazebrook and Arnold JJ 
+ 
+Counsel: 
+ 
+C T Walker for Applicants 
+N H Malarao and K M Wakelin for Respondents 
+ 
+Judgment: 
+ 
+2 December 2014 
+ 
+ 
+JUDGMENT OF THE COURT 
+ 
+A The application for leave to appeal is dismissed. 
+ 
+B The applicants are to pay the respondents costs of $2,500 
+and   reasonable   disbursements   to   be   fixed   by   the 
+Registrar. 
+____________________________________________________________________ 
+ 
+REASONS 
+The proposed appeal 
+[1] Morning  Star  (St  Lukes  Garden  Apartments) Ltd  ("MS  St  Lukes")  was 
+involved in a large development.  The first applicant, Mr Arthur Morgenstern, owned 
+99  of  the  100  shares  in  MS  St  Lukes  and  the  second  applicant,  Ms  Tanya  Lavas 
+owned  the  other  share.    Stage  one  of  the  development  (241  apartments  and 
+associated  retail  units)  was  completed  in  2005.    Stage  two  involved  a  further  53 
+apartments, six commercial units and a two-storey commercial building.  As it turned 
+out, the required resource consents were not held and work on stage two stopped in   2006.    The  resource  consent  problem  was  not  able  to  be  resolved  until  2010  and 
+construction work on stage two did not recommence until late 2010. 
+[2] On 30 March 2007, Morning Star Enterprises Ltd ("MSE"), another company 
+associated with Mr Morgenstern and of  which he was a director, acquired all of the 
+shares  in  MS  St  Lukes.   The  total  consideration  was  $3.5  million.    MSE  sold  these 
+shares the following year for $1. 
+[3] The respondents are the liquidators of MSE and sued him in respect of, inter 
+alia, the acquisition of the MS St Lukes shares.  The claim was brought under ss 131, 
+135, 137, 298 and 301 of the Companies Act 1993. 
+[4] The evidence as to the 30 March 2007 value of the MS St Lukes shares was 
+not satisfactory.  The trial Judge was plainly satisfied that they were not worth $3.5 
+million  but  he  was  not  satisfied  as  to  the  amount  of  the  excess.1  He  therefore 
+dismissed  a  claim  against  Mr  Morgenstern  under  s  298  of  the  Companies Act.    He 
+was, however, satisfied that Mr Morgenstern was in breach of his obligations to MSE 
+and  acted  generally  in  breach  of  ss  131,  135  and  137.2  The  loss  suffered  by  MSE 
+was,  in  his  assessment,  $3,499,999  (being  the  amount  paid  for  the  shares  less  the 
+realisation of $1) and he gave judgment against Mr Morgenstern for that amount.3 
+[5] Mr Morgenstern's  subsequent appeal to the Court of Appeal was dismissed.4  
+The liquidators' cross appeal on the s 298 finding was also dismissed but this was on 
+the basis that as the judgment for $3,499,999 had been upheld, "no practical purpose 
+would be served in entering judgment against [Mr Morgenstern] again for the same 
+amount in the context of the s 298 cross-appeal".5 
+[6] The applicants now seek leave to appeal against the judgment of the Court of 
+Appeal on what we see as three bases, each of which we will address. 
+                                                 1  Jeffreys v Morgenstern [2014] NZHC 308 (Rodney Hansen J) [Morgenstern (HC)] at [96]. 2  See [97]–[116]. 3  At [120] and [129]. 4  Morgenstern  v  Jeffreys [2014] NZCA 449 (O'Regan P, Harrison and White JJ) [Morgenstern 
+(CA)]. 5  At [112].   An onus of proof on Mr Morgenstern to prove that the transaction occurred at 
+fair value? 
+[7] Both the High Court and Court of Appeal were of the view that it was for Mr 
+Morgenstern  to  show  that  the  transaction  was  at  fair  value.6  According  to  counsel 
+for Mr Morgenstern, they also acted on the basis that a director selling an asset to a 
+company must obtain a contemporaneous independent valuation.   
+[8] We do not read the judgments of the courts below as proceeding on the basis 
+that  there  is  a  duty  to  obtain  a contemporaneous  valuation.    On  the  other  hand,  a 
+director  who  does  not  do  so  may  well  find  it  difficult  later  to  establish  that  the 
+transaction did occur at fair value and was generally a proper one for the company to 
+enter into.  And for reasons explained in Sojourner v Robb, it might be thought to be 
+reasonably  obvious  that  there  is  an  onus  on  a  director  (as  a  fiduciary)  in  such 
+circumstances to establish fair value.7   
+The failure of Mr Morgenstern to call evidence from the accountants on whom 
+he claimed to have relied 
+[9] Mr  Morgenstern,  in  his  evidence,  claimed  to  have  relied  on  the  advice  of 
+certain   accountants.      He   did   not,   however,   call   them   to   give   evidence.  
+Unsurprisingly,  his  failure  to  do  so  was  the  subject  of  adverse  comment  from  both 
+the High Court and the Court of Appeal.8 
+The relief granted 
+[10] The  total  amount  owed  to  the  creditors  of  MSE  is  $1,315,807.80,  of  which 
+$794,987 is said to be owed to a company owned by Mr Morgenstern.9 
+[11] As the Court of Appeal pointed out, the award of $3,499,999 can be justified 
+either on a restitutionary basis or as "but for" assessed compensation.10  The  figure 
+of  $1,315,807  does  not  allow  for  the  liquidators'  costs.    Any  surplus  in  the 
+                                                 6  Morgenstern (HC), above n 1, at [93]; and Morgenstern (CA), above n 4, at [56]–[58] and [65]. 7  Sojourner v Robb [2007] NZCA 493, [2008] 1 NZLR 751 at [21]–[31] and at [76].  8  Morgenstern (HC), above n 1, at [102]; and Morgenstern (CA), above n 4, at [81](c). 9  See Morgenstern (CA), above n 4, at [93](d). 10  At  [98]–[102].    A  purely  restitutionary  claim  would  not  encompass  the  $35,000  paid  to 
+Ms Lavas, but in context we do not see this material.   liquidation  will  be  returned  to  Mr  Morgenstern.   There  is  no  reason  to  suppose  that 
+the  liquidators  (who  are  subject  to  court  control)  will  act  irrationally  should 
+Mr Morgenstern  put  them  in  sufficient  funds  to  discharge  all  debts  and  meet  the 
+liquidation costs. 
+Conclusion 
+[12] The  proposed  appeal  does  not  raise  a  question  of  law  of  public  or general 
+importance  and  there  is  no  appearance  of  a  miscarriage  of  justice.   The  application 
+for leave to appeal is therefore dismissed. 
+ 
+ 
+ 
+ 
+ Solicitors:  
+Gilbert Walker, Auckland for Applicants 
+Meredith Connell, Auckland for Respondents "

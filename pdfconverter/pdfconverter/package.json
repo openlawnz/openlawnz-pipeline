@@ -1,0 +1,15 @@
+{
+  "name": "pdfconverter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fuse.js": "^6.2.1",
+    "node-fetch": "^2.6.0",
+    "openlawnz-common": "git+https://github.com/openlawnz/openlawnz-common.git",
+    "pdfjs-dist": "^2.3.200",
+    "uuid": "^7.0.3"
+  }
+}

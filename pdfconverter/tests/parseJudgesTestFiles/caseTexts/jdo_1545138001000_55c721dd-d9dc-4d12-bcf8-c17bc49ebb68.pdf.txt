@@ -1,0 +1,1585 @@
+" TAHI ENTERPRISES LTD v TAUA [2018] NZHC 3372 [18 December 2018]  
+IN THE HIGH COURT OF NEW ZEALAND 
+AUCKLAND REGISTRY 
+ 
+I TE KŌTI MATUA O AOTEAROA 
+TĀMAKI MAKAURAU ROHE 
+ CIV-2017-404-0435 
+ [2018] NZHC 3372 
+ 
+ 
+ 
+BETWEEN 
+ 
+TAHI ENTERPRISES LIMITED 
+First Plaintiff 
+ 
+DIANNE LEE 
+Second Plaintiff 
+ 
+ 
+AND 
+ 
+TE WARENA TAUA and MIRIAMA 
+TAMAARIKI as executor of the estate of 
+HARIATA ARAPO EWE 
+First Defendants 
+ 
+                                                         Cont.../2 
+ 
+Hearing: 
+ 
+Further 
+Submissions: 
+ 
+6 July 2018 
+ 
+ 
+26 November 2018 and 29 November 2018 
+ 
+Appearances: 
+ 
+D M Salmon and C Upton for the Plaintiffs 
+K J Crossland and A Alipour for the Defendants 
+ 
+Judgment: 
+ 
+18 December 2018 
+ 
+ 
+ JUDGMENT OF ASSOCIATE JUDGE SMITH
+ 
+ This judgment was delivered by me on 18 December 2018 at 11.00am, 
+pursuant to r 11.5 of the High Court Rules 
+ 
+Registrar/Deputy Registrar  
+ 
+ 
+ 
+ Solicitors / Counsel: 
+LeeSalmonLong, Auckland 
+Shieff Angland, Auckland    TE WARENA TAUA, GEORGE HORI 
+WINIKEREI TAUA, NGARAMA 
+WALKER, HAMUERA TAUA and 
+MIRIAMA TAMAARIKI as trustees of the 
+TE KAWERAU IWI TRIBAL 
+AUTHORITY 
+Second Defendants 
+ 
+TE WARENA TAUA, GEORGE HORI 
+WINIKEREI TAUA, NGARAMA 
+WALKER, HAMUERA TAUA and 
+MIRIAMA TAMAARIKI as trustees of the 
+TE KAWERAU SETTLEMENT TRUST 
+Third Defendants 
+ 
+ 
+ 
+   TABLE OF CONTENTS 
+ 
+Para No. 
+ 
+The parties [3] The plaintiffs' claims [10] The judgment of Lang J [29] The plaintiffs' March 2018 claim [35] Statements of defence to the plaintiffs'March 2018 claim by the second 
+and third defendants [45] The second defendants' defence [45] The third defendants' defence [53] The plaintiffs' replies [55] The third defendants' strike-out application [62] The plaintiffs' draft amended statement of claim [64] The plaintiffs' discovery application [75] The notice of opposition [76] Do the rules referred to by the plaintiffs confer jurisdiction to make 
+the discovery orders sought? [80] The parties' arguments on the issue of jurisdiction under r 8.20 [85] The plaintiffs [85] The second and third defendants [90] My conclusions on the r 8.20 jurisdiction issue [94] The Norwich Pharmacal jurisdiction [99] The cases decided under r 8.20 [106] The parties' Norwich Pharmacal arguments [112] The plaintiffs [112] The second and third defendants [127] Plaintiffs' submissions in reply [145] DISCUSSION AND CONCLUSIONS [149] Application to stay any order pending the hearing and determination of  
+the third defendants' strike-out application [207] Result [208]  
+   [1] The plaintiffs wish to sue, as additional defendants in this proceeding, the 
+individual members of the Te Kawerau Ā Maki Iwi (the Iwi).  They do not have access 
+to the register of members of the Iwi, and they now apply for pre-commencement 
+discovery of that register (or registers) so that they can identify the members and add 
+them as parties.  That application is opposed by the second and third defendants, 
+against whom the discovery orders are sought. 
+[2] An earlier application by the plaintiffs for an order under r 4.24 of the High 
+Court Rules appointing the third defendants as the representatives of all affected Iwi 
+members was dismissed by Lang J in a judgment delivered on 26 March 2018 (the 
+representation judgment).1 
+The parties 
+[3] The first plaintiff (Tahi) is an Auckland-based incorporated company.  The 
+second plaintiff, Ms Lee, is a commercial manager, and she is also the sole shareholder 
+and director of Tahi. 
+[4] The Iwi is the collective group composed of individuals descended from an 
+ancestor of Te Kawerau Ā Maki (as further defined in s 12 of the Te Kawerau Ā Maki 
+Claims Settlement Act 2015). 
+[5] The first-named first defendant, Mr Taua, is the chairman and rangatira of the 
+Iwi.  The second-named first defendant is the executor of the estate of Hariata Arapo 
+Ewe (Mrs Ewe), who before her death in August 2009 had been a senior member of 
+the Iwi.  Mr Taua and Mrs Ewe had been claimants on behalf of the Iwi in the Iwi's 
+claim Wai 470 filed in the Waitangi Tribunal, and they had also been claimants on 
+behalf of the Iwi in an urgent Waitangi Tribunal hearing into the Crown's Tāmaki 
+Makaurau settlement process (Wai 1362).  Mr Taua had also been claimant on behalf 
+of the Iwi in claim Wai 2401 in the Waitangi Tribunal. 
+                                                 1  Tahi Enterprises Ltd v Taua [2018] NZHC 516.   [6] The second defendants are the trustees of a charitable trust established by 
+Mr Taua on behalf of the Iwi on 13 July 2008, known as the Te Kawerau Iwi Tribal 
+Authority  (the Tribal Authority).   The Tribal Authority  was  registered  under  the 
+Charitable Trusts Act 2005 on 23 July 2009, for purposes including the negotiation 
+and  settlement  of  all  historical  Treaty  of  Waitangi  claims  of  the  Iwi,  and  the 
+management of any settlement assets derived therefrom for the benefit of the people 
+of the Iwi.  Mr Taua is the chairman of the Tribal Authority.  In this judgment, I will 
+refer to the trustees of the Tribal Authority as "the Tribal Authority Trustees". 
+[7] The third defendants are the trustees of a trust known as the Te Kawerau Iwi 
+Settlement Trust (the Settlement Trust).  The Settlement Trust was established in 
+February 2014 for the benefit of the Iwi.  Among the purposes of the Settlement Trust 
+was representation of the interests of the Iwi, and the receipt and administration of 
+settlement assets received by the Iwi as part of settlement with the Crown of its 
+historical Treaty of Waitangi claims.2  Mr Taua is the chairman of the Settlement Trust. 
+[8] In this judgment, I will refer to the trustees of the Settlement Trust as "the 
+Settlement Trust Trustees". 
+[9] Where reference is required to the Tribal Authority Trustees and the Settlement 
+Trust Trustees collectively, I will refer to them in this judgment as "the Trustees". 
+The plaintiffs' claims 
+[10] In their amended statement of claim dated 16 March 2018 ("the March 2018 
+claim"), the plaintiffs pleaded six causes of action.  All of them arose out of dealings 
+Ms Lee had with members of the Iwi during 2007 and 2008. 
+[11] The following description of the plaintiffs' claims is substantially taken from 
+the representation judgment. 
+                                                 2  The Iwi's historical Treaty of Waitangi claims were settled under the Te Kawerau Ā Maki Claims 
+Settlement Act 2015 and the Ngā Mana Whenua O Tāmaki Makaurau Collective Redress Act 
+2014.   [12] Four of the causes of action relate to two joint venture agreements said to have 
+been made between Tahi and members of the Iwi.  The other two causes of action are 
+based on transactions between Ms Lee and Mr Taua relating to a house property 
+situated at 517 Oruarangi Road, Mangere (the Mangere property). 
+[13] The first of the two joint venture agreements pleaded by the plaintiffs was dated 
+27 June 2007 (the 2007 Agreement).  The named parties to the 2007 Agreement were 
+Tahi and "Te Kawerau Ā Maki".  Ms Lee signed the document for Tahi, and Mr Taua 
+and Ms Piki Taylor for Te Kawerau Ā Maki.  Under the 2007 Agreement, Tahi agreed 
+to provide funding of up to $2 million "in support of Te Kawerau's Treaty claims 
+process".  Tahi was required to pay $1 million within three working days of execution 
+of the agreement, and the balance of the money was to be paid "within 2 months after 
+signing of the Agreement in Principal with the Crown". 
+[14] In consideration for receiving these sums, Te Kawerau agreed that Tahi would 
+be the Iwi's exclusive partner in all future joint venture developments.  Any profits 
+from those undertakings would be shared as to 65 per cent by Te Kawerau and 35 per 
+cent by Tahi. 
+[15] The second joint venture agreement (the Variation Agreement) was signed on 
+22 July 2008, and it purported to vary the 2007 Agreement.  The parties were the same, 
+and the signatories were Ms Lee on behalf of Tahi and Mr Taua and Mrs Ewe on behalf 
+of Te Kawerau.  The Variation Agreement recorded that Mr Taua and Mrs Ewe had 
+"authority to sign this agreement on behalf of Te Kawerau". 
+[16] Under  the Variation Agreement,  Te Kawerau Ā  Maki  was  defined  as 
+"Te Kawerau Ā Maki Iwi Tribal Authority".  The agreement confirmed that that group 
+comprised: (i) The collective group comprised of persons: 
+(a) Who descend from the following ancestors: 
+i. Tawhia ki te Rangi (also known as Te Kawerau Ā 
+Maki); and 
+ii. Mana; and   iii. Te Au o Te Whenua; and 
+iv. Kowhatu ki te Uru. 
+(ii) Every whanau, hapu or group of persons to the extent that the whanau, 
+hapu or group includes persons referred to in 4.i and 
+(iii) Every person referred to in clause 4.i. [17] In addition, the Variation Agreement contained the following clause: It is reasonably foreseeable that upon the successful settlement of the Treaty 
+Claims with the Crown, Te Kawerau will use or form various entities ("related 
+entities") that are associated or controlled by Te Kawerau to govern, manage 
+and develop all assets being settled.  Both parties agree that this agreement 
+should also be binding on all those related entities. [18] Under the Variation Agreement, Tahi agreed to "provide total funding up to and 
+not exceeding NZ$2 million ... in support of the Te Kawerau's Treaty claims process".  
+The parties acknowledge that Tahi had already paid the $1 million.  The balance was 
+to be paid in instalments of $200,000, $100,000 and $700,000, on the occurrence of 
+specified events during the treaty claims settlement process. 
+[19] A new provision (not present in the 2007 Agreement) required Te Kawerau to 
+repay the sums paid by Tahi, in accordance with the following clause: 13. As  soon  as  Te Kawerau  or  any  related  entities  receive  any  cash 
+settlement (including and not limited to accumulated rentals related to 
+Crown Forest Licences) from the Crown of not less than $2 million, 
+Te Kawerau agrees to ensure the prompt repayment of the sum of 
+$2 million capital back to Tahi Enterprises.  Payment to be made 
+within 2 months of receipt. [20] The Variation Agreement reiterated that all profits and interests arising from 
+"future business endeavours" were to be shared as to 65 per cent to Te Kawerau and 
+35 per cent to Tahi.  It also recorded that, save as varied by the Variation Agreement, 
+the 2007 Agreement was to remain in full force and effect. 
+[21] For  convenience,  I  will  refer  to  the  2007  Agreement  and the  Variation 
+Agreement together as "the Agreements". 
+[22] The  plaintiffs  allege  that  the  Tribal  Authority Trustees entered  into  an 
+agreement with the Crown on 7 August 2008 setting out the terms of negotiation of   the Iwi's treaty claims.  They say that on 5 September 2008 Tahi paid $200,000 into a 
+bank account nominated by Mr Taua in accordance with the Variation Agreement, and 
+a further $100,000 (into the same account) in October 2008. 
+[23] On 12 February 2010 the Crown and the Iwi entered into a written agreement 
+in principle to settle the Iwi's treaty claims.  And on 22 February 2014 the Crown 
+entered into a deed of settlement with Te Kawerau Ā Maki and the Settlement Trust 
+Trustees, setting out the terms for settlement of the Iwi's treaty claims. 
+[24] The Te Kawerau Ā Maki Claims Settlement Act 2015 came into force on 
+15 September 2015.  Under this Act, the Iwi's treaty claims were settled on the basis 
+that the Crown would transfer nominated properties to the Settlement Trust Trustees 
+and would also make certain payments to them.  In addition, the Crown granted the 
+Settlement Trust Trustees the option to purchase several parcels of land, and the right 
+of first refusal to purchase other parcels of land. 
+[25] Under the Ngā Mana Whenua O Tāmaki Makaurau Collective Redress Act 
+2014 (the Redress Act), Te Kawerau Ā Maki and 12 other iwi/hapu were collectively 
+granted certain rights and interests by way of redress for historical treaty breaches by 
+the Crown.  These included the ownership of certain parcels of land and the right to 
+purchase other land. 
+[26] By letter dated 27 September 2006 the solicitors acting for Te Kawerau Ā 
+Maki, the Tribal Authority Trustees and Mr Taua purported to cancel the Agreements.  
+Tahi and Ms Lee then filed the present proceeding. 
+[27] The plaintiffs' fifth and sixth causes of action relate to the Mangere property 
+which was acquired by Ms Lee in January 2008.  The plaintiffs say that Mr Taua has 
+resided in the Mangere property throughout the period with which the proceeding is 
+concerned.  Ms Lee contends that Mr Taua told her the Iwi had agreed to give him a 
+sum equivalent in value to at least four per cent of any assets received from the treaty 
+settlement, and that he agreed to assign to her his right to receive that share of the 
+treaty settlement assets in return for the transfer of the Mangere property to him as 
+soon as she received those assets.  Ms Lee entered into a further agreement with   Mr Taua, under which she leased the Mangere property to him for $360.00 per week.  
+She says that in May 2011 the parties renewed the tenancy agreement and Mr Taua 
+agreed to pay rent in the sum of $400.00 per week. 
+[28] Ms Lee says that she never received the share of the treaty settlement assets 
+Mr Taua purported to assign to her.  In her fifth cause of action, she seeks an order 
+requiring the Iwi, the Tribal Authority Trustees and/or the Settlement Trust Trustees to 
+perform the agreement or pay damages in lieu of specific performance.  Ms Lee also 
+alleges that Mr Taua is now significantly in arrears with the rental payable for the 
+Mangere property.  In the sixth cause of action, she seeks judgment against Mr Taua 
+for the unpaid rental. 
+The representation judgment 
+[29] In the representation judgment, Lang J noted that the Crown dealt with the Iwi 
+as a group in settling the treaty claims, and that the Settlement Trust Trustees now hold 
+the treaty settlement assets for the benefit of that group.  His Honour also noted that 
+the Settlement Trust Trustees maintain a current register of members of the Iwi who 
+are beneficiaries of the settlement.  His Honour therefore proceeded on the assumption 
+that it would be possible to identify the persons whom it was proposed the Settlement 
+Trust Trustees would represent.  They would be the persons listed on the register held 
+by the Settlement Trust Trustees, who were older than 18 as at 27 June 2007.  The 
+Judge noted counsel's advice that there would be approximately 400 such persons.3 
+[30] In dismissing the application for a representation order, Lang J made a number 
+of observations.  First, His Honour noted that the statement of claim did not specify 
+the precise basis on which the plaintiffs alleged the Te Kawerau signatories signed the 
+Agreements as the authorised agents of the Iwi.  However, during the hearing counsel 
+for the plaintiffs confirmed that the plaintiffs would allege that the signatories had 
+actual authority of all members of the Iwi to sign the Agreements on their behalf.  His 
+Honour noted that that would require the plaintiffs to prove that each member of the 
+Iwi knew of the proposed venture and authorised the Te Kawerau signatories to sign 
+the Agreements on their behalf. 
+                                                 3  At [40]-[41].   [31] His Honour then noted that each member of the Iwi would be entitled to defend 
+the claim on the basis that he or she did not know of the proposed joint venture and/or 
+did not authorise the Te Kawerau signatories to sign the 2007 Agreement and/or the 
+Variation Agreement on his or her behalf.  The positions of individual members would 
+differ according to the extent to which they were aware of what was occurring in 2007 
+and 2008, and common sense suggested that it was likely that some Iwi members 
+would have no knowledge of the negotiations with Ms Lee.  In those circumstances, 
+His Honour did not consider it appropriate to require the Settlement Trust Trustees to 
+be responsible for ensuring the interests of all members of the Iwi were properly 
+protected.  The Settlement Trust Trustees could not be expected to know or make 
+enquiries as to whether individual Iwi members had sufficient knowledge of the 
+proposal to give their informed consent to those who would sign the agreements on 
+their behalf. 
+[32] Lang J did not consider the making of a representation order would serve the 
+usual purpose of removing the need for a multiplicity of proceedings.  His Honour said 
+that  the  plaintiffs  can  proceed  against  members  of  the  Iwi  by  adding  them  as 
+respondents and arranging for them to be served.  The learned Judge said:4 The scope of the evidence the plaintiffs will be required to adduce at trial will 
+also remain the same because they have no option now but to prove that each 
+member  of  the  Iwi  authorised  Te Kawerau  signatories  to  sign [the 
+Agreements]. [33] Lang J recorded the plaintiffs' proposal that the Settlement Trust Trustees be 
+directed to serve copies of all documents and minutes from the proceeding on all 
+members of the Iwi currently shown on the register as being more than 18 years of age 
+as at 27 June 2007.  The Judge considered that the same amount of administrative 
+effort would be required to do that as would be the case if the Iwi members were named 
+as respondents.  The only difference was that the burden of that effort would shift from 
+the plaintiffs to the Settlement Trust Trustees.  His Honour did not see that procedure 
+as achieving any overall economy of effort or expense.5 
+                                                 4  At [50]. 5  At [51].   [34] Lang J noted that the position might have been different if the plaintiffs had 
+relied upon the status of the signatories to the Agreements as cloaking them with 
+implied authority to bind individual members.  In that event it might be possible to 
+establish  an  agency  relationship  regardless  of  the  state  of  knowledge  held  by 
+individual members of the Iwi.  But on the pleadings as they stood, the plaintiffs were 
+not alleging agency based on implied authority.  Nor was there any evidence to support 
+any such implied authority. 
+The March 2018 claim 
+[35] The hearing of the application for representation orders took place on 26 and 
+27 February 2018.  Lang J reserved his decision.  Before the representation judgment 
+was delivered, the plaintiffs filed the March 2018 claim. 
+[36] It is not necessary to refer to this document in detail, as the hearing before me 
+proceeded on the basis of a draft second amended statement of claim dated 3 July 2018 
+(the  Draft  Claim), in  which  the  individual  Iwi  members,  when  their  names  and 
+addresses were known, would be named as defendants.  However, I will summarise 
+the March 2018 claim briefly, as it is the pleading to which the Trustees responded in 
+their statements of defence filed on 11 June 2018. 
+[37] The March 2018 claim pleaded the Agreements, and it pleaded that Mr Taua 
+and Ms Piki Taylor  executed  the  2007 Agreement  with  the  authority  of  the  Iwi 
+members, as agents of the Iwi members and/or as trustees of the Iwi.  It went on to 
+plead that Mr Taua and Ms Taylor had the authority of the Iwi members to manage the 
+Iwi's interests under the 2007 Agreement, and that Mr Taua confirmed that the 2007 
+Agreement was binding on the Iwi (or members of Te Kawerau Ā Maki). 
+[38] The March 2018 claim stated that Mr Taua and Mrs Ewe had the authority of 
+the Iwi members to execute the Variation Agreement, and that they did so "as agents 
+of the Iwi members and/or as trustees for Te Kawerau Ā Maki".  Mr Taua was said to 
+have executed the Variation Agreement as the agent of the Tribal Authority, and to 
+have had authority to do so (and to manage the Tribal Authority's interests under the 
+Agreements).   [39] The March 2018 claim pleaded that Tahi made the first three payments to the 
+Iwi  parties  under  the  2007  Agreement  as  varied  by the  Variation  Agreement:  
+$1 million  on  29 June  2007,  $200,000  on  5 September  2008,  and  $100,000  on 
+2 October 2008.  The plaintiffs say that these funds were held by the recipients for the 
+benefit of the Iwi, and were used by some or all of the defendants to assist with 
+advancing the Iwi's claims under the Treaty of Waitangi. 
+[40] The  March  2018  claim  pleaded  the  four  causes  of  action  relating  to  the 
+Agreements that were referred to in the representation judgment.  The first cause of 
+action pleaded breach of the joint venture agreement as varied.  On it, Tahi sought 
+specific performance or damages in lieu of specific performance.  In the second cause 
+of action, pleaded in the alternative to the first cause of action, Tahi alleged unjust 
+enrichment and/or entitlement to compensation in equity (in case the Court should 
+hold that the Agreements are not enforceable according to their terms). 
+[41] In  the third  cause  of action,  said  to  be  "against  the Iwi  (all  members  of 
+Te Kawerau Ā Maki)" Tahi asked for an order charging the interest of the Iwi in the 
+Settlement Assets and the earnings from those assets held by the first defendants, the 
+Iwi members and the Trustees for the benefit of the Iwi.  The cause of action was said 
+to arise out of Tahi's alleged entitlement, as a creditor of the trustees, to be subrogated 
+to their various rights of indemnity out of trust assets held by the trusts. 
+[42] In the fourth cause of action, against the Tribal Authority Trustees and the 
+Settlement Trust Trustees, Tahi sought an injunction restraining "unjust use of the 
+settlement assets" inconsistently with the Agreements. 
+[43] The final two causes of action were concerned with Ms Lee's claims against 
+Mr Taua relating to the Mangere property.  In the fifth cause of action, Ms Lee sought 
+specific performance (or damages in lieu thereof), from members of Te Kawerau Ā 
+Maki, the Tribal Authority Trustees, and the Settlement Trust Trustees. 
+[44] In the sixth cause of action, Ms Lee sought damages and an order for specific 
+performance  against  Mr Taua,  relating  to  the  alleged  breaches  by  him  of  his 
+obligations under the agreements relating to the Mangere property.   Statements of defence to the March 2018 claim by the Tribal Authority Trustees 
+and the Settlement Trust Trustees 
+The Tribal Authority Trustees' defence 
+[45] The Tribal Authority Trustees note that the  2007 Agreement was  entitled 
+"Heads of Joint Venture Agreement", and it recorded that one of the parties was 
+"Te Kawerau A Maki".  They plead that "Te Kawerau A Maki" was not and is not a 
+legal entity.  They also plead that as trustees (of the Tribal Authority) they can only act 
+unanimously, and that at no time have they ever unanimously novated, adopted or 
+ratified  the  2007 Agreement  as  varied  by the  Variation Agreement.    The Tribal 
+Authority  Trustees further contend that  the  2007  Agreement  (as  so  varied)  is 
+unenforceable because it is champertous and/or void for uncertainty, or because it has 
+been validly cancelled. 
+[46] In response to a pleading in the March 2018 claim that Mr Taua and Ms Taylor 
+had the authority of Iwi members to execute the 2007 Agreement, the Tribal Authority 
+Trustees deny the allegation and plead: They say further that, while the first defendants had the authority to represent 
+Iwi members, they did not, and could not, have the authority to contract for 
+such Iwi members, and Tahi knew, or, on enquiry – as would have been 
+reasonable for a person in the shoes of Tahi – should have known this. [47] They make a similar response to the plaintiffs' allegations directed to the 
+Variation Agreement. 
+[48] The Tribal Authority Trustees contend that it is not legally possible for a person 
+to be a trustee of an Iwi, and that neither Mr Taua nor Ms Taylor had authority as agent 
+to contract on behalf of the members of the Iwi to pledge their credit or incur liabilities 
+on their behalves. 
+[49] In respect of the Variation Agreement, the Tribal Authority Trustees repeat the 
+contention that Te Kawerau Ā Maki was and is not an entity capable of contracting.  
+They acknowledge that the Tribal Authority did exist as at the date of the Variation 
+Agreement, but say that Tahi elected not to invite the-then Tribal Authority Trustees   to participate in the variation.  They deny that the-then Tribal Authority Trustees were 
+parties to the Variation Agreement. 
+[50] In their first affirmative defence, the Tribal Authority Trustees contend that the 
+Agreements were illegal.  They say that the plaintiffs had no prior interest in the Iwi's 
+Waitangi Tribunal claims, and that the Agreements, if enforced, would entitle Tahi to 
+a 35 per cent share of future profits generated from the development of any settlement 
+assets ad infinitum, and that any returned (settlement) assets could only thereafter be 
+developed with Tahi, to the exclusion of all others.  The Agreements, if enforced, 
+would also (i) enforce the assignment to Tahi of four per cent of the assets returned to 
+the Iwi, and (ii) render a group of individuals (Iwi members) who did not sign the 
+Agreements personally  liable  in  damages  to  Tahi.    In  those  circumstances,  the 
+enforcement of the Agreements would be contrary to public policy. 
+[51] The Tribal Authority Trustees' second alternative defence pleads entitlement to 
+cancel the Agreements because of Tahi's failure to make timely payment of the final 
+payment of $700,000 that was payable under the Agreements within four months of 
+the full ratification of the Deed of Settlement in Parliament.  They say that Ms Lee 
+told Mr Taua on or about 28 December 2012 that Tahi would not pay the $700,000. 
+[52] The Tribal Authority Trustees' third and fourth affirmative defences also rely 
+on alleged entitlement to cancel the Agreements.  The third affirmative defence pleads 
+certain alleged misrepresentations made to Mr Taua by Mr Tuku Morgan on behalf of 
+Ms Lee.  The fourth affirmative defence alleges certain breaches of an alleged duty on 
+the  plaintiffs  to  act  in  good  faith  in  their  dealings  with  the  defendants.   These 
+allegations all appear  to  be  directed  at  certain  activities  of  Ms Lee's  husband, 
+Mr Martin Li, who was a director of Tahi. 
+The Settlement Trust Trustees' defence 
+[53] The Settlement Trust Trustees refer to the plaintiffs' pleading that the plaintiffs 
+sue them as representatives of Te Kawerau Ā Maki Iwi.  They say that that pleading 
+can no longer stand in the light of the representation judgment, which was not the 
+subject of appeal or any other challenge.  They further say that they cannot be liable   in their capacities as trustees of the Settlement Trust, because the Settlement Trust was 
+not settled until 21 February 2014. 
+[54] The Settlement Trust Trustees plead a number of the same defences pleaded by 
+the Tribal Authority Trustees, including that the Agreements are champertous and 
+unenforceable, and/or void for uncertainty. 
+The plaintiffs' replies 
+[55] In  their  reply  to  the  Tribal Authority Trustees' statement  of  defence, the 
+plaintiffs generally deny the affirmative allegations made against them.  They admit 
+that they did not seek confirmation of mandate from the Tribunal Authority Trustees 
+(other than Mr Taua), but they say that it was not necessary for them to do so in order 
+to legally contract with the Tribunal Authority Trustees. 
+[56] They deny that the letter of 27 September 2016 was effective to cancel either 
+of the Agreements, and say that there was no basis for the purported cancellation.  They 
+deny that the Agreements or either of them was champertous or void for uncertainty. 
+[57] They admit that the parties to the Agreements owed each other duties of good 
+faith  (arising  from  the  terms  of  the Agreements  and  the  fiduciary  nature  of  the 
+relationship), but they deny the allegations that they acted in breach of those duties.  
+They say that the matters pleaded by the Tribunal Authority Trustees relating to 
+Mr Martin Li are the subject of a full and final settlement agreement entered into 
+between Mr Li and the Tribunal Authority Trustees on 20 October 2016. 
+[58] In  their  reply  to  the  Settlement Trust Trustees' statement  of  defence,  the 
+plaintiffs admit that the Settlement Trust was not settled until 2014, but say the 
+Settlement Trust Trustees are not sued as principals to the Agreements.  They admit 
+that this Court held (in the representation judgment) that they were not entitled to sue 
+the Settlement Trust Trustees as representatives of members of the Iwi, but they deny 
+any abuse of process in continuing the claims against the Settlement Trust Trustees, 
+saying that their claim will be amended (once the defendants have disclosed the 
+register of Iwi members) to make it clear that the Settlement Trust Trustees are no 
+longer sued as representatives of Iwi members.   [59] The plaintiffs admit that they have no interest in the Iwi's Treaty claim, and 
+that they did not apply to the Waitangi Tribunal or this Court for review of the 
+arrangements proposed under the Agreements or under the agreement with Mr Taua 
+relating to the Mangere property.  They say that no such application was required. 
+[60] They deny the Settlement Trust Trustees' allegations of unlawful maintenance 
+or champerty, and they deny that enforcement  of the Agreements or the  alleged 
+agreement relating to the Mangere property would be contrary to public policy. 
+[61] Otherwise,  the  plaintiffs  generally  deny  the  affirmative  allegations  in  the 
+Settlement Trust Trustees' statement of defence. 
+The Settlement Trust Trustees' strike-out application 
+[62] On  11 June  2018  the  Settlement  Trust Trustees applied  to  strike  out  the 
+plaintiffs' claims against them.  They referred to the representation judgment, in which 
+the Court had refused the plaintiffs' application to sue them as the representatives of 
+the Iwi members, and contended that the March 2018 claim did not plead any viable 
+cause of action against them.  In addition, the Settlement Trust Trustees contended that 
+the Agreements were illegal and unenforceable, inter alia on the grounds of champerty. 
+[63] The plaintiffs filed a notice of opposition to the strike-out application on 
+26 June 2018, denying that the Settlement Trust Trustees have been improperly or 
+mistakenly joined.  They denied that their claims are champertous, or precluded by the 
+representation judgment, and contended that good causes of action have been pleaded 
+against the Settlement Trust Trustees.  They contended that their claims could not be 
+heard and adjudicated without the Settlement Trust Trustees being parties to the 
+proceeding 
+The Draft Claim 
+[64] The Draft Claim, submitted by Mr Salmon at the hearing before me, contained 
+two  blank  schedules.    Schedule 1  would  be  completed  with  the  names  of  "the 
+Contracting Iwi Members", being all members of the Iwi who were over 18 years of 
+age  at  27 June  2007.    The  Contracting  Iwi  Members  would  become  the  fourth   defendants in the proceeding.  Schedule 2 would be completed with the names of all 
+members  of  the  Iwi  from  time  to  time  ("the  Benefitting  Iwi  Members").    The 
+Benefitting Iwi Members would become the fifth defendants. 
+[65] The Draft Claim alleges that the Contracting Iwi Members were parties to the 
+Agreements.  Mr Taua and/or Ms Taylor are said to have had actual authority from the 
+Contracting  Iwi  Members  to  execute  the  2007 Agreement  on  their  behalf,  that 
+authority being "express or ... to be implied from the authority of the signatories as a 
+matter of custom (which custom as a matter of common law will be informed by 
+tikanga"). 
+[66] The Contracting Iwi Members are also said to have been parties to the Variation 
+Agreement:  Mr Taua and/or Mrs Ewe are said to have had authority to enter into the 
+Variation Agreement on their behalf.  Again, the authority is said to have been actual 
+authority, whether express or implied as a matter of custom/tikanga. 
+[67] The plaintiffs then plead that Mr Taua and/or Ms Taylor (in respect of the 2007 
+Agreement) and Mr Taua and/or Mrs Ewe (in respect of the Variation Agreement) 
+executed  the  Agreements  in  an  additional  capacity,  namely  as  trustees  for  the 
+Benefitting Members.  The Contracting Iwi Members are also said to have entered into 
+the Agreements as trustees for the Benefitting Iwi Members. 
+[68] The plaintiffs further contend that Mr Taua and/or Ms Taylor had the authority 
+of  the  Contracting  Iwi  Members  to  manage  the  Iwi's  interests  under  the  2007 
+Agreement, and  that  Mr Taua  and/or  Mrs Ewe  had  similar  authority  under the 
+Variation Agreement. 
+[69] The plaintiffs also say that Mr Taua executed the Variation Agreement as agent 
+of the Tribal Authority Trustees, and that in entering into the Variation Agreement the 
+Tribal Authority Trustees also became a party to the 2007 Agreement.  They contend 
+that Mr Taua also had the authority (actual authority, being either express or implied 
+by custom/tikanga) of the Tribal Authority Trustees to manage the Tribal Authority's 
+interests under the Agreements.   [70] The plaintiffs say that the $2 million Tahi was to pay under the Agreements 
+was to be paid to the Contracting Iwi Members. 
+[71] Tahi's third cause of action, in which it seeks to be subrogated to certain 
+trustees' rights of indemnity out of trust assets, is now proposed to be made only 
+against the Benefitting Iwi Members.  The plaintiffs allege that the first defendants 
+and Ms Taylor, the Contracting Iwi Members, the Tribal Authority Trustees, and the 
+Settlement Trust Trustees, hold the settlement assets for the Benefitting Iwi Members, 
+and to the extent the defendants are liable to Tahi and are entitled to indemnity from 
+the settlement assets in respect of that liability, Tahi is entitled to be subrogated to the 
+defendants'  indemnity  rights,  and  to  a  charge  on  the  interest  of  the  Benefitting 
+Members in the settlement assets. 
+[72] The Draft Claim does not contain the fourth cause of action pleaded in the 
+March 2018 Claim, in which injunctive relief was sought relating to the use of the 
+settlement assets. 
+[73] The penultimate cause of action in the Draft Claim is equivalent to the fifth 
+cause  of  action  in  the  March  2018  Claim,  in  which  Ms Lee  sought specific 
+performance (or damages in lieu) on the alleged agreement with Mr Taua relating to 
+the Mangere property (and in particular, her claim that she is entitled to an assignment 
+of four per cent of the settlement assets).  This claim is now made by Ms Lee against 
+the  Benefitting  Iwi  Members (as  well  as  the  Tribal Authority  Trustees  and  the 
+Settlement Trust Trustees). 
+[74] The last cause of action in the Draft Claim is Ms Lee's claim against Mr Taua 
+for unpaid rent on the Mangere property. 
+The plaintiffs' discovery application 
+[75] The following orders are sought: (a) Orders under r 8.20(2) (or alternatively under r 8.4(4)) that the [Tribal 
+Authority Trustees and the Settlement Trust Trustees] file and serve 
+on the [plaintiffs] affidavits stating:   (i) Whether they have or have had in their control registers of 
+members of Te Kawerau a Maki, and 
+(ii) If any such documents have been but are no longer in their 
+control,  their  best  knowledge  and  belief  as  to  when  such 
+documents ceased to be in their control and who now has 
+control of them; 
+(b) Orders under r 8.20(2) (or alternatively under r 8.4(4)) that the [Tribal 
+Authority Trustees and the Settlement Trust Trustees] make any such 
+documents in their control available for inspection, in accordance with 
+r 8.27, to the applicants; 
+(c) Such other ancillary orders as the Court deems appropriate; and 
+(d) Costs. The Trustees' notice of opposition 
+[76] The notice of opposition says: 
+(a) That the causes of action pleaded in the Draft Claim are either not 
+tenable or are speculative as: 
+(i) they depend on the first defendants, Mr Taua and Ms Tamaariki, 
+being constituted as the agents of the intended defendants to 
+incur liability on their behalves and pledge the personal credit 
+of the intended defendants; 
+(ii) not all the intended defendants were born, or were over the age 
+of 18, at the time one or both of the Agreements were executed; 
+(iii) Ms Lee's evidence as to agency deposes that the authority of 
+Mr Taua and Mrs Ewe to bind the intended defendants  was 
+based on Mr Taua's oral representation to Ms Lee as to that 
+authority; 
+(iv) the  Agreements  give rise  to  claims  against  the  intended 
+defendants  that  are  illegal.    That  is  because  they  are 
+champertous and the plaintiffs never applied to the Court for   approval of the funding terms for the advancement of litigation 
+against the Crown. 
+[77] The Trustees acknowledge that there exists a register of members.  They say it 
+is in the custody, power, possession and control of the Tribal Authority Trustees, not 
+the Settlement Trust Trustees.  Further, the register does not evidence any "mandate" 
+of any of the defendants on behalf of the intended defendants. 
+[78] The Trustees also say that personal information held in the register as to the 
+names and addresses of Iwi members (the intended defendants) was gathered and held 
+with a written statement that the information would be private and was sought for 
+certain defined purposes (which did not include later being used by the plaintiffs to 
+sue the Iwi members).  That created a reasonable expectation that Iwi members' 
+personal details would not be disclosed to third parties without their individual prior 
+consents. 
+[79] There was one affidavit in opposition, that of Ms Collette Fenton, a secretary 
+employed by the solicitors for the Trustees.  Ms Fenton attached a copy of the Tribal 
+Authority's membership registration form. 
+Do the rules referred to by the plaintiffs confer jurisdiction to make the orders 
+sought? 
+[80] The plaintiffs relied primarily on r 8.20.  That rule provides: 8.20 Order for particular discovery before proceeding commenced 
+(1) This rule applies if it appears to a Judge that— (a) a person (the intending plaintiff) is or may be entitled to 
+claim in the court relief against another person (the intended 
+defendant) but that it is impossible or impracticable for the 
+intending plaintiff to formulate the intending plaintiff's claim 
+without  reference  to  1  or  more  documents  or  a  group  of 
+documents; and (b) there are grounds to believe that the documents may be or may 
+have been in the control of a person (the person) who may or 
+may not be the intended defendant. 
+(2) The Judge may, on the application of the intending plaintiff made 
+before any proceeding is brought, order the person—   (a) to file an affidavit stating— (i) whether  the  documents  are  or  have  been  in  the 
+person's control; and (ii) if they have been but are no longer in the person's 
+control, the person's best knowledge and belief as to 
+when  the  documents  ceased  to  be  in  the  person's 
+control and who now has control of them; and 
+(b) to serve the affidavit on the intending plaintiff; and 
+(c) if the documents are in the person's control, to make those 
+documents available for inspection, in accordance with rule 
+8.27, to the intending plaintiff. 
+(3) An  application  under  subclause  (2)  must  be  by  interlocutory 
+application made on notice— 
+(a) to the person; and 
+(b) to the intended defendant. 
+(4) The Judge may not make an order under this rule unless satisfied that 
+the order is necessary at the time when the order is made. [81] The application also referred to r 8.4(4).  That subrule provides: 8.4 Initial disclosure 
+... 
+(4) If a party fails to comply with subclause (1) or (3), a Judge may make 
+any of the orders specified in rule 7.48.6 [82] Mr Salmon did not rely on this subrule in his submissions, and I cannot see 
+how it could assist the plaintiffs. 
+                                                 6  Rule 7.48 materially provides:  7.48 Enforcement of interlocutory order 
+(1) If a party (the party in default) fails to comply with an interlocutory order or any requirement 
+imposed by or under subpart 1 of Part 7 (case management), a Judge may, subject to any 
+express provision of these rules, make any order that the Judge thinks just. 
+(2) The Judge may, for example, order— 
+(a) that any pleading of the party in default be struck out in whole or in part: 
+(b) that judgment be sealed: 
+(c) that the proceeding be stayed in whole or in part: 
+(d) that the party in default be committed: 
+(e) if any property in dispute is in the possession or control of the party in default, that the 
+property be sequestered: 
+(f) that any fund in dispute be paid into court: 
+(g) the appointment of a receiver of any property or of any fund in dispute. 
+...   [83] It has not been possible for the plaintiffs to comply with r 8.20(3)(b) which 
+requires service  on  the  "intended  defendant"  (in  this  case,  the Contracting  Iwi 
+Members and the Benefitting Iwi Members, whose identities the plaintiffs are seeking 
+to ascertain).  While the Trustees did not take any point about that in their notice of 
+opposition or in Mr Crossland's submissions at the hearing, I later came to the view 
+that non-compliance with the service requirement in r 8.20(3)(b) might affect my 
+jurisdiction to make an order under the rule.  I accordingly invited counsel to make 
+post-hearing  written  submissions  on  the  effect  of  the  service  requirement  in 
+r 8.20(3)(b).    Counsel  duly  filed  memoranda,  and  I  have  taken  their  further 
+submissions into account in this judgment. 
+[84] The plaintiffs did also refer to the Court's inherent jurisdiction, and to the 
+House  of  Lords  decision  in Norwich  Pharmacal  Co  v  Customs  &  Excise 
+Commissioners, where orders were made against the Commissioners requiring them 
+to disclose the names of persons unknown to the intending plaintiff who had been 
+unlawfully importing into the UK products that infringed the plaintiff's patent.7  In my 
+minute inviting further submissions on the effect of r 8.20(3)(b), I also invited further 
+submissions  from  counsel  on one  aspect  of Norwich  Pharmacal and  the  cases 
+(primarily in the United Kingdom) that have followed it.  Further submissions on that 
+issue have been received and considered. 
+The parties' arguments on the issue of jurisdiction under r 8.20 
+The plaintiffs 
+[85] Counsel submitted that the requirement for service is not mandatory, and 
+cannot apply in cases where the purpose of the application is to identify the intended 
+defendant. 
+[86] Rule 8.20 has its origins in the Norwich Pharmacal jurisdiction, and in British 
+Markitex Ltd and Markitex (New Zealand) Ltd v Johnston Wylie J noted that, however 
+sound the reasons for restricting so-called equitable discovery to the somewhat narrow 
+                                                 7  Norwich Pharmacal Co v Customs & Excise Commissioners [1974] AC 133 (HL); [1993] UKHL 
+6.   confines discussed in Norwich Pharmacal, those limitations have not been imported 
+into rr 299 and 301 (the forerunners of the present r 8.20).8 
+[87] In response to a reference by the Court to r 8.20(3)(b) appearing to contemplate 
+the  intended  defendant  having  a  right  to  be  heard  under  the  rule,  the  plaintiffs 
+submitted that it cannot be said that the intended defendants in this case have not had 
+the opportunity to exercise that right.  Counsel referred to the representation judgment, 
+and also to an exhibit to Ms Lee's affidavit sworn in June 2018, being a public notice 
+(dated after the date of the plaintiffs' present application) recording communications 
+from the Settlement Trust Trustees to all of the intended additional defendants.  The 
+notice is signed by Mr Taua on behalf of the Trustees.  Counsel submitted that, while 
+formal service has not occurred, it is inevitable that the Contracting Iwi Members and 
+the Benefitting Iwi Members have had notice of the application. 
+[88] Alternatively, counsel for the plaintiffs invited me to invoke r 1.6.  That rule 
+provides: 1.6 Cases not provided for 
+(1) If any case arises for which no form of procedure is prescribed by any 
+Act or rules or regulations or by these rules, the court must dispose of 
+the  case  as  nearly  as  may  be  practicable  in  accordance  with  the 
+provisions of these rules affecting any similar case. 
+(2) If there are no such rules, it must be disposed of in the manner that the 
+court thinks is best calculated to promote the objective of these rules 
+(see rule 1.2). [89] They submitted that, if r 8.20 does not provide jurisdiction in a case where the 
+purpose of the application is to identify intended defendants, then the Court is required 
+by r 1.6 to dispose of the application as nearly as practicably with the principles 
+relating to r 8.20.  They submit that the same outcome results. 
+The Trustees 
+[90] For the Trustees, counsel submitted that the effect of r 8.20(3)(b) is that the 
+rule cannot apply at all to the present application.  They pointed out that the former 
+                                                 8  British Markitex Ltd and Markitex (New Zealand) Ltd v Johnston (1987) 2 PRNZ 535 at 540.   r 299  was  amended  in  1993  to  add  the  requirement  of  service on  the  intended 
+defendants, and submitted that the authorities decided before the 1993 amendment, 
+including British Markitex, are inapplicable.  They acknowledged that the commentary 
+on r 8.20 in McGechan on Procedure does suggest that the rule may be used to identify 
+the intended defendants, but submitted that the authorities cited in support were all 
+cases decided under the old r 299.  The commentary is accordingly inapplicable in 
+light of the amendment requiring service. 
+[91] Counsel  submitted  that  the  1993 amendment  to  the  rule  represented  a 
+conscious change, and the service requirement is expressed in mandatory terms.  The 
+result is that, if an intending plaintiff does not know the identity of the intended 
+defendant, the intending plaintiff must  have recourse to the Norwich  Pharmacal 
+jurisdiction, where a more stringent test for the discovery is required (including a 
+higher requirement on the intending plaintiff to show that the intended cause of action 
+has merit). 
+[92] Counsel  submitted  that  the  application  cannot  be  saved  under  r 1.5 
+(non-compliance with the rules) or r 1.6.  The latter rule was designed to avoid 
+injustice as a result of technicalities, but the failure to serve in this case cannot be 
+considered a technicality.  The plaintiffs have simply used the wrong rule.  That said, 
+counsel  acknowledged  that  the  Court  might  consider  curing  the  defect  in  the 
+application by treating it as one made under the Norwich Pharmacal jurisdiction, 
+rather than one under r 8.20. 
+[93] In response to the plaintiffs' submission that the Contracting Iwi Members and 
+the Benefitting Iwi Members have had notice of the application in any event, counsel 
+submitted that there is insufficient evidence for the Court to be satisfied that all of 
+them were made aware of the application. 
+My conclusions on the r 8.20 jurisdiction issue 
+[94] I accept the Trustees' submissions on this issue.  Subrule (3) is expressed in 
+mandatory terms (for example, in the use of the word "must").  And some purpose 
+must  be  given  to  the  1993  amendment,  in  which  the  service  requirement  was   introduced.  Cases decided on the old r 299 as it stood before the 1993 amendment 
+cannot assist. 
+[95] I  accept  that  the Norwich  Pharmacal jurisdiction  clearly  existed  in 
+New Zealand before the 1993 rule change — that is clear from the decision of the 
+Court  of Appeal  in Exchange  Commerce  Corp Ltd v  NZ  News  Ltd.9  Somers J 
+expressly referred to the jurisdiction in that case, noting that not much difficulty would 
+arise in the case of an intending plaintiff who makes it appear that he or she is entitled 
+to claim relief against another, but cannot formulate the claim without reference to a 
+particular document or class of document.  His Honour said: 10 Not much difficulty can arise in the case of an intending plaintiff who makes 
+it appear to the Court that he [or she may be] entitled to claim relief against 
+another  but  cannot  formulate [a] claim  without  reference  to  a  particular 
+document or class of document.  This must we think embrace circumstances 
+where the actual defendant is not known as well as cases where some date, 
+figures or other fact or circumstance is necessary in order to plead the claim 
+as the rules require.  This part of the rule postulates that the plaintiff has a 
+claim but cannot adequately formulate it or name the defendant. 
+(Emphasis added.) [96] I do not consider that the 1993 amendment was intended to deprive the Court 
+of its equitable jurisdiction, recognised by the Court of Appeal in Exchange Commerce 
+Corp, to make Norwich Pharmacal orders where the justice of the case so requires.  
+Something more than the mere addition of a service requirement would have been 
+expected  if  the  intention  had  been  to  completely  remove  part  of  the  Court's 
+jurisdiction.  The effect of the change was, in my view, simply to provide separate 
+"tracks" for (i) cases where the identity of the intended defendant was known, but for 
+other reasons it was impossible or impracticable for the intending plaintiff to formulate 
+its claim (the r 8.20 track), and (ii) cases where the justice of the case required the 
+Court in its equitable jurisdiction to intervene, to require someone who has been more 
+than a mere witness to the activities of an alleged wrongdoer (whose identity the 
+intending plaintiff does not know) to disclose the identity of the alleged wrongdoer 
+(the Norwich Pharmacal track). 
+                                                 9  Exchange Commerce Corporation Ltd v NZ News Ltd [1987] 2 NZLR 160. 10  At 164.   [97] That is consistent with the view expressed by John Katz QC in an article 
+published in the New Zealand Intellectual Property Journal in 2010.11 
+[98] For  those  reasons, I  conclude that  the Norwich  Pharmacal jurisdiction  is 
+available in New Zealand, but in a case such as this r 8.20 is not.  I will accordingly 
+treat this application as one made in the Court's inherent jurisdiction, guided by the 
+principles applied by the Courts in Norwich Pharmacal and the cases in which it has 
+been followed.  I see no possible prejudice to the Trustees in so doing — Norwich 
+Pharmacal was referred to in the application, and both parties presented argument on 
+it. 
+The Norwich Pharmacal jurisdiction 
+[99] The so-called "Norwich Pharmacal order" had its origins in the old equitable 
+"bill of discovery" procedure, but by the 1970's it appears to have fallen into disuse.  
+That may have been because of the existence of the "mere witness" rule, under which 
+a person who was no more than a bystander, or "mere witness" to the wrongdoing of 
+which the plaintiff complained, could not be compelled to provide discovery by way 
+of a pre-trial order designed to identify the wrongdoer. 
+[100] In Norwich Pharmacal, the House of Lords held that the "mere witness" rule 
+remained in existence, but would not prevent an order against a third party directing 
+the third party to disclose the identity of the wrongdoer if the third party had some 
+qualifying relationship, or association or connection, with the alleged wrongdoer, 
+which created a duty to assist the person who had been wronged by disclosing the 
+identity of the wrongdoer.  As Lord Reid put it, an otherwise innocent person who, 
+through no fault on its part, becomes "mixed up in" the tortious acts of another, comes 
+under a duty to assist the person who has been wronged by disclosing the identity of 
+the  wrongdoer.12  In  the  case  before  the  Court  in Norwich  Pharmacal,  the 
+Commissioners' statutory powers with respect to the imported goods while the goods 
+were  in  Customs'  control  were  considered  sufficient  to  give  rise  to  the  duty  of 
+disclosure, notwithstanding that there was no cause of action against Customs itself. 
+                                                 11  John Katz, "Norwich Pharmacal Orders:  35 Years On", (2010) NZIPJ 610. 12  Norwich Pharmacal Co v Customs & Excise Commissioners, above n 7, at [175].   [101] Subsequent decisions of the Courts in the United Kingdom have arguably 
+lessened the requirement that the respondent to the discovery application must have 
+been "mixed up in" the wrongdoing before discovery of the wrongdoer's identity will 
+be ordered.  For example, in The Coca Cola Company v British Telecommunications 
+Plc Neuberger J  considered  that  Lord  Reid  had  put  the  test  for  association,  or 
+connection, with the wrongdoer's activities higher than some of the other law lords 
+had done.13  His Honour referred to the speech of Lord Morris of Borth-y-Gest in 
+Norwich Pharmacal, where his lordship referred to the respondent having actual 
+involvement, or actual concern, in a transaction or arrangement, as a result of which 
+the  respondent  acquired  the  information.    Neuberger J  considered  that  the 
+"transactions or arrangements" there referred to must be transactions or arrangements 
+which are to be the subject matter of the main proceeding.14 
+[102] Neuberger J identified the following propositions: 
+(i) the intending plaintiff must show that it has or may have a good case 
+against the alleged wrongdoer (in some cases an honest belief that a tort 
+has been committed may suffice); 
+(ii) the respondent must have become mixed up, in some real way, in the 
+transaction concerning which the discovery is required; 
+(iii) any order made should be made with a view to trying to enable justice 
+to be done; 
+(iv) the plaintiffs' interests in pursuing their case must be balanced against 
+the natural concern of BT not to open the floodgates to a raft of similar 
+discovery  applications  (BT  was  merely  the  service  provider  for  a 
+mobile  telephone  used  by  the  alleged  wrongdoer  in  the  course  of 
+carrying out the alleged unlawful activity (trade mark infringement and 
+passing off)). 
+                                                 13  The Coca Cola Company v British Telecommunications Plc [1999] FSR 518 at 522. 14  At 522.   [103] Neuberger J was satisfied that the justice of the case justified the making of the 
+order sought, notwithstanding the unwitting nature of BT's involvement in the alleged 
+unlawful activity. 
+[104] The Norwich  Pharmacal jurisdiction was considered again by the  United 
+Kingdom Supreme Court in The Rugby Football Union v Consolidated Information 
+Systems Ltd.15  The principal judgment, in which all other members of the Court 
+concurred, was given by Lord Kerr.  His Lordship noted that the essential purpose of 
+the Norwich Pharmacal remedy is to do justice.  That will involve the exercise of the 
+discretion by a careful and fair weighing of all relevant factors.  His Lordship noted 
+that the following factors have been identified as relevant by the authorities:16 (i) the strength of the possible cause of action contemplated by the 
+applicant for the order; 
+(ii) the strong public interest in allowing an applicant to vindicate 
+his legal rights; 
+(iii) whether the making of the order will deter similar wrongdoing 
+in the future; 
+(iv) whether the information could be obtained from another source; 
+(v) whether the respondent to the application knew or ought to have 
+known that he was facilitating arguable wrongdoing, or was 
+himself a joint tortfeasor; 
+(vi) whether the order might reveal the names of innocent persons 
+as well as wrongdoers, and if so whether such innocent persons 
+will suffer any harm as a result; 
+(vii) the degree of confidentiality of the information sought; 
+(viii) the privacy rights under art.8 of the European Convention for 
+the Protection of Human Rights and Fundamental Freedoms of 
+the individuals whose identify is to be disclosed; 
+(ix) the rights and freedoms under the EU data protection regime of 
+the individuals whose identity is to be disclosed; and 
+(x) the  public  interest  in  maintaining  the  confidentiality  of 
+journalistic sources, as recognised in s 10 of the Contempt of 
+Court Act 1981 and art.10 ECHR. 
+(Citations omitted.)                                                  15  The Rugby Football Union v Consolidated Information Systems Ltd [2012] UKSC 55; [2013] FSR 
+23. 16  At [17].   [105] There appears to be no authority on the application of Norwich Pharmacal in 
+this  Court, but I  think the  approach  applied  by  the  Courts  in  New Zealand  to 
+applications under r 8.20 must to some extent inform the exercise of the Court's 
+Norwich Pharmacal discretion.  For example, it seems to me from some of the earlier 
+cases on the old r 299, including Exchange Commerce Corporation Ltd, that the rule 
+had its origins in the Norwich Pharmacal line of cases, and that the "is or may be 
+entitled to claim" wording in the rule was probably intended to reflect the threshold an 
+applicant for a Norwich Pharmacal order was required to meet before a discovery 
+order could be made.  It will therefore be appropriate to refer briefly to some of the 
+New Zealand authorities on r 8.20. 
+The cases decided under r 8.20 
+[106] What is required under r 8.20 is that the plaintiff must have a real, as opposed 
+to a speculative, claim.  There must be a "sufficient" substratum of fact ... some basis 
+of fact which takes matters beyond mere fishing; mere trawling or speculation, hoping 
+something useful may be caught.17 
+[107] In Welgas Holdings Ltd v Petroleum Corp of NZ Ltd, McGechan J referred to 
+the Court of Appeal decision in Exchange Commerce, noting that there must be a 
+sufficient  "substratum  of  fact"  to  take  the  application  beyond  a  mere  fishing 
+expedition, where the applicant is hoping that something useful may be caught.  His 
+Honour considered that the Court in Exchange Commerce was looking for some 
+threshold so as to avoid speculative fishing. 
+[108] McGechan J considered that a claim that which was "plainly hopeless" would 
+not be regarded as one of sufficient substance to justify disclosure, but the Court could 
+not generally be expected to reach "any real probability of success" conclusion on an 
+interlocutory application such as a pre-commencement discovery application.18  The 
+issue is one of substance as opposed to speculation.19 
+                                                 17  Welgas Holdings Ltd v Petroleum Corp of NZ Ltd (1991) 3 PRNZ 33 (HC) at 43. 18  At 43. 19  At 50.   [109] In Hetherington Ltd v Carpenter20 the Court of Appeal referred with approval 
+to the statement of McGechan J in Welgas that the essential concern in such cases was 
+to sort out the real from the fishing, rather than to prejudge the merits of the case at a 
+preliminary stage. 
+[110] In Hetherington, the Court of Appeal framed the test in the following terms:21 There must be some foundation established such as will make it just that the 
+respondents should be put to the trouble and suffer the intrusion on their affairs 
+which an order will involve ... but the focus ... is on the probable existence 
+of a claim, not on the probability of a claim being established at trial ... the 
+Court cannot be intended, at the stage of pre-commencement discovery, to 
+reach any conclusion as to the likelihood of ultimate success at trial.  ...  If the 
+proposed claim, even if particularised, would be struck out as having no basis 
+in law, then clearly discovery should not be granted.  There must be more, 
+however, than the mere ability to make allegations which avoid being struck 
+out.  Counsel's duty to the Court requires some basis before allegations are 
+made and proceedings issued, although the evidence at that stage may be 
+insufficient to establish the case. [111] On the issue of what is meant by "impossible or impracticable" in r 8.20, the 
+Court of Appeal has held that the words refer to an inability to plead the claim in 
+accordance with the requirements of the rules.  It is the formulation of the claim which 
+must be impossible or impracticable, not its pursuit to finality.22 
+The parties' arguments 
+The plaintiffs 
+[112] Counsel for the plaintiffs submitted in their post-hearing memorandum that the 
+Norwich Pharmacal requirement that the respondent be somehow involved in, or 
+"mixed up in", the wrongdoing of the intended defendant simply does not apply where 
+the respondent is itself a defendant in an existing proceeding, and the discovery is 
+sought for the purpose of identifying additional defendants who will be added in that 
+proceeding.23  They submitted that the Court's jurisdiction to make the orders sought, 
+exercising the Norwich Pharmacal jurisdiction, is therefore not constrained by any 
+                                                 20  Hetherington Ltd v Carpenter [1997] 1 NZLR 699 at 704. 21  At 704. 22  Exchange  Commerce  Corp  Ltd  v  NZ  News  Ltd,  above  n 9  at  164,  and Hetherington  Ltd  v 
+Carpenter, above n 20 at 705. 23  Referring to Norwich Pharmacal Co v Customs & Excise Commissioners, above n 7.   requirement that the Trustees be associated with, or mixed up in, the wrongdoing 
+alleged  against  the  Contracting  Iwi  Members  and  the  Benefitting  Iwi  Members 
+(although such a requirement would be met in any event — see, for example, the 
+plaintiff's first cause of action, where the Tribal Authority Trustees and the Contracting 
+Iwi Members are both said to be liable to Tahi for breach of the Agreements). 
+[113] In his submissions for the hearing, Mr Salmon pointed out that the Agreements 
+were made expressly between Tahi and the Iwi.  The Iwi comprises its membership, 
+determined by whakapapa, including collective groups and individuals. 
+[114] Mr Salmon referred to the Deed of Settlement between the Iwi, the Settlement 
+Trust Trustees, and the Crown, which was given statutory effect by the Te Kawerau Ā 
+Maki Claims Settlement Act 2015.  The Deed of Settlement was also an agreement 
+entered into by the Iwi through its agents, and it defined the Iwi as comprising its 
+membership, determined by whakapapa, including collective groups and individuals.  
+The Deed of Settlement purports to bind all members of the Iwi, whether living at the 
+time of execution or in the future. 
+[115] Mr Salmon submitted that the ability of the Contracting Iwi Members to enter 
+into the Agreements through their agents, and the ability of the Contracting Iwi Parties 
+to enter into the Agreements as trustees for the Benefitting Iwi Members, is in no 
+essential way different from the ability of the Iwi to enter into the Deed of Settlement 
+with the Crown.  In both cases, enforceable legal relationships have been created as a 
+matter of common law, informed by tikanga. 
+[116] Mr Salmon  further  noted  that  Mr Taua  was  a  signatory  to  the Deed of 
+Settlement with the Crown, and that he was recorded in it as the mandated negotiator 
+for the Iwi in the settlement of its Treaty of Waitangi claims. 
+[117] In Mr Salmon's submission, the claims involve straightforward application of 
+contract  law  to  the Agreements.    The  "substratum  of  fact"  establishes  the  "real   probability of the existence of a claim against" Contracting Iwi Members, and any 
+dispute about the extent of any signatories' authority is a matter for trial.24 
+[118] Mr Salmon submitted that it must have been the case that the Contracting Iwi 
+Members entered into the Agreements as trustees for the Benefitting Iwi Members.  
+That must have been so, as the historical Treaty claims were collective, and the Deed 
+of Settlement with  the  Crown  binds  future  members  of  the  Iwi.   The  Deed  of 
+Settlement was signed "for and on behalf of Te Kawerau Ā Maki" by mandated 
+signatories, and those signatories must have signed as agents of the members of the 
+Iwi having legal capacity at that time.  In turn, those members thereby entered into the 
+Deed of Settlement as trustees for all present and future members of the Iwi.  Those 
+considerations apply equally to the Agreements. 
+[119] On  the  proposed  joinder  of  the  Benefitting  Iwi  Members,  Mr Salmon 
+submitted  that,  where  a  third  party  claimant issues  a  proceeding seeking to  be 
+subrogated to a trustee's right of indemnity out of trust assets, the trust beneficiaries 
+should be joined.  That is because the claim will seek direct enforcement against trust 
+property without recourse to the trustee.25  In this case, the subrogation claim is based 
+on a straightforward application of the Agreements with reference to appropriate legal 
+principles. 
+[120] With reference to Ms Lee's claims relating to the Mangere property, and the 
+assignment of Mr Taua's four per cent interest in the settlement assets to Ms Lee, 
+Ms Lee seeks to enforce her claim to the four per cent interest against those who 
+currently hold the settlement assets legally and beneficially.  Mr Salmon noted that the 
+settlement assets are now held by the Tribal Authority Trustees and the Settlement 
+                                                 24  To the extent that, contrary to his principal submission, the authority issue may be a relevant 
+consideration on the present application, Mr Salmon pointed to the form and content of the 
+Agreements (which on their face are agreements between Tahi and the Iwi), Tahi's performance of 
+its obligations under the Agreements for the benefit of the Contracting Iwi Members, the Iwi's 
+history of entering into collectively binding agreements through agents, the New Zealand common 
+law's recognition of tikanga (in Takamore v Clarke [2011] NZCA 587; Takamore v Clarke [2012] 
+NZSC 116), and the Court's recognition of the ability of rangatira and kaumatua to act on behalf 
+of, and to represent, collective groups (Proprietors of Wakatu v Attorney-General [2017] NZSC 
+17, per Elias CJ at [494], per Glazebrooke J at [673], per Arnold and O'Regan JJ at [807]; Ngati 
+Apa Ki Te Waipounamu Trust v Attorney-General [2007] 2 NZLR 80 (PC)). 25  Referring to Lynton Tucker, Nicholas Le Poidevin, James Brightwell Lewin on Trusts (19th ed, 
+Thomson Reuters, Wellington, 2018) at [21-053].   Trust Trustees for the benefit of the Benefitting Iwi Members.  Again, Mr Salmon 
+submits that the claim involves a straightforward application of the law relating to 
+assignments, and is enforceable by Ms Lee under s 130 of the Property Law Act 1952. 
+[121] On the issue of the plaintiffs' inability to formulate their claims against the 
+Contracting Iwi Members and the Benefitting Iwi Members, Mr Salmon submitted 
+that the test is obviously met.  The plaintiffs are unable to formulate claims against 
+people whose identities they do not know.  Pre-commencement discovery orders can 
+and should be made to disclose the names and addresses of prospective defendants.26 
+[122] Mr Salmon noted that it is not disputed that the register of Iwi members exists, 
+and is in the possession and control of either or both of the Tribal Authority Trustees 
+and the Settlement Trust Trustees. 
+[123] On the issue of agency, Mr Salmon emphasised that the plaintiffs rely on 
+alleged actual authority to bind the Contracting Iwi Members, including authority 
+arising from the status of the signatories as rangatira and kaumatua of the Iwi.  To the 
+extent  that  any  of  the  Benefitting  Iwi  Members  may  be  minors,  or  otherwise 
+incapacitated, appropriate arrangements can be made under the rules for their defence 
+of the proceeding.  But at this stage those matters are academic, as there is no evidence 
+of the ages of the members who would be sued, nor of any having other disabilities. 
+[124] Mr Salmon submitted that the champerty argument is novel in this situation.  
+The Agreements did not relate to pursuing litigation in the Courts:  they referred to 
+claims before the Waitangi Tribunal, which is a commission of enquiry.  The Waitangi 
+Tribunal does not award damages, and accordingly no issue arises over the validity of 
+an agreement to divide the spoils of litigation.  Champerty is concerned with the due 
+and proper administration of Court business, and the settlement of Treaty Claims is 
+not Court business but Crown business.  Further, the Supreme Court has rejected the 
+proposition that it is the role of the Courts to act as general regulators of litigation 
+funding arrangements.27  In this case, the Agreements did not involve the assignment 
+                                                 26  Norwich Pharmacal Co v Customs & Excise Commissioners, above n 7. 27  Waterhouse v Contractors Bonding Ltd [2014] 1 NZLR 91; [2013] NZSC 89.   of any causes of action, and no right was conferred on Tahi to exercise control over 
+the Iwi's pursuit of its Treaty claims. 
+[125] In any event, even if the Agreements were found to be champertous that would 
+not deprive the  plaintiffs of a cause of action.  Under s 76 of the  Contract and 
+Commercial Law Act 2017, it would only go to the relief available. 
+[126] On the issue of the entitlement of individual Iwi members to privacy, the 
+plaintiffs say that privacy concerns cannot be sufficient reason to withhold discovery 
+of the identities of the proposed additional defendants.  Privacy Principle 11, in s 6 of 
+the Privacy Act 1993, specifically provides for disclosure of personal information for 
+the purposes of proceedings before a court. 
+The Trustees 
+[127] In his post-hearing memorandum, Mr Crossland took the plaintiffs' argument 
+on the Norwich Pharmacal jurisdiction to be that the jurisdiction is limited to cases 
+where the person required to provide discovery is a non-party to the proceeding (or 
+proposed proceeding).  He submitted that that proposition is incorrect.28  He then went 
+on to consider the Draft Claim, and submitted that no wrongdoing by the Contracting 
+Iwi Members or the Benefitting Iwi Members is sufficiently pleaded.  No evidence has 
+been  provided  to  show  that  Mr Taua  had  express  authority  to  enter  into  the 
+Agreements, and the claims based on implied authority are speculative or nebulous.  
+The claims against the Contracting Iwi Members that they have been unjustly enriched 
+cannot succeed, as they have not benefitted personally from the disputed funds, and 
+beneficial receipt is a required element of the cause of action in restitution. 
+[128] In respect of the Benefitting Iwi Members, Mr Crossland first submitted that 
+there can be no claim against them in "subrogation":  subrogation is not a wrongdoing, 
+but a form of relief.  Nor can Ms Lee possibly succeed against the Benefitting Iwi 
+Members on the claim that there has been a failure to pay her the four per cent of the 
+Settlement Assets which she says was promised to her by Mr Taua.  The Settlement 
+Assets are not held by the Benefitting Iwi Members:  they are held by the Settlement 
+                                                 28  Referring to Wobben Properties GmbH v Siemens Plc [2014] EWHC 3173 at [25].   Trust Trustees,  and  the  Benefitting  Iwi  Members  have  no  ability  to  compel  the 
+Settlement Trust Trustees to make the payment claimed by Ms Lee. 
+[129] In his submissions for the hearing, Mr Crossland submitted that the critical 
+element affecting all of the causes of action against the proposed additional defendants 
+is  the absence of any authority in Mr Taua, Ms Taylor and Mrs Ewe to bind all 
+members of the Iwi.  It was not enough for Mr Taua to tell Ms Lee that he had the 
+necessary authority.  Mr Taua may have been rangatira of the Iwi, but the plaintiffs 
+have provided no particulars and provided no evidence of any customary right of a 
+rangatira to alienate an iwi's property rights. 
+[130] Further, such evidence as has been provided is against the theory that only one 
+person could "call the shots" as Mr Taua purported to do when he claimed to have 
+authority to enter into the Agreements on behalf of the Iwi.  The treaty settlement 
+process entered into with the Crown shows that numerous people were involved on 
+behalf  of  the  Iwi — indeed,  approximately  150  "other  witnesses/members  of 
+Te Kawerau Ā Maki who support the settlement" signed the Deed of Settlement. 
+[131] Mr Crossland referred to a number of Waitangi Tribunal reports, including the 
+1996 Taranaki Report which he submitted raised similar issues to those raised in this 
+case.  The question there was whether individuals could presume to alienate Māori 
+land, or whether a collective decision of the relevant iwi was required.  The Tribunal 
+considered that any disposition that could introduce outsiders to the iwi community 
+affected everyone; accordingly, a community decision was required, as expressed 
+through the rangatira. 
+[132] Consistent with that approach, Mr Crossland submitted that it would be very 
+odd  if  a  senior  figure  of  an  iwi  could,  without  any  discussion  within  the iwi 
+community, alienate four per cent of the iwi's settlement assets and grant 35 per cent 
+control of its profits going forward.  There was and is no chiefly authority over the 
+private property interests of members of a given iwi, and a chief cannot pledge the 
+personal credit of members without their express authority and consent.  Furthermore, 
+the Settlement Trust trust deed provided that, subject to the provisions of the Deed, the 
+Settlement Trust Trustees are to control and supervise the business and affairs of the   Settlement Trust in such manner as they in their sole discretion see fit.29  And cl 13.12 
+of the same Deed provides for voting procedures to deal with the Settlement Trust 
+property.  Similarly the Tribal Authority trust deed, which was executed nine days 
+before the Variation Agreement, was signed by seven initial trustees, who had full 
+power in respect of the trust fund. 
+[133] These documents, and the mandate procedure required by the Crown before 
+the Iwi's treaty claims could be settled, are inconsistent with Mr Taua having the 
+authority to bind individual Iwi members for which the plaintiffs contend. 
+[134] Mr Crossland then referred to the Privacy Act 1993, noting that the Tribal 
+Authority and the Settlement Trust qualify as "agencies" subject to that Act, and that 
+the information sought is "personal information" as defined in s 2.  When Iwi members 
+registered  their  names  and  addresses,  they  did  so  on  a  form  that  contained  the 
+following: Privacy of Information 
+• The information supplied is confidential within the terms of the Privacy 
+Act 1993, and for the lawful use of the Te Kawerau Iwi Tribal Authority. 
+• A person may only access their own personal information. [135] In circumstances where the plaintiffs' claims are speculative, and disclosure 
+could  chill  tangata  whenua  registering  with  iwi  authorities  (leading  to  less 
+participation in elections, and hindering the development of whakapapa records), 
+allowing the discovery sought would be contrary to the public interest.  For those 
+reasons, there is no justification for abrogating Iwi members' entitlement to privacy in 
+this case. 
+[136] If those submissions are not accepted, Mr Crossland submitted that it was 
+responsible for the Trustees to decline to supply the register without a Court order.  It 
+the Court does order production, it should therefore do so without any order for costs.  
+Also, a person's address is not required by a litigant to formulate a claim:  if the Court 
+                                                 29  At cl 3.7.   orders production of the register it should order the redaction of both the names of all 
+Iwi members aged under 18 on 27 June 2007, and the addresses of all Iwi members. 
+[137] On the cause of action in which Tahi seeks to be subrogated to the Trustees' 
+rights  to  indemnity  out  of  trust  assets,  Mr Crossland initially submitted that 
+subrogation is a form of relief, and the cause of action is merely parasitic on the first 
+cause of action.  He noted in his written submissions that the Court held in the 
+representation judgment that "the issue of subrogation will necessarily be considered 
+in the context of relief that the Court may grant after the Court has made its primary 
+findings in relation to the issue of liability".30  And to the extent this cause of action 
+seeks a charge on the settlement assets, Mr Crossland noted that they are held by the 
+Settlement Trust Trustees, who are the legal owners.  Even if there existed a cause of 
+action called subrogation, the charge sought would be otiose to the Iwi members.  In 
+those circumstances, it is unnecessary to know the names of the people on the register, 
+as the claim was only properly pleaded against the Trustees.  In Mr Crossland's 
+submission, this cause of action should be struck out, and the Court should do that of 
+its own motion. 
+[138] At the hearing, Mr Crossland acknowledged that it is a general principle of 
+trust law that trustees (such as the Trustees) acting within their powers under the 
+relevant trust instruments are entitled to indemnity out of the trust assets for any 
+personal liabilities they incur while so acting.  He indicated that the denial of that right 
+in his clients' statements of defence would be amended to admit that general right of 
+indemnity.  However, he maintained the submission that the courts will not join trust 
+beneficiaries in a claim by a creditor of the trustee seeking to enforce a charge over 
+trust  assets,  unless  such  joinder  is  necessary  (for  example,  where  the  trustee  is 
+bankrupt or cannot be found).  In this case, judgment against the Benefitting Iwi 
+Members is not necessary, because they do not hold legal ownership of the trust assets 
+and the trustees are available to be sued (and have been sued). 
+[139] On the fourth cause of action in the Draft Claim, Mr Crossland noted that the 
+settlement assets were owned by the Crown at the time of the purported assignment of 
+                                                 30  Tahi Enterprises Ltd v Taua, above n 1, at [46].   four per cent of those assets by Mr Taua to Ms Lee.  The relief sought on this cause of 
+action is an order for specific performance (or damages in lieu) against all members 
+of the Iwi.  The relief sought accordingly contemplates that the Iwi members would 
+be ordered to transfer four per cent of the settlement assets to Ms Lee, even though 
+they do not own the settlement assets:  they are only beneficiaries under the Settlement 
+Trust, with no power of disposition.  They could not force the Settlement Trust 
+Trustees to do anything.  It is unimaginable in those circumstances that a Court would 
+order individual members of the Iwi to pay damages if the Settlement Trust Trustees 
+did not transfer four per cent of the settlement assets to Ms Lee (even if the claim were 
+viable against the Settlement Trust Trustees, who were not parties to the assignment 
+on which Ms Lee relies). 
+[140] In the representation judgment, the Court held that there was no need for the 
+Settlement Trust Trustees to represent Iwi members in relation to this cause of action.  
+The  plaintiffs  have  not  appealed  the  representation  judgment, and  they are  now 
+estopped from contending that this cause of action may be continued against the 
+Benefitting Iwi Members.  Nor does the last cause of action in the Draft Claim, relating 
+to Ms Lee's claims against Mr Taua for unpaid rent on the Mangere property, affect 
+the Contracting Iwi Members or the Benefitting Iwi Members.  There is accordingly 
+no claim to be formulated against the Iwi members on the plaintiffs' last two causes of 
+action in the Draft Claim, and disclosure of the register of members for those causes 
+of action is unnecessary. 
+[141] Mr Crossland briefly addressed the defences of maintenance and champerty in 
+his written submissions, while submitting that argument on that issue might better be 
+heard in the context of the strike-out application filed by the Settlement Trust Trustees.  
+He noted that if the maintenance/champerty argument is upheld, and the Agreements 
+are illegal, there would be no claims against the defendants (or the Iwi members). 
+[142] He submitted that it remains the law in New Zealand that, as between the 
+maintainer and the maintained in litigation, champertous agreements are illegal.31  He 
+rejected the distinction the plaintiffs seek to draw between litigation in Court (where 
+                                                 31  Stephen Todd The Law of Torts in New Zealand (7th ed, Wellington, 2016) at [18.4.01], Saunders 
+v Houghton [2009] NZCA 610, [2010] 3 NZLR 331 at [67]-[82].   the law of champerty might apply) and a Waitangi Tribunal claim (where the plaintiffs 
+say that law does not apply).  Illegality of champertous agreements is informed by 
+public policy concerns, not taxonomy.  Further, public policy considerations behind 
+the doctrine of maintenance do not remain static over time. 
+[143] Mr Crossland acknowledged that promotion of access to justice is widely 
+touted  to  support  conditional  fees  or  third-party  funding  agreements.    However, 
+considerations such as access to justice must be balanced against an unconscionable 
+exploitation of vulnerable litigants.  He submitted that it is this feature that renders the 
+Agreements illegal.  He referred to the expressed wish of New Zealand Courts to be 
+appraised of litigation funding arrangements, in the context of cases where groups of 
+litigants are to be involved, before the litigation starts.  Doing that guards against 
+unduly exploitative arrangements.32  In this case, what the plaintiffs seek in return for 
+the $1.3 million they have paid is remarkable, exploitative, and would continue ad 
+infinitum. 
+[144] Finally, Mr Crossland submitted that if I was inclined to make the discovery 
+orders sought by the plaintiffs, execution of the orders should be stayed pending the 
+hearing and determination of the Settlement Trust Trustees' strike-out application. 
+Plaintiffs' submissions in reply 
+[145] Mr Salmon submitted that the issue of customary authority is a matter for 
+argument at a later date — it is not an issue which should affect the plaintiffs' right to 
+the discovery they seek.  That said, he submitted that the mandate procedures adopted 
+in the Treaty claim negotiations with the Crown cannot inform the customary authority 
+issue:  it was a process required by the Crown, not the Iwi.  Mr Taua was a rangatira 
+and the chief negotiator for the Iwi in its Treaty claim.  He was the chair of the Tribal 
+Authority.  There is a sufficient factual foundation for the discovery that is sought. 
+[146] There has been no alienation of land in this case. 
+                                                 32  Gulf  Cooperation  Ltd  (In  Receivership)  v  CFL  (NZ)  Ltd HC Auckland CIV-2010-404-5466, 
+3 November 2011, at [29]-[46], and [78]-[85].   [147] Any concern under the Privacy Act cannot trump the plaintiffs' entitlement to 
+discovery orders which are necessary for them to identify parties against whom they 
+are entitled to legal redress. 
+[148] Finally, Mr Salmon opposed the suggestion that any discovery order be stayed 
+pending the hearing and determination of the strike-out claim. 
+DISCUSSION AND CONCLUSIONS 
+[149] First, there is no issue over the existence of the document or documents the 
+plaintiffs will need to identify the fourth and fifth defendants they wish to join.  The 
+register of Iwi members which the plaintiffs seek is acknowledged by the Trustees to 
+be in the control of the Tribal Authority Trustees.  Also, the trust deed of the Settlement 
+Trust provides at cl 5.1 that the Settlement Trust Trustees are to take such steps and 
+institute such policies as are necessary to ensure that the register of Iwi members is 
+maintained in a condition that is as up to date, accurate and complete as possible.  In 
+those circumstances it seems more likely than not that a copy of the register of Iwi 
+members is also within the power of the Settlement Trust Trustees. 
+[150] On the issue of jurisdiction to make a Norwich Pharmacal order, I do not 
+consider the "mere witness" rule can apply in the Trustees' favour in this case.  As 
+Lord Cross noted in Norwich Pharmacal, someone involved in the transaction in 
+question is not a mere witness.33  Lord Cross further noted that "In this field it was 
+settled that if a party was properly made a defendant to a bill of relief the petitioner 
+was entitled to discovery from him of the existence or whereabouts of other persons 
+not parties in order that they might be made parties.34 
+[151] In this case, the Tribal Authority Trustees, chaired by Mr Taua, are alleged to 
+have been a party to the Variation Agreement along with the Contracting Iwi Members, 
+and the Settlement Trust Trustees are alleged to have failed or refused to pay to Ms Lee 
+the four per cent of the settlement assets that she says were assigned to her by Mr Taua.  
+                                                 33  Norwich Pharmacal, above n 7, at 188. 34  At 192.   So it is at least alleged that the Trustees were involved in events or transactions 
+relevant to the relief to be claimed against the proposed fourth and fifth defendants. 
+[152] I think the principal question in this case will be whether the justice of the case 
+requires the making of the order sought.35  That will require some consideration of the 
+strength of the plaintiffs' case,36 although I note that in some cases it will be enough 
+that the applicant has an "honest belief" that the unknown party has been guilty of the 
+alleged wrongdoing,37 or a belief that he or she has a "bona fide claim" against the 
+person whose identity is sought to be ascertained, and there is no other appropriate 
+remedy.38 
+[153] On the exercise of the Court's discretion, Mr Crossland's principal submission 
+was that the plaintiffs have not produced a sufficient factual and/or legal foundation 
+to  justify  the  making  of the  order sought.   They  have  not shown  that  Mr Taua, 
+Ms Taylor and Mrs Ewe had authority to bind the members of the Iwi when they 
+entered into the Agreements.  I think Mr Crossland was correct in identifying the 
+authority point as central on the issue of the strength of the plaintiffs' case.  Have the 
+plaintiffs put forward sufficient on the question of Mr Taua's authority to show that 
+their claims are bona fide and more than merely speculative, such that the need to 
+identify and join the proposed fourth and fifth defendants justifies application? 
+[154] Mr Crossland made certain other submissions, and it will be convenient to 
+address them first, before I deal with the question of whether the plaintiffs are or may 
+be entitled to make the claims they wish to make against the proposed fourth and fifth 
+defendants. 
+[155] First, I do not think the Trustees' arguments based on alleged maintenance or 
+champerty provide a sufficient basis to refuse the orders sought.  The plaintiffs are not 
+required to show that their claims against the proposed fourth and fifth defendants will 
+                                                 35  One  of  the  considerations  identified  by  Neuberger J  in The Coca  Cola  Company  v  British 
+Telecommunications Plc, above n 13, referred to at [101](iii) of the judgment. 36  The Rugby Football Union v Consolidated Information Systems Ltd, above n 15, at [17]. 37  The Coca Cola Company v British Telecommunications Plc, above n 13, at 523. 38  Orr v Diaper (1876) 4 Ch.D 92 at 157 per Bale CJ and Finnemore J.   succeed, but merely to put up a sufficient basis of fact to show that the claims are bona 
+fide, and are not purely speculative. 
+[156] Mr Salmon  draws  a  distinction  between  maintaining  litigation  in  a  Court 
+proceeding, and providing funding to an iwi to assist it to pursue a claim under the 
+Treaty of Waitangi (in exchange for which the funder will take a proportion of the 
+fruits of a successful Treaty claim).  Also, Mr Salmon points to s 76 of the Contract 
+and Commercial Law Act 2017, under which the Court has jurisdiction to grant relief 
+if a contract has been found to be illegal.  I accept that the maintenance/champerty 
+defence goes to the issue of whether the plaintiffs' claims are likely to succeed rather 
+than to the question of whether the plaintiffs have shown that they have a bona fide 
+belief in their claims, and that their claims go beyond the purely speculative.  The 
+defence is not suitable for determination on this application, and in my view it cannot 
+provide a bar to the making of the order sought. 
+[157] Mr Crossland next submitted that the register of members of the Iwi constitutes 
+"information" about individual members of the Iwi, which is governed by the Privacy 
+Act 1993.  He submitted that both the Tribal Authority and the Settlement Trust are 
+"agencies" as defined in that Act.  Mr Salmon did not take issue with either of those 
+propositions.  Mr Crossland then submitted that individuals registering as members of 
+the Iwi did so for specific purposes set out in the Tribal Authority's membership 
+registration form (for example, participation in Iwi elections, involvement in shaping 
+the direction of the Iwi, accessing beneficiary entitlements, and building the Iwi 
+whakapapa database).  The membership form contains a prominent heading "Privacy 
+of Information", under which the Tribal Authority states that the information supplied 
+will be kept confidential within the terms of the Privacy Act and will be for the lawful 
+use of the Tribal Authority. 
+[158] The Privacy Act sets out at s 6 a number of "privacy principles", and it contains 
+provisions providing for an individual who considers that an agency has breached one 
+of the privacy principles to make a complaint to the Privacy Commissioner. 
+[159] Principle 10 provides that an agency that holds personal information that was 
+obtained in connection with one person shall not use the information for any other   purpose  unless  the  agency  can  point  to  one  or  more  of  the  grounds  set  out  in 
+subparagraphs (a)  to  (g)  of  the  Principle.    One  of  those grounds is  where 
+non-compliance is necessary for the conduct of proceedings before any Court or 
+Tribunal. 
+[160] Principle 11 provides that an agency that holds personal information shall not 
+disclose the information to a person or body or agency unless the agency reasonably 
+believes that certain grounds for disclosure exist.  Again, one of the exceptions is "for 
+the conduct of proceedings before any Court or Tribunal...". 
+[161] The exceptions relating to the conduct of proceedings in any Court or Tribunal 
+are given force by s 11(2) of the Privacy Act, which provides: 11 Enforceability of principles 
+... 
+(2) Subject to subsection (1), the information privacy principles do not 
+confer on any person any legal right that is enforceable in a court of 
+law. [162] Mr Salmon relied on s 11(2), submitting that the privacy principles cannot 
+affect any right the plaintiffs may have to the pre-commencement discovery order they 
+seek. 
+[163] I accept Mr Salmon's submission on that point.  The individual members of the 
+Iwi do not have any privacy rights that would be enforceable in this Court, and if I 
+conclude that the justice of the case requires the making of the order the plaintiffs seek, 
+the disclosure will in any event be necessary for the conduct of this proceeding. 
+[164] In the alternative, Mr Crossland argued that, if the register is to be disclosed, 
+the addresses of individual Iwi members should be redacted.  He submitted that a valid 
+statement of claim could be filed by the plaintiffs without the inclusion of the addresses 
+of  the  intended  fourth  and  fifth  defendants.    I  do  not  accept  that  submission.  
+Rule 5.11(1)(g) of the High Court Rules 2016 requires the plaintiff to show in the 
+statement of claim "the full name, and the place of residence and occupation, of every   plaintiff and defendant, so far as they are known to the party presenting the document 
+for filing". 
+[165] Mr Crossland also submitted that the names and addresses of any Iwi members 
+who were minors as at the date of the 2007 Agreement should be redacted, on the basis 
+that Tahi could not have entered into a valid contract with a minor.  Mr Salmon 
+submitted that that is something to be dealt with downstream, and should not affect 
+the ambit of any order for disclosure of the register which is now made.  I accept 
+Mr Crossland's submission on this point as far as it goes, but there will be some Iwi 
+members who were under the age of 18 on 27 June 2007, who could not thus be 
+"Contracting Iwi Members", but who would nevertheless qualify as "Benefitting Iwi 
+Members".  The issue in respect of those Iwi members would appear to be whether the 
+plaintiffs  may  be  entitled  to  claim  against  the  proposed  fifth  defendants  (ie  the 
+Benefitting Iwi Members).  I will address the question of the redaction of the names 
+and addresses of minors from the register (whether they were minors as at 27 June 
+2007 or now) later in this judgment, when I deal with the principal issue, namely 
+whether the plaintiffs have shown that they have a bona fide non-speculative claim 
+against the proposed fourth and fifth defendants. 
+[166] Subject to that, I reject Mr Crossland's submissions based on the Privacy Act. 
+[167] Mr Crossland suggested at the hearing that a determination of this application 
+should await the hearing and determination of the Settlement Trust Trustees' strike-out 
+application, in which the legality of the Agreements will be in issue.  But the strike-out 
+application has not been brought by the Tribal Authority Trustees, so the claims against 
+them will not be struck out.  And it is not clear that any success of the Settlement Trust 
+Trustees on the strict illegality issue would necessarily have the effect of also bringing 
+the claims against the Tribal Authority Trustees to an end.  There might, for example, 
+be issues of relief under the Contract and Commercial Law Act 1977 to still be 
+addressed.  Mr Salmon also submitted that the proposed fourth and fifth defendants, 
+if joined, should have the opportunity to be heard on the strike-out application.  In all 
+of those circumstances, and having regard to the fact that the discovery application has 
+been fully argued, I am not prepared to adjourn this application for hearing with or 
+after the strike-out application.   [168] Mr Crossland also submitted that the effect of the representation judgment is 
+that the plaintiffs are estopped from pursuing their fourth cause of action against the 
+Benefitting Iwi Members.  I note first that if and to the extent that access to the register 
+of Iwi members should be given to the plaintiffs in order to permit them to formulate 
+their claims (including identifying defendants) on the first cause of action, it will be 
+academic whether or not the plaintiffs' other causes of action are good, at least insofar 
+as the Contracting Iwi Members are concerned. 
+[169] I  now  consider  the  bona  fides  and  apparent  strength  or  otherwise  of  the 
+plaintiffs' claims.  In the first cause of action, Tahi contends that those who signed the 
+Agreements did so as agent or trustee for the proposed fourth and fifth defendants 
+(among others).  Ms Lee provided an affidavit saying that Mr Taua told her that he had 
+authority to sign the Agreements on behalf of all Iwi members. 
+[170] Mr Crossland submitted that Mr Taua could never have had that authority, and 
+that Tahi and Ms Lee should have been aware of that fact. 
+[171] Mr Taua's pleading on the authority issue may best be described as opaque.  In 
+his statement of defence filed in June 2017, he admitted that he signed the Agreements, 
+but denied that the Agreements are binding.  He pleaded affirmatively that he "had the 
+authority to represent Iwi members", but denied the plaintiffs' allegation that he and 
+Ms Taylor executed the 2007 Agreement as agents of the Iwi members and/or as 
+trustees for the Iwi.  He also pleaded that the 2007 Agreement is void for uncertainty 
+of terms. 
+[172] In respect of the Variation Agreement, Mr Taua repeated the pleading that he 
+"had the authority to represent Iwi Members", and the denial that any party is bound 
+by the document.  He denied that he and Mrs Ewe executed the Variation Agreement 
+as agents of the Iwi members and/or as trustees for the Iwi.  In response to a pleading 
+that he executed the Variation Agreement as the agent of the Tribal Authority, he 
+pleaded that he had the authority to represent the Tribal Authority, but otherwise 
+denied the allegation.   [173] Mr Salmon relied on Mr Taua's authority as rangatira, and submitted that there 
+is a sufficient factual foundation at this stage for the Court to find that he may establish 
+at trial that he had implied authority, substantially derived from tikanga, to bind the 
+Iwi members.  Mr Taua did after all have authority as lead negotiator with the Crown 
+in the Treaty claim negotiations, and he was chairman of the Tribal Authority.  Beyond 
+that, Mr Salmon submitted that the extent of Mr Taua's authority, and in particular, 
+whether he had implied authority to bind individual Iwi members, is a matter for trial.  
+The Court should not be concerned with it now. 
+[174] The parties to the 2007 Agreement were Tahi and "Te Kawerau Ā Maki".  In 
+the representation judgment, Lang J took the plaintiffs' claim to extend to individual 
+members of the Iwi, even though they were not named as parties to the proceeding.  
+His Honour assumed that the claim was against only those Iwi members who were 
+over the age of 18 as at the date of the 2007 Agreement.39  Later in the representation 
+judgment,  Lang J  declined  the  representation  order  sought  by  the  plaintiffs, 
+substantially on the ground that "the plaintiffs can proceed against the members of the 
+Iwi by adding them as respondents and arranging for them to be served...".  His 
+Honour said that "[the plaintiffs] have no option now but to prove that each member 
+of the Iwi authorised those who signed the Agreements on behalf of Te Kawerau Ā 
+Maki to do so".40 
+[175] Lang J noted in the representation judgment that the position might be different 
+if the plaintiffs relied upon the status of the signatories to the Agreements as cloaking 
+them, within the Iwi, with implied authority to bind individual members.  The learned 
+Judge went on to say that, in that event, "it might be possible to establish an agency 
+relationship regardless of the state of knowledge held by individual members of the 
+Iwi.  A claim based on implied authority might therefore prevent individual members 
+from defending the claim on the basis that they did not know of or consent to the 
+signatories entering into the [Agreements] on their behalf."41 
+                                                 39  Tahi Enterprises Ltd v Taua, above n 1, at [43]. 40  At [50]. 41  At [53].   [176] At  that  stage,  the  plaintiffs  were  not  pleading  agency  based  on  implied 
+authority.  Now they are, and to that extent the position is different from that with 
+which Lang J was concerned in the representation judgment. 
+[177] In my view the plaintiffs have produced sufficient to show that Tahi's proposed 
+claim on its first cause of action against the Contracting Iwi Members is bona fide, 
+and has a sufficient substratum of fact to be more than purely speculative.  Tahi entered 
+into written contracts with "Te Kawerau Ā Maki", and I agree with Lang J that it is 
+reasonably arguable for Tahi that that meant those members of the Iwi who were of 
+age, and thus legally able to enter into a contract.  If that is right, Mr Taua, Ms Taylor 
+and Mrs Ewe signed the Agreements representing undisclosed principals (the adult 
+individual Iwi members, whose identities were not disclosed).  The ordinary rule is 
+that, where an agent enters into a contract for an undisclosed principal, the party 
+contracting with the agent may sue the principal when the identity of the principal is 
+discovered.42 
+[178] The issue then, is whether Mr Taua had express or implied authority to bind 
+the individual (adult) members of the Iwi.  On an interlocutory application such as this 
+it is impossible to resolve that issue, but the starting point must be that, on the face of 
+it, Mr Taua, Ms Taylor and Mrs Ewe presumably all considered when they signed one 
+or both (in Mr Taua's case) of the Agreements that they had the necessary authority to 
+enter into the Agreements on behalf of Iwi members.  And while denying that the 
+Agreements were signed as agents for the Iwi members, Mrs Ewe's estate did join in 
+the pleading in Mr Taua's statement of defence that Mr Taua "had the authority to 
+represent Iwi Members". 
+[179] I have already referred to the opaque nature of the first defendants' statement 
+of defence on the issue of authority to enter into the Agreements, and I think the most 
+the plaintiffs can probably take from the first defendants' statement of defence is that 
+it is not just Mr Taua saying that he had some sort of authority to represent Iwi 
+members — Mrs Ewe's estate has endorsed that view, and Ms Taylor presumably did 
+                                                 42  Burrows, Finn & Todd, Law of Contract in New Zealand (5th ed, Lexis Nexis, Wellington, 2016) 
+at 16.3.1(b).   too.  Beyond that, I do not think it is possible to take much from the first defendants' 
+statement of defence. 
+[180] I  acknowledge  Mr Crossland's  submission  that  Mr Taua's  own  statements 
+cannot provide reliable evidence that he had authority to bind all adult Iwi members 
+when he and his co-signatories signed the Agreements.  I accept too that there are real 
+questions over the plaintiffs' claims based on implied authority/tikanga.  However, I 
+do not consider those matters raise any issue of the bona fides of the plaintiffs' claims, 
+or that they are sufficient to tip the claims into speculative, or "fishing", territory.  The 
+facts are that Tahi entered into the Agreements which, on their face, appeared to be 
+made on behalf of the Iwi members, and it then paid a total of $1.3 million under the 
+Agreements.  It appears to have received no benefit in exchange for the payments it 
+made.  So far then, nothing that could be called "speculative".  The question is the 
+extent to which matters raised in defence, that may not be in the "king hit" category, 
+should preclude the making of a discovery order.  McGechan J accepted in Welgas, 
+one of the leading cases under r 8.20, that it would not be appropriate to make an order 
+where the proposed claim was "plainly hopeless".  I accept that that must also be the 
+position where the Court is asked to exercise its Norwich Pharmacal jurisdiction.  But 
+I do not think I can say that that is the position in this case, on the strength only of the 
+affidavit evidence filed on this interlocutory application. 
+[181] The Court of Appeal decision in Takamore v Clarke acknowledges that Māori 
+customary law may be recognised as part of the common law in certain circumstances, 
+and that applies to the customary law (tikanga) of a particular iwi.43  I have no direct 
+evidence here of the relevant tikanga of Te Kawerau Ā Maki, other than some oblique 
+references to the authority of rangatira in the "Historical Account" included within the 
+Deed of Settlement between the Iwi and the Crown.  That Historical Account appears 
+to acknowledge that rangatira have on occasion alienated Iwi land, although little is 
+said about any processes that the tikanga of Te Kawerau Ā Maki may have required 
+(hui, mandate etc) before that could occur. 
+                                                 43  Takamore v Clarke [2012] 1 NZLR 573 at [170]-[174].   [182] Looking beyond Te Kawerau Ā Maki, some recent decisions appear to have 
+endorsed the customary authority of an acknowledged kaumatua or rangatira to take 
+at least certain steps on behalf of the iwi — see for example Proprietors of Wakatu v 
+Attorney-General, where a rangatira was held entitled to bring a representative claim 
+without the need for a representation order.  As the Chief Justice observed:  "Chiefs of 
+high standing have long advanced such collective claims".44 
+[183] In this case, I do not have before me details of any communications there may 
+have been between Mr Taua and Iwi members before the Agreements were signed.  If 
+there were no such communications, or if the communications were only to a limited 
+number of Iwi members, then the Tribal Authority Trustees would presumably have 
+been aware of that fact, and it would have been a relatively simple matter for them to 
+have provided an affidavit stating that that was the position.  They did not do so.  Nor 
+did they provide an affidavit explaining what they knew of the payments made by 
+Tahi, and, to the extent they were aware of them, what they thought Tahi expected to 
+receive in return for its payments. 
+[184] I accept that it was for the plaintiffs to show that they have a bona fide claim 
+which  is  more  than  merely  speculative,  but  Tahi  and  Ms Lee  having  produced 
+contracts (the Agreements) which on  their  face  were  entered  into  by  Mr Taua, 
+Ms Taylor and Mrs Ewe on behalf of the Contracting Iwi Members, the claimed lack 
+of authority was either an affirmative defence or it was at least an issue on which the 
+knowledge of what occurred would largely have been held (at least at the time of the 
+Variation Agreement) by the Tribal Authority Trustees rather than the plaintiffs. 
+[185] Similarly, I have no evidence of Te Kawerau Ā Maki tikanga that would be 
+enough to show that the claims have not been brought bona fide, or have no real 
+prospect of success. 
+[186] Providing  the  discovery  sought  will  not  be  onerous  (only  the  register  of 
+members is sought), and the matters raised in opposition (on the "lack of authority" 
+                                                 44  Proprietors of  Wakatu  v Attorney-General [2017] 1 NZLR 423 at [494].  See for example:  
+Te Heuheu Tukino v Aotea District Māori Land Board [1941] NZLR 590 (PC); Tamihana Korokai 
+v The Solicitor-General (1912) 32 NZLR 321 (CA); and Wi Parata v Bishop of Wellington (1879) 
+1 NZLRLC 14 (SC).   issue) are in my view insufficient for me to exercise my discretion against the making 
+of the order sought, at least on the first cause of action.  I accordingly conclude that 
+the register of members should be discovered on the basis of the proposed claims in 
+the first cause of action, in respect of Iwi members who were 18 years of age or older 
+as at 27 June 2007.  I will consider below whether Iwi members who were not 18 as 
+at that date should have their names and addresses redacted from the register. 
+[187] Two of the causes of action against the defendants45 are breach of contract 
+causes of action.  I will consider them first, and in particular whether they appear to 
+plead viable claims against those Iwi members who had not reached the age of 18 as 
+at 27 June 2007. 
+[188] Those Iwi members who were either not born or under 18 as at 27 June 2007 
+(for convenience, I will call this group "the under 18s") could not have been parties to 
+the Agreements — those who entered into the Agreements could not have done so as 
+agents for either minors or non-existent principals.  The first cause of action in the 
+Draft Claim could accordingly only affect the under 18s on the basis that those who 
+entered into the Agreements did so as trustees for the under 18s.  But a party entering 
+into a contract with a trustee does not normally have a right to sue the beneficiaries of 
+the trust for breach of contract.  The first cause of action being for breach of contract, 
+it does not appear that it could provide a good cause of action against the under 18s. 
+[189] The fourth cause of action in the Draft Claim appears also to be a breach of 
+contract cause of action, and I think similar considerations must apply.  Ms Lee entered 
+into a contract on 28 November 2007 with Mr Taua, under which he agreed to sell her 
+"his 4% interest in the Treaty claims settlement".  Any entitlement Mr Taua had to 
+receive an interest in the Settlement Assets must have been conferred on him by 
+agreement made for or on behalf of the Iwi members prior to that date, and Ms Lee's 
+right  to  enforce  Mr Taua's  promise  to  pay  the  four  per  cent  was  presumably 
+enforceable (if it was enforceable at all) only against those who had agreed with 
+Mr Taua to confer that interest on him.  The under 18s could not have agreed to confer 
+                                                 45  The first and fourth causes of action.   that interest on Mr Taua, as they were either too young to validly do so or they were 
+not yet born. 
+[190] Again, to the extent that the under 18s may be affected at all by any agreement 
+to confer on Mr Taua an interest in the Settlement Assets, they would only be affected 
+if and to the extent that those who made the agreement with Mr Taua did so acting in 
+their capacities as trustee or trustees for the Iwi as a whole (including the under 18s).  
+In such circumstances I think Ms Lee's action would be against the trustee(s), not 
+against those such as the under 18s who were (or would become) mere beneficiaries 
+of the trust that would ultimately receive the Settlement Assets. 
+[191] In addition to those considerations, there should still be substantial assets held 
+by the Settlement Trust Trustees, who are defendants on the fourth cause of action, 
+with which to meet any entitlement Ms Lee might have to the four per cent interest 
+she claims.46 
+[192] For the foregoing reasons, I exercise my discretion against ordering discovery 
+for the purpose of enabling joinder of the under 18s as defendants on either of the first 
+or the fourth causes of action. 
+[193] The second cause of action in the Draft Claim is pleaded in the alternative to 
+the first cause of action.  It is a claim for unjust enrichment or equitable compensation, 
+and it proceeds only if the Court should find the Agreements unenforceable.  The 
+claims on this cause of action are claims against parties who are said to have received 
+cash from Tahi, including as trustees for the Benefitting Iwi Members (and therefore 
+the under 18s).  However, Mr Crossland made it clear in his submissions that the 
+Benefitting Iwi  Members  have  not  received  the  Settlement Assets,  and I  do  not 
+understand the claims to be claims in rem against the Settlement Assets (in which the 
+under  18s do have  an  equitable  interest).    The  $1.3 million  paid  by Tahi  has 
+presumably been spent, and the cause of action proceeds only on the basis that the 
+arrangements under which Tahi paid its money (the Agreements) have failed, and 
+                                                 46  Assuming any parties who made the agreement with Mr Taua acting in their capacities as trustees 
+for (inter alia) the under 18s, were acting within their authority under the relevant trust or trusts 
+and were entitled to indemnity from the Settlement Trust assets.   cannot be enforced.  Again, the proper claim appears to be against those who allegedly 
+entered into the Agreements in their capacities as trustees for (inter alia) the under 18s, 
+and not direct against the under 18s.47 
+[194] I note also (as a factor going to the exercise of my discretion) that this is a 
+cause of action where there appears to be no need for Tahi to join the under 18s.  The 
+Settlement Trust Trustees have been joined as a party on this cause of action, and they 
+were the recipients of the Settlement Assets.  It appears that there remain sufficient 
+Settlement Assets in the hands of the Settlement Trust Trustees to meet any valid claim 
+Tahi might have on its second cause of action, and that there would be little point in 
+granting the discovery necessary to allow the under 18s to be added as defendants (it 
+is difficult to imagine circumstances where the under 18s could have a direct liability 
+to Tahi on this cause of action which was not also a liability of the Settlement Trust 
+Trustees). 
+[195] For those reasons, I decline to order discovery of the register, insofar as it 
+discloses the identities of the under 18s, on the basis of the second cause of action in 
+the Draft Claim. 
+[196] The third cause of action in the Draft Claim proceeds on the basis that the 
+Benefitting Iwi Members (including the under 18s) are necessary parties to Tahi's 
+claim to be subrogated to the rights of those with whom it contracted in their capacities 
+as trustees, to be indemnified out of trust assets (and to enforce a trustee's lien over 
+trust assets). 
+[197] There will be an obvious first question as to whether those who may have 
+entered into the Agreements as trustee will be entitled to indemnity out of the assets 
+of the relevant trust or trusts, in respect of any liability they may be found to have to 
+Tahi under the Agreements.  However, I do not think it necessary to answer that 
+question on this application. 
+                                                 47  The principle that a trustee is liable for all liabilities the trust incurs in carrying out the trust is well 
+established (see Andrew Butler, Equity & Trusts in New Zealand, (Thomson Reuters, Wellington, 
+2009) at 16.6.1).  This is subject to two exceptions:  (a) where the trustee is the agent of the 
+beneficiaries and (b) where a lender has agreed to limit the trustee's liability.  Neither of those 
+exceptions are applicable in this case.   [198] As  the  learned  authors  of Lewin  on  Trusts note,  the  right  of subrogation 
+prevents the beneficiaries from avoiding liabilities which properly fall on the trust fund 
+by having a trustee who is a man of straw.48  But in this case there is no evidence that 
+the Settlement Trust Trustees are insolvent, and nothing to suggest they would not 
+exercise any right they might have to claim indemnity from relevant trust assets.  And 
+it is apparent from Mr Crossland's submissions that the under 18s themselves do not 
+have possession of, or control over, the Settlement Assets. 
+[199] The learned authors of Lewin on Trusts say:49 Plainly, the person in whom the relevant property is vested will need to be 
+joined as a party.  In an ordinary case, a trustee, though personally liable, is 
+entitled to meet a liability to a creditor directly from the trust property, and 
+there appears to be no practical problem such as justifies the creditor or other 
+claimant in bringing proceedings against the beneficiaries so as to enforce the 
+claim against the trust property.  It may therefore be the case that the court will 
+make an order in favour of a creditor or other claimant who claims to be 
+subrogated to the trustee's right of indemnity only where the trust is being 
+administered by the court, or where there is good reason for the creditor or 
+other claimant to bring proceedings against the beneficiaries, as where the 
+creditor or other claimant is unable to enforce the personal liability of the 
+trustee, or the trustee's right of indemnity is disputed by the beneficiaries and 
+it  is  consequently  reasonable  to  allow  the  creditor  or  other  claimant  to 
+establish the right of indemnity so as to enable his claim to be met from the 
+trust fund should he succeed in establishing the right of indemnity.  (Citations 
+omitted.) [200] It appears that no part of the "relevant property" is vested in the under 18s, so 
+their joinder as parties could not be required on that account.  Nor is it arguably 
+necessary to join the under 18s on the basis that the Settlement Trust Trustees are 
+unavailable to meet any personal liability they may be found to have (there is no 
+evidence of that).  The real issue, it seems to me, is the possibility (likelihood even) 
+that the rights of those who may be found to have entered into the Agreements as 
+trustees for (inter alia) the under 18s to indemnity out of the Settlement Assets, will be 
+challenged by some Iwi members, on the basis that they had no authority to enter into 
+the Agreements. 
+                                                 48  Lynton Tucker et al Lewin on Trusts (Thomson Reuters, 19th Ed) at 21-052. 49  At 21-053.   [201] But the conduct of any such challenge would presumably be carried by those 
+Iwi members who were adult members of the Iwi at the times the Agreements were 
+made and who are alleged to have (expressly or impliedly) conferred the required 
+authorities on Ms Taylor, Mr Taua and Mrs Ewe — the Contracting Iwi Members.  I 
+have already held that the register of members is to be disclosed for the purposes of 
+provided the names and addresses of the Contracting Iwi Members, so there would 
+appear to be no need for additional disclosure of the names and addresses of the under 
+18s to ensure that any trustees' claims to indemnity out of the Settlement Assets can 
+be properly tested. 
+[202] I note also that Lang J considered in the representation judgment that the issue 
+of subrogation would necessarily be considered in the context of any relief that the 
+Court might grant after the Court has made its primary findings on issues of liability.50  
+Whether or not that will be the position I need not say — it is enough for present 
+purposes to say that if the learned Judge was correct that would provide another ground 
+pointing against the need for, or desirability of, ordering discovery at this stage of the 
+names and addresses of the under 18s. 
+[203] I observe too that it seems likely that at some point the Court will need to return 
+to the question of the need for representation orders.  If, having ascertained their 
+identities, the plaintiffs apply to join the 400 or so Contracting Iwi Members as fourth 
+defendants,  consideration  will  presumably  have  to  be  given  to  the  making  of 
+representation orders at that point, to ensure that the proceeding is efficiently managed.  
+That will be a matter for counsel to consider in due course, but for now it seems likely 
+that there could be at least two differing interest groups among the Contracting Iwi 
+Members, namely those who accept that Mr Taua, Ms Taylor and Mrs Ewe had the 
+authority to enter into the Agreements on behalf of all Iwi members, and those who do 
+not.   There  may  be  other  groups  with  different  interests  that  would  have  to  be 
+represented, but that is a question for another day.  Its present relevance is only that it 
+suggests the possibility that the Court might consider it appropriate in the future to 
+appoint counsel (or some other representative) to represent the under 18s in the 
+proceeding, at least if it appeared that their interests might differ from those of any 
+                                                 50  Tahi Enterprises Ltd v Taua, above n 1, at [46].   Contracting Iwi Members taking the position that the Agreements are not binding or 
+that the plaintiffs are not entitled to the relief they seek for any other reason. 
+[204] I take into account also the fact that a number of the considerations identified 
+as relevant to the exercise of the Norwich  Pharmacal jurisdiction in The  Rugby 
+Football Union 51 point against the making of an order for disclosure of the identities 
+of the under 18s.  First, they are clearly not "wrongdoers" in any sense of the word, 
+and there is no question of the making of an order for the disclosure of their identities 
+somehow deterring wrongdoing.  The making of such an order clearly would result in 
+the revealing of the names of innocent persons, and in such circumstances the need for 
+disclosure must be greater (if it is to trump the right of a wholly innocent person to his 
+or her right to privacy).  In this case, I do not think the need for disclosure is that great, 
+particularly where the identities of the Contracting Iwi Members will be disclosed and 
+the public interest in the plaintiffs being allowed to vindicate any legal rights they may 
+have can be satisfied by that joinder (considered with the fact that the Settlement Trust 
+Trustees apparently still hold the Settlement Assets, and the Court's ability in due 
+course to appoint a representative for the under 18s if that proves to be necessary and 
+appropriate). 
+[205] All of those considerations lead me to conclude that the plaintiffs have not 
+made out a sufficient case for Norwich Pharmacal discovery of the register of Iwi 
+members insofar as it discloses the names or addresses of the under 18s.  In the 
+exercise of my discretion, I decline to order that disclosure. 
+[206] It  is  not  necessary  for  me  to  refer  to  Mr Crossland's  other  arguments  in 
+opposition to the orders sought insofar as they affect the under 18s. 
+Application to stay any order pending the hearing and determination of the 
+Settlement Trust Trustees' strike-out application 
+[207] Mr Crossland asked that, in the event of an order for discovery being made, the 
+Court  should  stay  execution  of  the  order  pending  the  hearing  of  the  strike-out 
+application.  I am not prepared to do that, substantially for the same reasons I was not 
+                                                 51  The Rugby Football Union v Consolidated Information Systems Ltd, above n 15.   prepared to defer giving judgment on the discovery application.52  The parties have 
+fully argued the discovery issues, and the disclosure ordered will not be onerous. 
+Result 
+[208] I make the following orders: 
+(1) Within 30 working days of the delivery of this judgment the Tribal 
+Authority Trustees are to make available for inspection by the plaintiffs 
+the register of members of the Te Kawerau Ā Maki Iwi referred to at 
+paragraph 3 of the Trustees' notice of opposition dated 3 May 2018, 
+together  with  any  other  registers  of  the  Iwi  members  the  Tribal 
+Authority Trustees may have in their control.  The register or registers 
+is to be made available for inspection as aforesaid with the names of all 
+Iwi members who were either unborn or under the age of 18 as at 
+27 June 2007 redacted. 
+(2) Within 30 working days of the delivery of this judgment, the Settlement 
+Trust Trustees are to file and serve an affidavit stating whether they 
+have or have had in their control a register or registers of members of 
+Te Kawerau Ā Maki. 
+(3) Within 30 working days of the delivery of this judgment, the Settlement 
+Trust Trustees are also to make available for inspection by the plaintiffs 
+any register or registers of Iwi members discovered by them pursuant 
+to order (2) above.  Again, the register or registers of members is/are to 
+be made available for inspection as aforesaid with the names of all Iwi 
+members who were either unborn or under the age of 18 as at 27 June 
+2007 redacted. 
+(4) If such a register or registers has/have been but is/are no longer in the 
+control  of  the  Settlement Trust Trustees,  they  are  to  state  in  their 
+affidavit their best knowledge and belief as to when such register or 
+                                                 52  Paragraph [167] of this judgment.   registers ceased to be in their control, and who now has control of 
+it/them. 
+(5) Costs — I do not think this is a case for either increased costs or no 
+costs.  Mr Crossland submitted that there should be no order for costs, 
+on the basis that the Trustees have acted responsibly in opposing the 
+application in order to protect the privacy of Iwi members.  But I think 
+the Trustees did more than that.  They mounted strenuous opposing 
+arguments which, if successful, would have precluded the plaintiffs 
+from taking the course contemplated by Lang J in the representation 
+judgment, namely suing the individual Contracting Iwi Members.  In 
+those circumstances, the plaintiffs would normally be entitled to an 
+award of costs, and I see no reason to differ from that broad approach 
+in this case.  However, I see no basis for an award above scale costs, 
+and  the  Trustees  have  been  partially  successful  (in  opposing  the 
+application insofar is it related to the under 18s, and in submitting that 
+r 8.20 could not apply).  In the end, I think the justice of the case will 
+be met if the plaintiffs are awarded costs on a 2B basis, reduced by 
+25 per cent to reflect the factors just mentioned, plus disbursements as 
+fixed by the Registrar.  I make orders accordingly. 
+ 
+Associate Judge Smith "
