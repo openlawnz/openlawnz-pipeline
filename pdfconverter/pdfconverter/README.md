@@ -1,8 +1,30 @@
-# pdfconverter
+# PDF Converter
 
-* Used in a lambda
+This is a serverless function that processes and parses PDF files.
+
+It is called by an s3 event. See `fileFetcher` and `downloadExternalFile` for the functions that should write to the s3 bucket which calls this function.
+
+## Setup
+
+Create a node.js lambda function.
+
+`template.yaml` must include:
+
+    Environment:
+        Variables:
+            PDF_IN_BUCKET: '...'                
+            PDF_OUT_BUCKET: '...'             
+            INGEST_CASES_BUCKET: '...'        
+            INGEST_LEGISLATION_BUCKET: '...'  
+            ACRONYMS_BUCKET: '...'            
+            OCR_BUCKET: '...'                 
+            AZURE_SUBSCRIPTION_KEY: '...'     
+            AZURE_SEND_ENDPOINT: '...'        
+            AZURE_RESULT_ENDPOINT: '...'             
 
 ## Install
+
+In Cloud9:
 
     npm install
     
@@ -10,16 +32,8 @@
 
     npm run test
     
-The aim with testing is to build a list of PDFs with different formatting that the pdfToJSON code can handle.
+## Next step in pipeline
 
-## pdfToJSON
+This function writes to `PDF_OUT_BUCKET`.
 
-This is the module that does the conversion of PDF to JSON using pdfjs.
-
-To run standalone:
-
-    node pdfToJSON.cli.js (url)
-    
-e.g.
-
-    node pdfToJSON.cli.js https://s3-ap-southeast-2.amazonaws.com/openlawnz-pdfs/jdo_1376398801000_4ffaed38-cd90-4488-a5da-8b1c61829c5e.pdf
+`PDF_OUT_BUCKET` must be set with an s3 event to trigger `s3ToSQS` (which in turn triggers `putInDB`).
