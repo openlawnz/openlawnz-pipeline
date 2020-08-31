@@ -1,4 +1,5 @@
-const AWS = require("aws-sdk");
+const AWS = require('aws-sdk')
+
 const s3 = new AWS.S3();
 const judge_titles = require("openlawnz-common/judge-titles.js");
 
@@ -9,11 +10,11 @@ exports.handler = async(event) => {
         await s3
             .putObject({
                     Body: JSON.stringify(judge_titles),
-                    Bucket: process.env.JUDGE_TITLES_BUCKET,
+                    Bucket: process.env.BUCKET_JUDGE_TITLES,
                     Key: "judge-titles.json",
                     ContentType: 'application/json'
                 },
-                function(err) {
+                function (err) {
                     if (err) console.error(err, err.stack);
                 }
             )

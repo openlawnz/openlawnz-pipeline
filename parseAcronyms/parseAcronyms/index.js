@@ -1,4 +1,5 @@
-const AWS = require("aws-sdk");
+const AWS = require('aws-sdk')
+
 const s3 = new AWS.S3();
 
 const lawReports = [{
@@ -270,11 +271,11 @@ exports.handler = async(event, context) => {
         await s3
             .putObject({
                     Body: JSON.stringify(parsedCourts),
-                    Bucket: process.env.ACRONYMS_BUCKET,
+                    Bucket: process.env.BUCKET_ACRONYMS,
                     Key: "courts.json",
                     ContentType: 'application/json'
                 },
-                function(err) {
+                function (err) {
                     if (err) console.log(err, err.stack);
                 }
             )
@@ -283,11 +284,11 @@ exports.handler = async(event, context) => {
         await s3
             .putObject({
                     Body: JSON.stringify(parsedLawReports),
-                    Bucket: process.env.ACRONYMS_BUCKET,
+                    Bucket: process.env.BUCKET_ACRONYMS,
                     Key: "law-reports.json",
                     ContentType: 'application/json'
                 },
-                function(err) {
+                function (err) {
                     if (err) console.log(err, err.stack);
                 }
             )

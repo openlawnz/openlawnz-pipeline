@@ -1,7 +1,10 @@
-const AWS = require("aws-sdk");
+const AWSXRay = require('aws-xray-sdk-core')
+const AWS = AWSXRay.captureAWS(require('aws-sdk'))
+
 const s3 = new AWS.S3();
 const generateData = require("./generateData");
-const getOCR = require("./getOCR")
+const getOCR = require("./getOCR");
+const { processPDF } = require("./pdfToJSON");
 
 let courts;
 let lawReports;
@@ -18,10 +21,10 @@ const getJSONFile = async(bucket, key) => {
 
 };
 
-exports.handler = async(event, context) => {
+exports.handler = async(event) => {
 
   if (!legislation) {
-    legislation = await getJSONFile(process.env.INGEST_LEGISLATION_BUCKET, "legislation.json");
+    legislation = await getJSONFile(process.env.LEGISLATION_JSON_BUCKET, "legislation.json");
   }
 
   if (!courts) {
@@ -32,126 +35,68 @@ exports.handler = async(event, context) => {
     lawReports = await getJSONFile(process.env.ACRONYMS_BUCKET, "law-reports.json");
   }
 
+
+
+
   await Promise.all(event.Records.map(async record => {
 
-    console.log(record);
+    const caseRecord = JSON.parse(record.body);
+    let conversionEngine;
 
-    const pdfURL = `https://${record.s3.bucket.name}.s3-ap-southeast-2.amazonaws.com/${record.s3.object.key}`;
+    try {
 
-    const caseRecord = await getJSONFile(process.env.INGEST_CASES_BUCKET, record.s3.object.key);
-    
-    await getOCR(pdfURL, caseRecord)
-  
-    let jsonData = await generateData(pdfURL, caseRecord, courts, lawReports, legislation);
+      const pdfURLForOCR = `https://${caseRecord.caseMeta.buckets.BUCKET_PUBLIC_PDF_WITH_ENV}.s3-ap-southeast-2.amazonaws.com/${caseRecord.fileKey}`;
 
-    const caseText = jsonData.caseText;
+      // If using OCR
+      if (caseRecord.caseMeta.azureOCREnabled) {
 
-    delete jsonData.caseText; // Store separately
+        console.log(`Get OCR from Azure ${pdfURLForOCR}`);
+        conversionEngine = "azure";
+        await getOCR(pdfURLForOCR, caseRecord);
 
-    // Should read SHA checksum in file fetcher
-    jsonData.pdfChecksum = record.s3.object.eTag;
+      }
+      else {
 
-    let putArray = [
+        console.log(`Use PDF JS ${pdfURLForOCR}`);
+        conversionEngine = "pdfjs"
+        // Otherwise use PDF.JS
+        await processPDF(pdfURLForOCR, caseRecord);
 
-      s3
-      .putObject({
-        Body: JSON.stringify({ ...jsonData.representation, fileKey: jsonData.fileKey }),
-        Bucket: process.env.PDF_OUT_BUCKET,
-        Key: 'representation/' + jsonData.fileKey + ".json",
-        ContentType: 'application/json'
-      })
-      .promise(),
+      }
 
-      s3
-      .putObject({
-        Body: JSON.stringify({ judges: jsonData.judges, fileKey: jsonData.fileKey }),
-        Bucket: process.env.PDF_OUT_BUCKET,
-        Key: 'judges/' + jsonData.fileKey + ".json",
-        ContentType: 'application/json'
-      })
-      .promise(),
+      if (!caseRecord.caseText) {
+        throw new Error("No case text (and processPDF didn't throw Error)")
+      }
 
-      s3
-      .putObject({
-        Body: JSON.stringify(jsonData),
-        Bucket: process.env.PDF_OUT_BUCKET,
-        Key: 'meta/' + jsonData.fileKey + ".json",
-        ContentType: 'application/json'
-      })
-      .promise(),
+      let jsonData = await generateData(caseRecord, courts, lawReports, legislation);
 
-      s3
-      .putObject({
-        Body: caseText,
-        Bucket: process.env.PDF_OUT_BUCKET,
-        Key: 'fulltext/' + jsonData.fileKey + ".txt",
-        ContentType: 'text/plain'
-      })
-      .promise(),
+      jsonData.conversionEngine = conversionEngine;
 
-    ];
+      // TODO
+      jsonData.pdfChecksum = "";
 
-    if (jsonData.category) {
-      putArray.push(s3
+      // Put into S3 permanent storage
+      await s3
         .putObject({
-          Body: JSON.stringify({ ...jsonData.category, fileKey: jsonData.fileKey }),
-          Bucket: process.env.PDF_OUT_BUCKET,
-          Key: 'categories/' + jsonData.fileKey + ".json",
+          Body: JSON.stringify(jsonData),
+          Bucket: caseRecord.caseMeta.buckets.BUCKET_PERMANENT_JSON_WITH_ENV,
+          Key: 'cases/' + jsonData.fileKey + ".json",
           ContentType: 'application/json'
         })
-        .promise());
-    }
-
-    if (jsonData.legislationReferences) {
-
-      putArray.push(s3
-        .putObject({
-            Body: JSON.stringify(jsonData.legislationReferences),
-            Bucket: process.env.PDF_OUT_BUCKET,
-            Key: 'legislation-references/' + jsonData.fileKey + ".json",
-            ContentType: 'application/json'
-          },
-          function(err) {
-            if (err) console.error(err, err.stack);
-          }
-        )
-        .promise());
+        .promise()
 
     }
+    catch (ex) {
 
-    // Write the citation objects
-    jsonData.caseCitations.forEach(c => {
+      console.error(caseRecord.fileKey, ex);
 
-      putArray.push(s3
-        .putObject({
-            Body: JSON.stringify(c),
-            Bucket: process.env.PDF_OUT_BUCKET,
-            Key: 'citations/' + c.id + ".json",
-            ContentType: 'application/json'
-          },
-          function(err) {
-            if (err) console.error(err, err.stack);
-          }
-        )
-        .promise());
+      await s3.putObject({
+        Bucket: caseRecord.caseMeta.buckets.BUCKET_PIPELINE_PROCESSING_WITH_ENV,
+        Key: caseRecord.caseMeta.runKey + '/errors/' + caseRecord.fileKey,
+        Body: JSON.stringify(caseRecord),
+      }).promise();
 
-    });
-
-
-    await Promise.all(putArray);
-
-    // Do full case last
-    await s3
-      .putObject({
-        Body: JSON.stringify({
-          ...jsonData,
-          caseText,
-        }),
-        Bucket: process.env.PDF_OUT_BUCKET,
-        Key: 'fullcase/' + jsonData.fileKey + ".json",
-        ContentType: 'application/json'
-      })
-      .promise()
+    }
 
   }));
 

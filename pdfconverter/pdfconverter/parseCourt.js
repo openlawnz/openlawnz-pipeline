@@ -8,9 +8,11 @@
 const findAcronymItemByCitation = (courts, citation) => {
     return courts.find(court => court.acronyms.find((item) => {
         // should not use str.includes(), coz if acronym='HC' with match citation: [2014] NZHC 2750
-        let regCitation = /(?:[\[|\(])?(?:[12][0-9]{3})(?:[\]|\)])?\s?(?:\d*\s)?([a-zA-Z]{2,7})/;
+        let regCitation = /(?:[\[|\(])(?:[12][0-9]{3})(?:[\]|\)])\s?(?:\d*\s)?([a-zA-Z]{2,7})/;
         let match = citation.match(regCitation);
+        // console.log('found', match)
         if (!match || !match[1]) {
+            // console.log('not found, trying SC XX/XX');
             regCitation = /([\w]{2,4})\s[\d\w]{1,6}\/(?:[12][0-9]{3})/;
             // parse citations like :
             // SC 109/2010
@@ -19,6 +21,7 @@ const findAcronymItemByCitation = (courts, citation) => {
             match = citation.match(regCitation);
         }
         if (!match || !match[1]) {
+            // console.log('still not found, trying format HC PMN');
             regCitation = /([\w]{2})(?:\s+[\w]{2,4})?\s(?:CIV|CRI)?/i;
             // parse citations like :
             // HC PMN CIV-2004-454-670
@@ -26,7 +29,11 @@ const findAcronymItemByCitation = (courts, citation) => {
             // HC AK CIV 2010-404-3074
             match = citation.match(regCitation);
         }
-        return !!match[1] && match[1] === item.toUpperCase();
+        if (match && match[1]) {
+            // console.log('found and good to go', match[1])
+            return !!match[1] && match[1] === item.toUpperCase();
+        }
+        return false;
 
     }));
 };
@@ -34,20 +41,26 @@ const findAcronymItemByCitation = (courts, citation) => {
 const getCourtNameByCaseText = (caseText) => {
     // parse court_name from case_text
     let regexCourtName = /IN\sTHE\s([\s|A-Z]+)OF\s([\s|A-Z]+)/i;
-    let match = caseText.match(regexCourtName);
-    if (!match || !match[1]) {
-        regexCourtName = /IN\sTHE\s(HIGH COURT)OF\s([\s|A-Z]+)/i;
-        match = caseText.match(regexCourtName);
-    }
-    if (match && match[1]) {
-        return match[1].trim();
+    if (caseText) {
+        let match = caseText.match(regexCourtName);
+        if (!match || !match[1]) {
+            regexCourtName = /IN\sTHE\s(HIGH COURT)OF\s([\s|A-Z]+)/i;
+            match = caseText.match(regexCourtName);
+        }
+        if (match && match[1]) {
+            return match[1].trim();
+        }
     }
     return null;
 };
 
 const parseCourt = (courts, jsonData) => {
 
-    let foundCourt = findAcronymItemByCitation(courts, jsonData.caseCitations[0].citation);
+    //wrapped in if - was error if no citation
+    let foundCourt;
+    if (jsonData.caseCitations && jsonData.caseCitations[0] && jsonData.caseCitations[0].citation != '') {
+        foundCourt = findAcronymItemByCitation(courts, jsonData.caseCitations[0].citation);
+    }
 
     if (foundCourt) {
 
@@ -71,7 +84,7 @@ const parseCourt = (courts, jsonData) => {
 
     }
 
-    console.log("No matching court");
+    console.error("No matching court. Filekey: ", jsonData.fileKey);
 
 
 };

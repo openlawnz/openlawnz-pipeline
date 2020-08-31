@@ -1,4 +1,4 @@
-const { parse2, parse4, mergeData, parseAppearance1 } = require("./parseUtility.js");
+const { parse2, parse4, mergeData, parseAppearance1, parseSeparator } = require("./parseUtility.js");
 module.exports = (data) =>
 {
     let initiationAppearanceNames = [];
@@ -7,91 +7,83 @@ module.exports = (data) =>
     const initiationAppearancePattern3 = [
         /(for respondent)\s([a-zA-Z0-9\u00C0-\u02AB\s'\(\),.-]*)\s(by or)?\s(for appellant)/mi
     ];
-    const result3 = parse4(data, initiationAppearancePattern3, 2);
-    mergeData(initiationAppearanceNames, result3);
+    const result1 = parse4(data, initiationAppearancePattern3, 2);
+    mergeData(initiationAppearanceNames, result1);
 
-    if(result3.length == 0)
+    if(result1.length == 0)
     {
         //Get the first appearance name
-        const initiationAppearancePattern1 = /([a-zA-Z0-9\u00C0-\u02AB\s'\(\),.-]*)( for (the )?app?ellant.?)/mi;
-        let result1 = parse2(data, initiationAppearancePattern1, 1);
-        const initiationAppearancePattern1Custom1 = /([a-zA-Z0-9\u00C0-\u02AB\s'\(\),.]*)(, counsel|, Advocate|- Advocate)/mi
+        const initiationAppearancePattern1 = /([a-zA-Z0-9\u00C0-\u02AB\s'\(\),.-–-]*)( for (the )?app?ellant.?)/mi;
+        let result1Custom1 = parse2(data, initiationAppearancePattern1, 1);
+        const initiationAppearancePattern1Custom1 = /([a-zA-Z0-9\u00C0-\u02AB\s'\(\),.-–-]*)(\scounsel|\sAdvocate)/mi
         const reservedDescription = [", Barrister of Auckland"];
-        let result1Custom1 = parseAppearance1([result1], initiationAppearancePattern1Custom1, 1, reservedDescription);
-        for(var i = 0; i < result1Custom1.length; i++)
-        {
-            if(result1Custom1[i].includes("for appellant"))
+        let result1Custom2 = parseAppearance1([result1Custom1], initiationAppearancePattern1Custom1, 1, reservedDescription);
+        var separators = [
             {
-                var customValue = result1Custom1[i].split("for appellant");
-                for(var j = 0; j < customValue.length; j++)
-                {
-                    //need to refactor the below code because it has been repeated again at below
-                    if(customValue[j].includes(" and "))
-                    {
-                        var temp = customValue[j].split(" and ");
-                        if(!initiationAppearanceNames.includes(temp[0].trim()))
-                        {
-                            initiationAppearanceNames.push(temp[0].trim());
-                        }
-                        if(!initiationAppearanceNames.includes(temp[1].trim()))
-                        {
-                            initiationAppearanceNames.push(temp[1].trim());
-                        }
-                    }
-                    else
-                    {
-                        if(!initiationAppearanceNames.includes(customValue[j].trim()))
-                        {
-                            initiationAppearanceNames.push(customValue[j].trim());
-                        }
-                    }
-                }
-            }
-            else if(result1Custom1[i].includes(" and "))
+                firstSeparator: ["for appellant"],
+                firstSeparatorType: 1,
+                secondSeparator: [" and "],
+                secondSeparatorType: 1 // contain
+            },
             {
-                var temp = result1Custom1[i].split(" and ");
-                if(!initiationAppearanceNames.includes(temp[0].trim()))
-                {
-                    initiationAppearanceNames.push(temp[0].trim());
-                }
-                if(!initiationAppearanceNames.includes(temp[1].trim()))
-                {
-                    initiationAppearanceNames.push(temp[1].trim());
-                }
-            }
-            else
+                firstSeparator: [" and "],
+                firstSeparatorType: 1,
+                secondSeparator: [","," -"],
+                secondSeparatorType: 3
+            },
             {
-                if(!initiationAppearanceNames.includes(result1Custom1[i].trim()))
-                {
-                    initiationAppearanceNames.push(result1Custom1[i].trim());
-                }
+                firstSeparator: [",", " –"],
+                firstSeparatorType: 3 // endsWith
+            },
+            {
+                firstSeparator: [" appeared"],
+                firstSeparatorType: 3 // endsWith
+            },
+            {
+                firstSeparator: [" as"],
+                firstSeparatorType: 3 // endsWith
+            },
+            {
+                firstSeparator: [" -"],
+                firstSeparatorType: 3 // endsWith
             }
-        }
+        ];
+        var result1Custom3 = parseSeparator(result1Custom2, separators);
+        mergeData(initiationAppearanceNames, result1Custom3);
     }
 
-    
-
-    //Get the first in person name
-    //jdo files
-    //const firstInitiationInPerson = data.match(/(Appellants?|Applicants?|Plaintiffs?)\s(in Person)\s{2}/);
-    //2004-2005 case files
-    // const firstInitiationInPerson = data.match(/(Appellants?|Applicants?|Plaintiffs?)\s(in Person|on his own behalf)\s/mi);
-    // if(firstInitiationInPerson != undefined && firstInitiationInPerson != null && firstInitiationInPerson[2] != undefined)
-    // {
-    //     initiationAppearanceNames.push(firstInitiationInPerson[2].trim());
-    // }
     const partyTypePattern = /(applicants?|appellants?|plaintiffs?)/i;
     const initiationAppearancePattern2 =  /([a-zA-Z0-9\u00C0-\u02AB\s'\(\),]*)\s(in Person.?|on (his|her) own behalf|for self)\s/mi;
     let result2 = data.match(initiationAppearancePattern2);
     if(result2 != undefined && result2 != null && result2.length > 0 && result2[1] != undefined && result2[2] != undefined)
     {
-        const initiationAppearanceName = result2[1].trim();
+        let initiationAppearanceName = result2[1].trim();
         const suffix = result2[2].trim();
         const partyTypeName = initiationAppearanceName.match(partyTypePattern);
         if(partyTypeName == null || partyTypeName == undefined)
         {
-            if(!initiationAppearanceName.includes("for respondent") && !initiationAppearanceNames.includes(initiationAppearanceName + " " + suffix))
-                initiationAppearanceNames.push(initiationAppearanceName + " " + suffix);
+            //Cannot recall below code used on which file so become untidy. due to time limit
+            // if(!initiationAppearanceName.includes("for respondent") && !initiationAppearanceNames.includes(initiationAppearanceName + " " + suffix))
+            //     initiationAppearanceNames.push(initiationAppearanceName + " " + suffix);
+            const reservedDescription = [" appears", " appeared", " and her husband"];
+            var hasReservedDescription = false;
+            for(var i = 0; i < reservedDescription.length; i++)
+            {
+                if(initiationAppearanceName.endsWith(reservedDescription[i]))
+                {
+                    initiationAppearanceName = initiationAppearanceName.replace(reservedDescription[i], "");
+                    if(!initiationAppearanceNames.includes(initiationAppearanceName))
+                        initiationAppearanceNames.push(initiationAppearanceName);
+                    hasReservedDescription = true;
+                    i = reservedDescription.length + 1;
+                }
+            }
+
+            if(!hasReservedDescription)
+            {
+                if(!initiationAppearanceNames.includes(initiationAppearanceName))
+                    initiationAppearanceNames.push(initiationAppearanceName);
+            }
         }
         else
         {
@@ -100,8 +92,6 @@ module.exports = (data) =>
         }
     }
 
-
-    
     return {
         initiationAppearanceNames
     }

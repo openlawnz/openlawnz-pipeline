@@ -1,6 +1,5 @@
 const { parse2, parse5, mergeData } = require("./parseUtility.js");
-module.exports = (data) =>
-{
+module.exports = (data) => {
     let responseNames = [];
 
     //Get the respondent/defendant name between number
@@ -11,37 +10,38 @@ module.exports = (data) =>
             //2004-2005 case files
             item: [
                 {
-                    pattern:/^(First |Second |Third |Fourth |Intended )?(Appellants?|Applicants?|Plaintiffs?)\s*([a-zA-Z0-9\u00C0-\u02AB\s'\(\),\/.]*)?\s*(AND)\s*(-)?\s*([a-zA-Z0-9\u00C0-\u02AB\s'\(\),\/.]*)\s*(First |Intended)\s*(Respondents?|Defendants?)/mi,
-                    patternResultIndex : 6
+                    pattern: /^(First |Second |Third |Fourth |Intended )?(Appellants?|Applicants?|Plaintiffs?)\s*([a-zA-Z0-9\u00C0-\u02AB\s'\(\),\/.]*)?\s*(AND)\s*(-)?\s*([a-zA-Z0-9\u00C0-\u02AB\s'\(\),\/.]*)\s*(First |Intended)\s*(Respondents?|Defendants?)/mi,
+                    patternResultIndex: 6
                 },
                 {
-                    pattern:/^(First |Second |Third |Fourth )?(Appellants?|Applicants?|Plaintiffs?)\s*([a-zA-Z0-9\u00C0-\u02AB\s'\(\),\/.\&\-]*)?\s*(AND)\s*(-)?\s*([a-zA-Z0-9\u00C0-\u02AB\s'\(\),\/.]*)\s*(Respondents?|Defendants?)/mi,
-                    patternResultIndex : 6
+                    pattern: /^(First |Second |Third |Fourth )?(Appellants?|Applicants?|Plaintiffs?)\s*([a-zA-Z0-9\u00C0-\u02AB\s'\(\),\/.\&\-:]*)?\s*(AND)\s*(-)?\s*([a-zA-Z0-9\u00C0-\u02AB\s'\(\),\/.]*)\s*(Respondents?|Defendants?|Respondenf)/mi,
+                    patternResultIndex: 6
                 },
                 {
-                    pattern:/^(First |Second |Third |Fourth )?(Appellants?|Applicants?|Plaintiffs?)\s*([a-zA-Z0-9\u00C0-\u02AB\s'\(\),\/.]*)?\s*(AND)\s*(-)?\s*([a-zA-Z0-9\u00C0-\u02AB\s'\(\),\/.]*)\s*(Respondents?|Defendants?)/mi,
-                    patternResultIndex : 6
+                    pattern: /^(First |Second |Third |Fourth )?(Appellants?|Applicants?|Plaintiffs?)\s*([a-zA-Z0-9\u00C0-\u02AB\s'\(\),\/.]*)?\s*(AND)\s*(-)?\s*([a-zA-Z0-9\u00C0-\u02AB\s'\(\),\/.]*)\s*(Respondents?|Defendants?)/mi,
+                    patternResultIndex: 6
                 }
             ]
         },
         {
             item: [
                 {
-                    pattern:/^(First )?(Respondents?|Defendants?)\s*(AND)?\s*([a-zA-Z0-9\u00C0-\u02AB\s'\(\),]*)\s*(Second)\s*(Respondents?|Defendants?)/mi,
-                    patternResultIndex : 4
+                    pattern: /^(First )?(Respondents?|Defendants?)\s*(AND)?\s*([a-zA-Z0-9\u00C0-\u02AB\s'\(\),]*)\s*(Second)\s*(Respondents?|Defendants?)/mi,
+                    patternResultIndex: 4
                 }
             ]
         },
         {
             item: [
                 {
-                    pattern:/v\s{5,7}([\w\W]*)/m,
-                    patternResultIndex : 1
+                    pattern: /v\s{5,7}([\w\W]*)/m,
+                    patternResultIndex: 1
                 }
             ]
         }
     ];
     let result1 = parse5(data, responsePattern1);
+    // console.log('result1', result1, responsePattern1[responsePattern1.length - 1])
     mergeData(responseNames, result1);
 
     // //Get the respondent/defendant name between number

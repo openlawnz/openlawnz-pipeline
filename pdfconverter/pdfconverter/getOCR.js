@@ -1,7 +1,10 @@
 'use strict';
 
 const fetch = require('node-fetch');
-const AWS = require("aws-sdk");
+
+const AWSXRay = require('aws-xray-sdk-core')
+const AWS = AWSXRay.captureAWS(require('aws-sdk'))
+
 const s3 = new AWS.S3();
 
 let subscriptionKey = process.env.AZURE_SUBSCRIPTION_KEY;
@@ -42,23 +45,23 @@ const checkResult = async(url, options) => {
 
 };
 
-const checkResponse = async (fileUrl) => {
-    
+const checkResponse = async(pdfURL) => {
+
     const delayAmount = 1000 + (Math.floor(Math.random() * 5000));
-    
-    console.log('check reponse', delayAmount, fileUrl);
-    
+
+    console.log('check reponse', delayAmount, pdfURL);
+
     await delay(delayAmount);
-    
+
     const response = await fetch(sendEndpoint, {
-        body: JSON.stringify({ url: fileUrl }),
+        body: JSON.stringify({ url: pdfURL }),
         method: 'post',
         headers: {
             'Content-Type': 'application/json',
             'Ocp-Apim-Subscription-Key': subscriptionKey
         }
     })
-    
+
     console.log(response);
     console.log(response.headers);
     if (response.status === 202) {
@@ -66,90 +69,101 @@ const checkResponse = async (fileUrl) => {
     }
     else {
         console.log("Too many requests");
-        return await checkResponse(fileUrl);
+        return await checkResponse(pdfURL);
     }
-    
+
 }
 
-module.exports = async(fileUrl, jsonData) => {
-    
+module.exports = async(pdfURL, jsonData) => {
+
+    if (pdfURL.indexOf('govt.nz') !== -1 || pdfURL.indexOf('nzlii.org') !== -1) {
+        console.error("Cannot use NZ Govt or NZlii URLs");
+        return;
+    }
+
     try {
-    
+
         let pages;
-    
+
         let exists = false;
         // Check if it exists in S3 first
         try {
-    
+
             await s3.headObject({
-                Bucket: process.env.OCR_BUCKET,
+                Bucket: jsonData.caseMeta.buckets.BUCKET_OCR,
                 Key: jsonData.fileKey
             }).promise();
-    
+
             exists = true;
-    
+
         }
         catch (ex) {}
-    
-    
+
+
         if (exists) {
             // file exists
             console.log("OCR Already exists");
-    
-            pages = await getJSONFile(process.env.OCR_BUCKET, jsonData.fileKey)
-    
+
+            pages = await getJSONFile(jsonData.caseMeta.buckets.BUCKET_OCR, jsonData.fileKey)
+
         }
-    
+
         else {
-    
+
             console.log("OCR doesn't exist, get it from Azure");
-    
-            const response = await checkResponse(fileUrl);
-            
+
+            const response = await checkResponse(pdfURL);
+
             let headersArr = response.headers.get('operation-location').split('/');
-    
+
             const operationID = headersArr[headersArr.length - 1];
-    
+
             let resultURL = resultEndpoint + "/" + operationID;
-            
+
             console.log("result url: " + resultURL);
-    
+
             pages = await checkResult(resultURL, {
                 headers: {
                     'Content-Type': 'application/json',
                     'Ocp-Apim-Subscription-Key': subscriptionKey
                 }
             });
-    
+
             // write result to s3
             await s3
                 .putObject({
                     Body: JSON.stringify(pages),
-                    Bucket: process.env.OCR_BUCKET,
+                    Bucket: jsonData.caseMeta.buckets.BUCKET_OCR,
                     Key: jsonData.fileKey,
                     ContentType: 'application/json'
                 })
                 .promise();
-             
+
         };
-    
+
         let caseText = "";
-    
+
         for (let pageIndex in pages) {
-    
+
             const page = pages[pageIndex]
-    
+
             for (let lineIndex in page.lines) {
                 const line = page.lines[lineIndex];
-    
+
                 caseText += line.text + "\n";
             }
-    
+
         }
-    
+
+        // No footnote parsing, so invalid
+
+        jsonData.isValid = false;
         jsonData.caseText = caseText;
-        
-    } catch(ex) {
+        jsonData.footnoteContexts = [];
+        jsonData.footnotes = [];
+
+    }
+    catch (ex) {
         console.log('Operation failed');
         console.log(ex);
     }

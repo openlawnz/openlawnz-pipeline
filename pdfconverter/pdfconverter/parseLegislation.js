@@ -2,13 +2,13 @@
  Helpers
 ------------------------------*/
 // If legisation name has special characters in it
-RegExp.escape = function(s) {
+RegExp.escape = function (s) {
     return s.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&');
 };
 
-String.prototype.matchAll = function(regexp) {
+String.prototype.matchAll = function (regexp) {
     var matches = [];
-    this.replace(regexp, function() {
+    this.replace(regexp, function () {
         var arr = [].slice.call(arguments, 0);
         var extras = arr.splice(-2);
         arr.index = extras[0];
@@ -398,8 +398,8 @@ const processCase = (legalCase, legislations) => {
     });
 
     let case_text = legalCase.caseText;
-    const footnotes = legalCase.footnoteContexts;
-    const footnoteContexts = legalCase.footnotes;
+    const footnotes = legalCase.footnotes;
+    const footnoteContexts = legalCase.footnoteContexts;
 
     if (footnotes.length && legalCase.isValid) {
         // Remove footnotes from case
@@ -457,7 +457,7 @@ const processCase = (legalCase, legislations) => {
             extractionConfidence = 2;
         }
         catch (ex) {
-            console.log(JSON.stringify(legalCase, null, 4) + '\n' + ex, false, 'footnoteserror-' + legalCase.id);
+            console.error(JSON.stringify(legalCase, null, 4) + '\n' + ex, false, 'footnoteserror-' + legalCase.id);
         }
     }
 
@@ -470,27 +470,23 @@ const processCase = (legalCase, legislations) => {
             legislationReference.groupedSections = {};
             legislationReference.sections = legislationReference.sections
                 .map((section) => {
+                    section = section.toLowerCase();
                     if (section.endsWith('))')) {
                         section = section.substring(0, section.length - 1);
                     }
+
                     section = section.split('.')[0];
                     return section
+                        // get rid of bad characters
                         .replace(/(~|`|!|@|#|$|%|^|&|\*|{|}|\[|\]|;|:|"|'|<|,|>|\?|\/|\\|\||-|_|\+|=)/g, '')
                         .replace(/(s|s\s+)(\d+)/gi, '$2');
                 })
+                .filter(section => {
+                    // only return valid sections
+                    return section.match(/^\w{0,3}\d\w{0,3}(\(\d+\))?(\(\w\))?$/)
+                })
                 .forEach((section) => {
-                    const [full, mainSection, subSection] = new RegExp(/(\d+)(\(.*\))/gi).exec(section) || [];
 
-                    // if (mainSection) {
-                    // 	if (!legislationReference.groupedSections[mainSection]) {
-                    // 		legislationReference.groupedSections[mainSection] = {
-                    // 			id: mainSection,
-                    // 			count: 0
-                    // 		};
-                    // 	}
-
-                    // 	legislationReference.groupedSections[mainSection].count++;
-                    // }
 
                     if (!legislationReference.groupedSections[section]) {
                         legislationReference.groupedSections[section] = {
@@ -520,7 +516,7 @@ module.exports = (legislation, jsonData) => {
 
         jsonData.legislationReferences = {
             extractionConfidence,
-            ...(jsonData.fileKey ? {caseId: jsonData.fileKey } : null),
+            ...(jsonData.fileKey ? { caseId: jsonData.fileKey } : null),
             legislationReferences: legislationReferences.map(l => ({
                 legislationId: l.id,
                 groupedSections: l.groupedSections
@@ -528,7 +524,7 @@ module.exports = (legislation, jsonData) => {
         }
 
     }
-    
+
     return jsonData;
 
 

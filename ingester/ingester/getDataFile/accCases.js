@@ -20,17 +20,24 @@ const getJSONFile = async(bucket, key) => {
 
 module.exports = async() => {
 
+	/*
+	{
+		"file_provider": "",
+		"file_key_nzlii": "",
+		"file_key_openlaw": "",
+		"file_key_acc": "/2001/1-2001",
+		"case_name": "",
+		"case_date": "",
+		"citations": [],
+		"url": ""
+	},
 
-	// acc input will be json file (s3? local?)
+	*/
 
-	// files in s3 bucket in format integer-year.pdf
-	// some files in format "integer-year [appellant].pdf" 
-	// therefore before s3 request to get the pdf file, need to use:
-	// ObjectListing objectListing = s3Client.listObjects(bucketName, "integer-year");
 	try {
 		let allCases = [];
 
-		const startYear = 1993;
+		const startYear = 1993; // 1993
 		const endYear = 2019;
 
 		const allYears = [];
@@ -40,12 +47,11 @@ module.exports = async() => {
 
 		allCases = await Promise.all(allYears.map(async y => {
 
-			return getJSONFile(process.env.ACC_BUCKET, y + ".json");
+			return getJSONFile(process.env.BUCKET_ACC, y + ".json");
 
 		}));
 
-
-		allCases = await Promise.all(allCases.flat().map(async accItem => {
+		allCases = await Promise.all(allCases.flat().map(accItem => {
 
 			const accKey = accItem.file_key_acc.substring(6);
 
@@ -53,7 +59,13 @@ module.exports = async() => {
 
 				fileProvider: "acc",
 				fileKey: accItem.file_key_openlaw,
-				fileUrl: process.env.ACC_URL + accKey + ".pdf",
+				fileUrl: '',
+				meta: {
+					s3Cache: {
+						bucket: process.env.BUCKET_ACC_CACHE,
+						objectKey: accKey + ".pdf"
+					}
+				},
 				caseNames: [accItem.case_name],
 				caseDate: accItem.case_date,
 				caseCitations: accItem.citations,
@@ -64,7 +76,7 @@ module.exports = async() => {
 		}));
 
 
-		return allCases;
+		return allCases
 
 	}
 

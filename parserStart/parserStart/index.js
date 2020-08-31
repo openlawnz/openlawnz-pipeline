@@ -1,4 +1,6 @@
-const AWS = require("aws-sdk");
+const AWSXRay = require('aws-xray-sdk-core')
+const AWS = AWSXRay.captureAWS(require('aws-sdk'))
+
 const sqs = new AWS.SQS();
 const AthenaExpress = require("athena-express");
 
@@ -6,20 +8,29 @@ const athenaExpressConfig = { aws: AWS }; //configuring athena-express with aws 
 const athenaExpress = new AthenaExpress(athenaExpressConfig);
 
 let athenaResult;
+let lastAthenaTable;
 
-exports.handler = async(event, context) => {
+exports.handler = async(event) => {
 
-    if (!athenaResult) {
-        athenaResult = await athenaExpress.query(`SELECT * FROM ${process.env.ATHENA_CASES_TABLE}`);
+    const environment = event.Input.environment;
+    const athenaTable = event.Input.athenaTable;
+    const parserAthenaTable = event.Input.parserAthenaTable;
+
+    if (!environment) {
+        console.log("No environment passed in");
+        return;
     }
+
+    // Object should be the same between athena tables
+    if (!athenaResult || athenaTable !== lastAthenaTable) {
+        athenaResult = await athenaExpress.query(`SELECT * FROM ${athenaTable}${environment}`);
+    }
+    lastAthenaTable = athenaTable;
     const total = athenaResult.Items.length;
 
     // Gets token from SQS to pass onto each function
     const taskToken = event.TaskToken;
     const sqsQueueUrl = event.Input.sqsQueueUrl;
-
-    console.log(athenaResult.Items.length, " items");
-
 
     let batches = [];
     let currentBatch = [];
@@ -28,6 +39,11 @@ exports.handler = async(event, context) => {
 
         const payload = {
             caseFileKey: item.filekey,
+            casePermanentStorageBucket: `${process.env.BUCKET_PERMANENT_JSON}-${environment}`,
+            parserAthenaTable,
+            runKey: item.runkey,
+            environment,
+            output: JSON.stringify({ environment: event.Input.environment })
         }
 
         if (i == total - 1) {
@@ -53,11 +69,11 @@ exports.handler = async(event, context) => {
 
 
     });
-    
-    if(currentBatch.length > 0) {
-    
+
+    if (currentBatch.length > 0) {
+
         batches.push(currentBatch);
-        
+
     }
 
     console.log("Total batches " + batches.length);
@@ -75,11 +91,10 @@ exports.handler = async(event, context) => {
             }
         }));
 
-        console.log("Waiting 10 seconds")
-        // Wait 10 seconds
+        console.log("Waiting 1 second")
         await new Promise((resolve, reject) => {
-            // wait for 50 ms.
-            setTimeout(function() { resolve() }, 1000);
+
+            setTimeout(function () { resolve() }, 1000);
 
         });
 

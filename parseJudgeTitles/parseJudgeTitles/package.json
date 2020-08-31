@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "openlawnz-common": "git+https://github.com/openlawnz/openlawnz-common.git"
+    "openlawnz-common": "git+https://github.com/openlawnz/openlawnz-common.git",
+    "aws-xray-sdk-core": "1.1.2"
   }
 }

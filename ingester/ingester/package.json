@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "download": "^8.0.0",
-    "uuid": "^8.0.0"
+    "athena-express": "^6.0.3",
+    "aws-xray-sdk-core": "^1.1.2",
+    "download": "^8.0.0"
   }
 }

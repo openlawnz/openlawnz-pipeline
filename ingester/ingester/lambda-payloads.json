@@ -1,7 +1,0 @@
-{
-    "ingester": {
-        "lambda": {
-            "CMD": "getACC"
-        }
-    }
-}

@@ -6,6 +6,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws-xray-sdk-core": "^3.1.0",
     "fuse.js": "^6.2.1",
     "node-fetch": "^2.6.0",
     "openlawnz-common": "git+https://github.com/openlawnz/openlawnz-common.git",

@@ -2,6 +2,7 @@ const makeFriendly = (str) => {
     return str.replace(/\s+/g, '-').toLowerCase();
 }
 
+// TODO: add to step function?
 
 module.exports = (jsonData) => {
 
