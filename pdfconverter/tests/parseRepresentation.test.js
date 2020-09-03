@@ -77,7 +77,7 @@ describe(cases.case4, () => {
 
     const caseText = fs.readFileSync(`./parseRepresentation/caseTexts/${cases.case4}.txt`).toString();
 
-    it('Case 4 - Returns 1 appellant and 2 respondents - first case in multi case only', async() => {
+    it('Case 4 - Returns 1 appellant and 1 respondent, two appearances for each', async() => {
 
         const result = parseRepresentation({
             caseText
@@ -87,18 +87,21 @@ describe(cases.case4, () => {
         expect(initiation.names).toEqual(["SUMIT KUMAR"]);
         expect(response.names).toEqual(['NEW ZEALAND POLICE']);
         expect(initiation.appearance).toEqual(['J A Kincade', 'A Shendi'])
+        // alternatively "J A Kincade and A Shendi"
         expect(response.appearance).toEqual(['R M A McCoubrey', 'A C L Palmer'])
+        // alternatively "R M A McCoubrey and A C L Palmer"
 
     });
 
 });
 
-/*
+
 describe(cases.case5, () => {
 
     const caseText = fs.readFileSync(`./parseRepresentation/caseTexts/${cases.case5}.txt`).toString();
 
     it('Case 5 - Returns appellants and respondents in multi case decision (ignore representation)', async() => {
+        // This case is one judgment issued in multiple cases so has multiple "Appellant" without "First", "Second" etc
 
         const result = parseRepresentation({
             caseText
@@ -106,9 +109,12 @@ describe(cases.case5, () => {
         const { initiation, response } = result;
 
         // nb this proceeding is a combined proceeding with multiple cases being dealt with in one judgment - it is ok to get the first initiaion and response parties only
-        expect(initiation.names).toEqual(['MINGBO FANG', 'THE CHIEF EXECUTIVE OF THE MINISTRY OF BUSINESS, INNOVATION AND EMPLOYMENT', 'MINISTRY OF BUSINESS, INNOVATION AND EMPLOYMENT']);
+        expect(initiation.names).toEqual(['MINGBO FANG','THE CHIEF EXECUTIVE OF THE MINISTRY OF BUSINESS, INNOVATION AND EMPLOYMENT', 'MINISTRY OF BUSINESS, INNOVATION AND EMPLOYMENT'])
         expect(response.names).toEqual(['THE MINISTRY OF BUSINESS, INNOVATION AND EMPLOYMENT', 'DEFANG DONG ', 'ZHIWEI LI']);
-        // representation can be blank - although there is representation noted in the case, it is not noted as "for Respondent" or "for Appellant" etc so no way to tell. Parser does not need to find D Zhang or S M Kilian.
+        
+        // appearances are not referred to by their party type, so they should be ignored
+        expect(initiation.appearance).toBeNull;
+        expect(response.appearance).toBeNull;
 
     });
 
@@ -125,13 +131,11 @@ describe(cases.case6, () => {
         });
         const { initiation, response } = result;
 
-        // nb this proceeding is a combined proceeding with multiple cases being dealt with in one judgment - it is ok to get the first initiaion and response parties only
         expect(initiation.names).toEqual(['TAHI ENTERPRISES LIMITED', 'DIANNE LEE']);
         expect(response.names).toEqual(['TE WARENA TAUA AND MIRIAMA TAMAARIKI as executors of the Estate of Hariata Arapo Ewe', 'TE WARENA TAUA, GEORGE HORI WINIKEREI TAUA, NGARAMA WALKER, HAMUERA TAUA and MIRIAMA TAMAARIKI as trustees of the Te Kawerau Iwi Tribal Authority', 'TE WARENA TAUA, GEORGE HORI WINIKEREI TAUA, NGARAMA WALKER, HAMUERA TAUA and MIRIAMA TAMAARIKI as trustees of the Te Kawerau Iwi Settlement Trust']);
         expect(initiation.appearance).toEqual("M Heard and C Upton");
         expect(response.appearance).toEqual("J S Langston");
         // nb - in this case, "First respondents abide decision of the Court" - means no appearance, no representation. Ignore this and similar strings.
-        // If there WAS separate representation (eg if the text had J S Langston for Second and Third Respondents and John Smith for First respondents) then the response appearance should equal "JS Langston and John Smith" ie concatenate the two appearances into one string
     });
 
 });
@@ -194,8 +198,9 @@ describe(cases.case9, () => {
         expect(response.names).toEqual(['BRIAN ROBERT ELLIS', 'GERALD NORMAN WILLIAMS', 'JAMES NEIL BLACK ']);
         expect(initiation.appearance).toEqual("J K Boparoy");
         expect(response.appearance).toEqual("W C Pyke for First Defendant, G N Williams in person, J N Black in person");
+        // alternatively acceptable answer would be array items: expect(response.appearance).toEqual("W C Pyke for First Defendant", "G N Williams in person", "J N Black in person");
 
     });
 
 });
-*/
+
