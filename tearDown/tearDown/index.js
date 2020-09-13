@@ -7,28 +7,6 @@ const lambda = new AWS.Lambda();
 exports.handler = async(event) => {
 
     //const environment = event.Input.environment;
-    console.log('SQS Queues');
-
-    const sqsQueues = await sqs.listQueues({}).promise();
-    try {
-        for (let sqsQueue of sqsQueues.QueueUrls) {
-            await sqs.purgeQueue({
-                QueueUrl: sqsQueue
-            }).promise();
-
-        }
-    }
-    catch (ex) {
-        if (ex.code !== 'AWS.SimpleQueueService.PurgeQueueInProgress') {
-            console.log(ex)
-        }
-    }
-
-    console.log('Cloudwatch Event Rule');
-
-    await cloudwatchevents.disableRule({
-        Name: process.env.CLOUDWATCH_RULE_NAME
-    }).promise();
 
     // Lambdas
 
@@ -56,6 +34,31 @@ exports.handler = async(event) => {
         }
 
     }
+
+    console.log('SQS Queues');
+
+    const sqsQueues = await sqs.listQueues({}).promise();
+    try {
+        for (let sqsQueue of sqsQueues.QueueUrls) {
+            await sqs.purgeQueue({
+                QueueUrl: sqsQueue
+            }).promise();
+
+        }
+    }
+    catch (ex) {
+        if (ex.code !== 'AWS.SimpleQueueService.PurgeQueueInProgress') {
+            console.log(ex)
+        }
+    }
+
+    console.log('Cloudwatch Event Rule');
+
+    await cloudwatchevents.disableRule({
+        Name: process.env.CLOUDWATCH_RULE_NAME
+    }).promise();
+
+
 
     // Step functions
     if (event.IncludeStepFunctions) {

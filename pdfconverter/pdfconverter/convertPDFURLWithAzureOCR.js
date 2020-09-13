@@ -141,26 +141,7 @@ module.exports = async(pdfURL, jsonData) => {
 
         };
 
-        let caseText = "";
-
-        for (let pageIndex in pages) {
-
-            const page = pages[pageIndex]
-
-            for (let lineIndex in page.lines) {
-                const line = page.lines[lineIndex];
-
-                caseText += line.text + "\n";
-            }
-
-        }
-
-        // No footnote parsing, so invalid
-
-        jsonData.isValid = false;
-        jsonData.caseText = caseText;
-        jsonData.footnoteContexts = [];
-        jsonData.footnotes = [];
+        return pages;
 
     }
     catch (ex) {

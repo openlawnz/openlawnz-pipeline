@@ -3,3 +3,4 @@
 node_modules
 template.yaml
 .DS_Store
+.env

@@ -1,0 +1,21 @@
+{
+  "caseCitations": ["CA256/04"],
+  "fileProvider": "jdo",
+  "fileKey": "jdo_1116806400000_4b0d5546-345a-45c2-b641-fb3ed3fdf581.pdf",
+  "fileUrl": "https://forms.justice.govt.nz/search/Documents/pdf/jdo/ad/alfresco/service/api/node/content/workspace/SpacesStore/4b0d5546-345a-45c2-b641-fb3ed3fdf581/4b0d5546-345a-45c2-b641-fb3ed3fdf581.pdf",
+  "caseNames": [
+    "PAYNE V THE ATTORNEY-GENERAL ON BEHALF OF FAMILY COURT JUDGES MOSS, BISPHAN & ELLIS"
+  ],
+  "dateAccessed": "2019-06-01",
+  "caseDate": "2005-05-23",
+  "caseMeta": {
+    "environment": "dev",
+    "azureOCREnabled": false,
+    "baseMessageDelay": 10,
+    "buckets": {},
+    "runKey": "run1598517065633",
+    "existsInEnvPublicBucket": true
+  },
+  "runKey": "run1598517065633"
+
+}

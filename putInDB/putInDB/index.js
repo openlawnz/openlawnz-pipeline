@@ -40,6 +40,12 @@ let pool;
 
 exports.handler = async(event) => {
 
+    const records = event.Records.map(r => JSON.parse(r.body)).filter(r => r.eventName === "ObjectCreated:Put");
+
+    if (records.length === 0) {
+        return;
+    }
+
     try {
         if (!pool) {
 
@@ -63,11 +69,9 @@ exports.handler = async(event) => {
 
         // Receive the SQS record
 
-        await Promise.all(event.Records.map(async mainRecord => {
+        await Promise.all(records.map(async messageBody => {
 
             try {
-
-                const messageBody = JSON.parse(mainRecord.body);
 
                 const bucketName = messageBody.bucketName;
                 const objectKey = messageBody.objectKey;
@@ -257,7 +261,8 @@ exports.handler = async(event) => {
                     caseRecord.fileProvider,
                     caseRecord.fileKey,
                     caseRecord.fileUrl,
-                    caseRecord.pdfChecksum
+                    caseRecord.pdfChecksum,
+                    caseRecord.parsersVersion
                 ];
 
                     const caseValues = [
@@ -268,12 +273,11 @@ exports.handler = async(event) => {
                     caseRecord.caseDate,
                     caseRecord.caseText,
                     caseRecord.caseNames[0],
-                    caseRecord.footnotes,
-                    caseRecord.footnoteContexts,
                     caseRecord.isValid,
                     caseRecord.caseLocation,
                     caseRecord.conversionEngine,
-                    caseRecord.filingNumber
+                    caseRecord.filingNumber,
+                    caseRecord.parsersVersion
                 ]
 
                     const existsResult = await psql.query(`SELECT COUNT(*) FROM main.cases WHERE id = $1`, [caseRecord.fileKey]);
@@ -288,9 +292,10 @@ exports.handler = async(event) => {
                     					pdf_provider,
                     					pdf_db_key,
                     					pdf_url,
-                    					pdf_checksum
+                    					pdf_checksum,
+                    					parsers_version
                     					)
-                    				VALUES ($1, $2, $3, $4, $5, $6) ON CONFLICT DO NOTHING`, casePDFsValues);
+                    				VALUES ($1, $2, $3, $4, $5, $6, $7) ON CONFLICT DO NOTHING`, casePDFsValues);
                         }
                         catch (ex) {
                             console.error("Error writing case pdf records " + ex);
@@ -308,13 +313,12 @@ exports.handler = async(event) => {
                     					case_date,
                     					case_text,
                     					case_name,
-                    					case_footnotes,
-                    					case_footnote_contexts,
                     					is_valid,
                     					location,
                     					conversion_engine,
-                    					court_filing_number)
-                    				VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13) ON CONFLICT DO NOTHING`, caseValues);
+                    					court_filing_number,
+                    					parsers_version)
+                    				VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12) ON CONFLICT DO NOTHING`, caseValues);
                         }
                         catch (ex) {
                             console.error("Error writing case record " + ex);
@@ -333,7 +337,8 @@ exports.handler = async(event) => {
                     					pdf_provider = $3,
                     					pdf_db_key = $4,
                     					pdf_url = $5,
-                    					pdf_checksum = $6
+                    					pdf_checksum = $6,
+                    					parsers_version = $7
                     				WHERE pdf_id = $1`, casePDFsValues);
                         }
                         catch (ex) {
@@ -352,12 +357,11 @@ exports.handler = async(event) => {
                     					case_date = $5,
                     					case_text = $6,
                     					case_name = $7,
-                    					case_footnotes = $8,
-                    					case_footnote_contexts = $9,
-                    					is_valid = $10,
-                    					location = $11,
-                    					conversion_engine = $12,
-                    					court_filing_number = $13
+                    					is_valid = $8,
+                    					location = $9,
+                    					conversion_engine = $10,
+                    					court_filing_number = $11,
+                    					parsers_version = $12
                     				WHERE id = $1`, caseValues);
                         }
                         catch (ex) {
@@ -380,23 +384,25 @@ exports.handler = async(event) => {
                         await psql.query(`DELETE FROM main.party_and_representative_to_cases WHERE case_id = $1`, [caseRecord.fileKey]);
 
                         const representationRecord = await psql.query(`
-    						INSERT INTO main.party_and_representative_to_cases (case_id, names, party_type, appearance)
-    						VALUES ($1, $2, $3, $4) ON CONFLICT DO NOTHING`, [
+    						INSERT INTO main.party_and_representative_to_cases (case_id, names, party_type, appearance, parsers_version)
+    						VALUES ($1, $2, $3, $4, $5) ON CONFLICT DO NOTHING`, [
                         caseRecord.fileKey,
                         caseRecord.representation.initiation.names,
                         caseRecord.representation.initiation.party_type,
                         caseRecord.representation.initiation.appearance,
+                        caseRecord.parsersVersion
                     ]);
 
                         if (representationRecord.response) {
 
                             await psql.query(`
-    						INSERT INTO main.party_and_representative_to_cases (case_id, names, party_type, appearance)
-    						VALUES ($1, $2, $3, $4) ON CONFLICT DO NOTHING`, [
+    						INSERT INTO main.party_and_representative_to_cases (case_id, names, party_type, appearance, parsers_version)
+    						VALUES ($1, $2, $3, $4, $5) ON CONFLICT DO NOTHING`, [
                             caseRecord.fileKey,
                             caseRecord.representation.response.names,
                             caseRecord.representation.response.party_type,
                             caseRecord.representation.response.appearance,
+                            caseRecord.parsersVersion
                         ]);
                         }
 
@@ -423,11 +429,12 @@ exports.handler = async(event) => {
                             // Write to DB
 
                             await psql.query(`
-    						INSERT INTO main.judge_to_cases (title_id, name, case_id)
-    						VALUES ($1, $2, $3) ON CONFLICT DO NOTHING`, [
+    						INSERT INTO main.judge_to_cases (title_id, name, case_id, parsers_version)
+    						VALUES ($1, $2, $3, $4) ON CONFLICT DO NOTHING`, [
                             judge.title_id,
                             judge.name,
-                            caseRecord.fileKey
+                            caseRecord.fileKey,
+                            caseRecord.parsersVersion
                         ]);
 
 
@@ -483,9 +490,9 @@ exports.handler = async(event) => {
 
                         // Loop
 
-                        if (caseRecord.legislationReferences) {
+                        if (caseRecord.legislation) {
 
-                            const lrefs = caseRecord.legislationReferences.legislationReferences;
+                            const lrefs = caseRecord.legislation.legislationReferences;
 
                             for (let k = 0; k < lrefs.length; k++) {
 
@@ -498,13 +505,14 @@ exports.handler = async(event) => {
                                     const groupedSection = groupedSections[groupedSectionKey];
 
                                     await psql.query(`
-            						INSERT INTO main.legislation_to_cases (legislation_id, extraction_confidence, section, case_id, count)
-            						VALUES ($1, $2, $3, $4, $5) ON CONFLICT DO NOTHING`, [
+            						INSERT INTO main.legislation_to_cases (legislation_id, extraction_confidence, section, case_id, count, parsers_version)
+            						VALUES ($1, $2, $3, $4, $5, $6) ON CONFLICT DO NOTHING`, [
             						legislationReference.legislationId,
-            						caseRecord.legislationReferences.extractionConfidence,
+            						caseRecord.legislation.extractionConfidence,
                                     groupedSection.id,
                                     caseRecord.fileKey,
-                                    groupedSection.count
+                                    groupedSection.count,
+                                    caseRecord.parsersVersion
                                 ]);
 
                                 }
@@ -527,7 +535,10 @@ exports.handler = async(event) => {
 
                             await s3
                                 .putObject({
-                                    Body: JSON.stringify(c),
+                                    Body: JSON.stringify({
+                                        ...c,
+                                        parsersVersion: caseRecord.parsersVersion
+                                    }),
                                     Bucket: caseRecord.caseMeta.buckets.BUCKET_PERMANENT_JSON_WITH_ENV,
                                     Key: 'citations/' + c.id + ".json",
                                     ContentType: 'application/json'
@@ -588,12 +599,13 @@ exports.handler = async(event) => {
                         // Write to DB
 
                         await psql.query(`
-    						INSERT INTO main.case_citations (case_id, citation, id, year)
-    						VALUES ($1, $2, $3, $4) ON CONFLICT DO NOTHING`, [
+    						INSERT INTO main.case_citations (case_id, citation, id, year, parsers_version)
+    						VALUES ($1, $2, $3, $4, $5) ON CONFLICT DO NOTHING`, [
                         citationRecord.fileKey,
                         citationRecord.citation,
                         citationRecord.id,
-                        citationRecord.year
+                        citationRecord.year,
+                        citationRecord.parsersVersion
                     ]);
                     }
                     catch (ex) {
@@ -639,11 +651,12 @@ exports.handler = async(event) => {
                         for (let x = 0; x < casesCitedRecord.case_cites.length; x++) {
 
                             await psql.query(`
-        						INSERT INTO main.cases_cited (case_origin, case_cited, citation_count)
-        						VALUES ($1, $2, $3) ON CONFLICT DO NOTHING`, [
+        						INSERT INTO main.cases_cited (case_origin, case_cited, citation_count, parsers_version)
+        						VALUES ($1, $2, $3, $4) ON CONFLICT DO NOTHING`, [
                             casesCitedRecord.case_origin,
                             casesCitedRecord.case_cites[x].fileKey,
-                            casesCitedRecord.case_cites[x].count
+                            casesCitedRecord.case_cites[x].count,
+                            casesCitedRecord.parsersVersion
                         ]);
 
                         }

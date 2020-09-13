@@ -13,6 +13,7 @@ exports.handler = async(event) => {
             MessageBody: JSON.stringify({
                 bucketName: record.s3.bucket.name,
                 objectKey: record.s3.object.key,
+                eventName: record.eventName
             }),
             QueueUrl: sqsQueueUrl
         };

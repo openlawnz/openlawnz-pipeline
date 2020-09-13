@@ -1,16 +1,18 @@
 {
-  "name": "tests",
+  "name": "@openlawnz/openlawnz-pipeline-pdfconverter-tests",
   "version": "1.0.0",
   "description": "",
+  "private": true,
   "scripts": {
     "test": "jest"
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "jest": "^26.0.1"
-  },
   "dependencies": {
-    "openlawnz-common": "git+https://github.com/openlawnz/openlawnz-common.git"
+    "@openlawnz/openlawnz-parsers": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "dotenv": "^8.2.0"
   }
 }

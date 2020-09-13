@@ -569,13 +569,12 @@ exports.handler = async(event) => {
       throw new Error("Must be called with Step Function");
     }
 
+    const TASK_TOKEN = event.TaskToken;
 
     DRY_RUN = event.Input.DRY_RUN;
     const SAFETY_HASH = event.Input.SAFETY_HASH;
-
     const CMD = event.Input.CMD;
-    const MODE = event.Mode; // auto | manual
-    const TASK_TOKEN = event.TaskToken;
+    const MODE = event.Input.MODE; // auto | manual
     const ENVIRONMENT = event.Input.ENVIRONMENT;
     const INGEST_ONLY = event.Input.INGEST_ONLY;
     const DATALOCATION = event.Input.DATALOCATION;
@@ -598,6 +597,12 @@ exports.handler = async(event) => {
 
     if (ENVIRONMENT == "prod") {
 
+      if (!SAFETY_HASH) {
+        console.log("Missing SAFETY_HASH.");
+
+        return;
+      }
+
       if (MODE === 'auto') {
 
         if (SAFETY_HASH !== process.env.AUTO_MODE_START_HASH) {
@@ -611,9 +616,9 @@ exports.handler = async(event) => {
       }
       else {
 
-        if (!SAFETY_HASH || (SAFETY_HASH && !validateHash(SAFETY_HASH))) {
+        if (!validateHash(SAFETY_HASH)) {
 
-          console.log("Missing/invalid manual SAFETY_HASH. Here's a new one:");
+          console.log("Invalid manual SAFETY_HASH. Here's a new one:");
           console.log(generateHash());
 
           return;
@@ -661,84 +666,84 @@ exports.handler = async(event) => {
     }
 
 
-    //
+    // TODO: Look into retaining original
     if (CMD === "rerunCases") {
 
-      console.log("Re-run all cases");
+      // console.log("Re-run all cases");
 
-      let casesToProcessWithAzureOCR = [];
-      let casesToProcess = [];
+      // let casesToProcessWithAzureOCR = [];
+      // let casesToProcess = [];
 
-      let cases = await athenaExpress.query(`SELECT * FROM ${process.env.ATHENA_CASES_RERUN_TABLE}${ENVIRONMENT};`);
+      // let cases = await athenaExpress.query(`SELECT * FROM ${process.env.ATHENA_CASES_RERUN_TABLE}${ENVIRONMENT};`);
 
-      //Athena only works with all lowercase
+      // //Athena only works with all lowercase
 
-      cases.Items = cases.Items.slice(0, DATASLICE);
+      // cases.Items = cases.Items.slice(0, DATASLICE);
 
-      cases.Items.forEach(c => {
+      // cases.Items.forEach(c => {
 
-        const caseMeta = JSON.parse(c.casemeta);
-        const caseCitations = JSON.parse(c.casecitations);
-        const caseNames = JSON.parse(c.casenames);
+      //   const caseMeta = JSON.parse(c.casemeta);
+      //   const caseCitations = JSON.parse(c.casecitations);
+      //   const caseNames = JSON.parse(c.casenames);
 
-        const caseToProcess = {
-          fileProvider: c.fileprovider,
-          fileKey: c.filekey,
-          fileUrl: c.fileurl,
-          caseDate: c.casedate,
-          caseNames: caseNames,
-          //dateAccessed: c.dateaccessed,
-          caseCitations: caseCitations.map(c => c.citation),
-          meta: {
-            s3Cache: {
-              bucket: caseMeta.s3cache.bucket,
-              objectKey: caseMeta.s3cache.objectkey,
-            }
-          }
-        };
+      //   const caseToProcess = {
+      //     fileProvider: c.fileprovider,
+      //     fileKey: c.filekey,
+      //     fileUrl: c.fileurl,
+      //     caseDate: c.casedate,
+      //     caseNames: caseNames,
+      //     //dateAccessed: c.dateaccessed,
+      //     caseCitations: caseCitations.map(c => c.citation),
+      //     meta: {
+      //       s3Cache: {
+      //         bucket: caseMeta.s3cache.bucket,
+      //         objectKey: caseMeta.s3cache.objectkey,
+      //       }
+      //     }
+      //   };
 
-        if (caseMeta.azureocrenabled) {
-          casesToProcessWithAzureOCR.push(caseToProcess);
-        }
-        else {
-          casesToProcess.push(caseToProcess);
-        }
+      //   if (caseMeta.azureocrenabled) {
+      //     casesToProcessWithAzureOCR.push(caseToProcess);
+      //   }
+      //   else {
+      //     casesToProcess.push(caseToProcess);
+      //   }
 
-      });
+      // });
 
 
-      const processItems = [];
+      // const processItems = [];
 
-      if (casesToProcessWithAzureOCR.length > 0) {
+      // if (casesToProcessWithAzureOCR.length > 0) {
 
-        console.log('casesToProcessWithAzureOCR', casesToProcessWithAzureOCR.length)
+      //   console.log('casesToProcessWithAzureOCR', casesToProcessWithAzureOCR.length)
 
-        processItems.push(processCases({
-          environment: ENVIRONMENT,
-          cases: casesToProcessWithAzureOCR,
-          ingestOnly: INGEST_ONLY,
-          taskToken: TASK_TOKEN,
-          azureOCREnabled: true
+      //   processItems.push(processCases({
+      //     environment: ENVIRONMENT,
+      //     cases: casesToProcessWithAzureOCR,
+      //     ingestOnly: INGEST_ONLY,
+      //     taskToken: TASK_TOKEN,
+      //     azureOCREnabled: true
 
-        }))
+      //   }))
 
-      }
+      // }
 
-      if (casesToProcess.length > 0) {
+      // if (casesToProcess.length > 0) {
 
-        console.log('casesToProcess', casesToProcess.length)
+      //   console.log('casesToProcess', casesToProcess.length)
 
-        processItems.push(processCases({
-          environment: ENVIRONMENT,
-          cases: casesToProcess,
-          ingestOnly: INGEST_ONLY,
-          taskToken: TASK_TOKEN,
-          baseMessageDelay: 10
+      //   processItems.push(processCases({
+      //     environment: ENVIRONMENT,
+      //     cases: casesToProcess,
+      //     ingestOnly: INGEST_ONLY,
+      //     taskToken: TASK_TOKEN,
+      //     baseMessageDelay: 10
 
-        }))
-      }
+      //   }))
+      // }
 
-      await Promise.all(processItems);
+      // await Promise.all(processItems);
 
     }
 
