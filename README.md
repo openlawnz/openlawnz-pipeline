@@ -7,23 +7,9 @@ This is the OpenLaw NZ data ingest and parser pipeline. Given a common JSON file
 - Triggers a cloudwatch rule to monitor whether an ingest is complete (ingesterWatcher)
 - On completion, stops the watcher and start step functions to carry out additional parsing which must be done sequentially (parseCaseCitations, parseCaseToCase)
 
-## Tests
-
-The OpenLaw NZ Data Pipeline includes a series of parsers that extract information from the PDF after it's been converted to text (either by OCR via Azure or by Mozilla's PDF.js).
-
-To run the tests you will need to:
-
-```cd pdfconverter/pdfconverter && npm install```
-
-and
-
-```cd pdfconverter/tests && npm install && npm run test```
-
-There is no need for any database setup - all the test data is included in the repository.
-
-Some of the tests will require legal knowledge, in which case please get in touch and we'll add you to our Slack channel to discuss.
-
 ## Structure
+
+![Pipeline Architecture](./docs/pipeline.png)
 
 Each subdirectory is designed to be set up as a serverless function on AWS Lambda.
 
